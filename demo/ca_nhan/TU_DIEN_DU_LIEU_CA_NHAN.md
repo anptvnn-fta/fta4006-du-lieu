@@ -52,8 +52,8 @@ Bản này **cố ý để bẩn**: có dòng trùng, có ô để trống, có 
 | `loai_khach_hang`, `chi_nhanh` | Loại khách hàng, chi nhánh mở sổ |
 | `so_tien_goc` | Số tiền gửi |
 | `ngay_mo_lan_dau` | Ngày mở sổ |
-| `ky_han_thang`, `ngay_dao_han` | Kỳ hạn, ngày đến hạn của kỳ đang chạy |
-| `tu_dong_tai_tuc` | Có tự động tái tục hay không |
+| `ky_han_thang`, `ngay_dao_han` | Kỳ hạn (tháng), ngày đến hạn của kỳ đang chạy tại ngày 31/12/2026. Một kỳ dài 30, 91, 182, 364, 729 ngày ứng với kỳ hạn 1, 3, 6, 12, 24 tháng |
+| `tu_dong_tai_tuc` | Có tự động tái tục hay không. Sổ đã qua ít nhất 1 lần đến hạn đều ghi "Có" |
 | `hinh_thuc_gui` | Gửi tại quầy hay trực tuyến |
 | `ky_thu` | Kỳ gửi thứ mấy của sổ |
 | `ngay_hieu_luc_ky_hien_tai` | Ngày bắt đầu kỳ gửi đang chạy |

@@ -58,7 +58,7 @@ HSCN00056,KH000085,2026-11-30,Vay sản xuất kinh doanh,Mua hàng hóa kinh do
 HSCN00057,KH000086,2026-12-20,Vay sản xuất kinh doanh,Bổ sung vốn kinh doanh hộ gia đình,530000000.0,36,11.41,44400000.0,0.0,Lương qua FTA
 HSCN00058,KH000087,2026-12-19,Vay cầm cố sổ tiết kiệm,Nhu cầu tiêu dùng ngắn hạn,145000000.0,3,6.39,8800000.0,0.0,Chưa xác minh
 HSCN00059,KH000091,2026-11-24,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,275000000.0,60,9.54,50300000.0,0.0,Lương qua FTA
-HSCN00060,KH000092,2026-11-24,Vay cầm cố sổ tiết kiệm,Bổ sung vốn kinh doanh ngắn hạn,84000000.0,12,6.06,22600000.0,8400000.0,Lương qua FTA và sao kê ngân hàng khác
+HSCN00060,KH000092,2026-12-05,Vay cầm cố sổ tiết kiệm,Bổ sung vốn kinh doanh ngắn hạn,84000000.0,12,6.06,22600000.0,8400000.0,Lương qua FTA và sao kê ngân hàng khác
 HSCN00061,KH000093,2026-12-20,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,36,19.6,17400000.0,16600000.0,Sao kê ngân hàng khác
 HSCN00062,KH000094,2026-11-30,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,75000000.0,48,13.06,9000000.0,0.0,Lương qua FTA
 HSCN00063,KH000096,2026-12-28,Vay sản xuất kinh doanh,Bổ sung vốn kinh doanh hộ gia đình,250000000.0,12,10.0,32000000.0,0.0,Lương qua FTA
@@ -120,7 +120,7 @@ HSCN00118,KH000177,2026-12-24,Vay mua nhà,Mua căn hộ chung cư,470000000.0,1
 HSCN00119,KH000178,2026-12-05,Vay tiêu dùng tín chấp,Mua vàng miếng,55000000.0,24,15.35,9500000.0,0.0,Lương qua FTA
 HSCN00120,KH000180,2026-12-12,Vay mua nhà,Mua căn hộ chung cư,430000000.0,120,10.97,12300000.0,0.0,Lương qua FTA
 HSCN00121,KH000182,2026-12-26,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,105000000.0,36,13.37,32100000.0,0.0,Lương qua FTA
-HSCN00122,KH000183,2026-12-03,Vay cầm cố sổ tiết kiệm,Bổ sung vốn kinh doanh ngắn hạn,1341000000.0,12,6.82,112100000.0,11700000.0,Lương qua FTA và sao kê ngân hàng khác
+HSCN00122,KH000183,2026-12-24,Vay cầm cố sổ tiết kiệm,Bổ sung vốn kinh doanh ngắn hạn,1341000000.0,12,6.82,112100000.0,11700000.0,Lương qua FTA và sao kê ngân hàng khác
 HSCN00123,KH000184,2026-12-24,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,260000000.0,72,10.53,39000000.0,0.0,Lương qua FTA
 HSCN00124,KH000185,2026-12-24,Vay sản xuất kinh doanh,Mua máy móc phục vụ sản xuất,220000000.0,36,9.68,27000000.0,0.0,Lương qua FTA
 HSCN00125,KH000186,2026-12-21,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,30000000.0,48,16.58,13400000.0,0.0,Lương qua FTA
