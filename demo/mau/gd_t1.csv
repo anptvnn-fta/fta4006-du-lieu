@@ -1,0 +1,7 @@
+﻿ma_giao_dich,ngay_gio,ma_kh,kenh,loai_giao_dich,so_tien,trang_thai
+GD01,2026-01-05 09:00:00,KH01,Mobile Banking,Nhận lương,15,Thành công
+GD02,2026-01-08 19:30:00,KH01,POS,Thanh toán thẻ,3,Thành công
+GD03,2026-01-10 10:15:00,KH02,QR Code,Thanh toán hóa đơn,6,Thành công
+GD04,2026-01-15 14:20:00,KH03,QR Code,Thanh toán hóa đơn,2,Thành công
+GD05,2026-01-20 08:45:00,KH04,Internet Banking,Chuyển khoản đi,10,Thất bại
+GD06,2026-01-25 17:05:00,KH02,ATM,Rút tiền mặt,5,Thành công

@@ -21,23 +21,32 @@ demo/                                   bộ dữ liệu dùng trên lớp
 │   ├── danh_sach_canh_bao_ca_nhan.csv  danh sách cảnh báo
 │   ├── tai_san_bao_dam_ca_nhan.csv     tài sản bảo đảm
 │   └── lich_su_vay_ca_nhan.csv         lịch sử khoản vay, có kết quả trả nợ
-└── doanh_nghiep/                       khách hàng doanh nghiệp
-    ├── TU_DIEN_DU_LIEU_DN.md           từ điển dữ liệu
-    ├── doanh_nghiep_raw.csv            hồ sơ doanh nghiệp (chưa làm sạch)
-    ├── bctc_dn.csv                     báo cáo tài chính 2023–2025
-    ├── sao_ke_dn_thang.csv             sao kê theo tháng năm 2026
-    ├── quan_he_tin_dung_dn.csv         quan hệ tín dụng, thông tin CIC
-    ├── danh_sach_canh_bao_dn.csv       danh sách cảnh báo
-    ├── de_nghi_vay_dn.csv              hồ sơ đề nghị cấp hạn mức
-    ├── tai_san_bao_dam_dn.csv          tài sản bảo đảm
-    ├── lich_su_dn.csv                  lịch sử hồ sơ, có kết quả trả nợ
-    └── quy_dinh/nguong_cham_diem_dn.csv  bảng ngưỡng chấm điểm
+├── doanh_nghiep/                       khách hàng doanh nghiệp
+│   ├── TU_DIEN_DU_LIEU_DN.md           từ điển dữ liệu
+│   ├── doanh_nghiep_raw.csv            hồ sơ doanh nghiệp (chưa làm sạch)
+│   ├── bctc_dn.csv                     báo cáo tài chính 2023–2025
+│   ├── sao_ke_dn_thang.csv             sao kê theo tháng năm 2026
+│   ├── quan_he_tin_dung_dn.csv         quan hệ tín dụng, thông tin CIC
+│   ├── danh_sach_canh_bao_dn.csv       danh sách cảnh báo
+│   ├── de_nghi_vay_dn.csv              hồ sơ đề nghị cấp hạn mức
+│   ├── tai_san_bao_dam_dn.csv          tài sản bảo đảm
+│   ├── lich_su_dn.csv                  lịch sử hồ sơ, có kết quả trả nợ
+│   └── quy_dinh/nguong_cham_diem_dn.csv  bảng ngưỡng chấm điểm
+└── mau/                                bảng mẫu nhỏ cho ví dụ trên lớp
+    ├── kh_mau.csv                      7 khách hàng
+    ├── gd_t1.csv, gd_t2.csv            giao dịch tháng 1, tháng 2
+    ├── vay_mau.csv                     4 hợp đồng vay
+    ├── tk_mau.csv                      4 sổ tiền gửi
+    ├── dn_mau_ho_so.csv                hồ sơ 4 doanh nghiệp
+    ├── dn_mau_bctc.csv                 báo cáo tài chính 2024–2025 của 4 doanh nghiệp
+    └── diem_mau.csv                    6 điểm, 2 biến, cho ví dụ phân nhóm
 ```
 
 Đơn vị tiền:
 
 - Dữ liệu khách hàng cá nhân: **đồng**.
 - Dữ liệu doanh nghiệp: **triệu đồng**, trừ khi cột `don_vi` ghi khác.
+- Bảng mẫu (`mau/`): **triệu đồng**.
 
 ## Đường dẫn đọc trực tiếp
 
