@@ -10,13 +10,13 @@ Bộ dùng trên lớp: 200 khách hàng, 256 sổ tiền gửi, 58 hợp đồn
 
 | Tệp | Một dòng là | Dùng ở tiết |
 |---|---|---|
-| `khach_hang_raw.csv` | 1 khách hàng (bản chưa làm sạch) | 1, 2, 5–9 |
-| `so_tiet_kiem.csv` | 1 sổ tiền gửi | 2, 9 |
-| `khoan_vay.csv` | 1 hợp đồng vay tại FTA | 2, 5, 6 |
-| `sao_ke/sao_ke_2026_MM.csv` | 1 giao dịch (12 tệp, mỗi tháng 1 tệp) | 2, 4, 6 |
-| `de_nghi_vay_ca_nhan.csv` | 1 hồ sơ đề nghị vay | 6, 7, 9 |
-| `bao_cao_cic_ca_nhan.csv` | 1 báo cáo thông tin tín dụng của khách có hồ sơ đề nghị | 6, 7 |
-| `danh_sach_canh_bao_ca_nhan.csv` | 1 số giấy tờ bị cảnh báo | 6 |
+| `khach_hang_raw.csv` | 1 khách hàng (bản chưa làm sạch) | 1 |
+| `so_tiet_kiem.csv` | 1 sổ tiền gửi | 5, 9 |
+| `khoan_vay.csv` | 1 hợp đồng vay tại FTA | 5, 6, 7 |
+| `sao_ke/sao_ke_2026_MM.csv` | 1 giao dịch (12 tệp, mỗi tháng 1 tệp) | 2, 5, 6 |
+| `de_nghi_vay_ca_nhan.csv` | 1 hồ sơ đề nghị vay | 6 |
+| `bao_cao_cic_ca_nhan.csv` | 1 báo cáo thông tin tín dụng của khách có hồ sơ đề nghị | 6 |
+| `danh_sach_canh_bao_ca_nhan.csv` | 1 số giấy tờ bị cảnh báo | 5, 6 |
 | `tai_san_bao_dam_ca_nhan.csv` | 1 tài sản bảo đảm | 9 |
 | `lich_su_vay_ca_nhan.csv` | 1 khoản vay đã giải ngân các năm 2021–2025 | 8 |
 

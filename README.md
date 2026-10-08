@@ -31,7 +31,8 @@ demo/                                   bộ dữ liệu dùng trên lớp
 │   ├── de_nghi_vay_dn.csv              hồ sơ đề nghị cấp hạn mức
 │   ├── tai_san_bao_dam_dn.csv          tài sản bảo đảm
 │   ├── lich_su_dn.csv                  lịch sử hồ sơ, có kết quả trả nợ
-│   └── quy_dinh/nguong_cham_diem_dn.csv  bảng ngưỡng chấm điểm
+│   ├── quy_dinh/nguong_cham_diem_dn.csv  bảng ngưỡng chấm điểm
+│   └── quy_dinh/ty_le_cho_vay_tsbd.csv   tỷ lệ cho vay theo loại tài sản bảo đảm
 └── mau/                                bảng mẫu nhỏ cho ví dụ trên lớp
     ├── kh_mau.csv                      7 khách hàng
     ├── gd_t1.csv, gd_t2.csv            giao dịch tháng 1, tháng 2
@@ -39,6 +40,8 @@ demo/                                   bộ dữ liệu dùng trên lớp
     ├── tk_mau.csv                      4 sổ tiền gửi
     ├── dn_mau_ho_so.csv                hồ sơ 4 doanh nghiệp
     ├── dn_mau_bctc.csv                 báo cáo tài chính 2024–2025 của 4 doanh nghiệp
+    ├── hs_mau.csv                      5 hồ sơ đề nghị vay cá nhân
+    ├── ls_mau.csv                      20 hồ sơ lịch sử: điểm và kết quả trả nợ
     └── diem_mau.csv                    6 điểm, 2 biến, cho ví dụ phân nhóm
 ```
 

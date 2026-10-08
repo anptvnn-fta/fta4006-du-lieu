@@ -12,14 +12,15 @@ Toàn bộ số liệu là **mô phỏng**, dùng cho học tập. Tên doanh ng
 | Tệp | Một dòng là | Dùng ở tiết |
 |---|---|---|
 | `doanh_nghiep_raw.csv` | 1 doanh nghiệp (bản chưa làm sạch) | 3, 5, 6, 7, 9 |
-| `bctc_dn.csv` | 1 doanh nghiệp × 1 năm báo cáo | 3, 5, 6, 7, 9 |
-| `sao_ke_dn_thang.csv` | 1 doanh nghiệp × 1 tháng năm 2026 | 6, 7 |
-| `quan_he_tin_dung_dn.csv` | 1 doanh nghiệp | 5, 6, 7 |
-| `danh_sach_canh_bao_dn.csv` | 1 mã số thuế | 6 |
-| `de_nghi_vay_dn.csv` | 1 hồ sơ đề nghị cấp hạn mức | 9 |
+| `bctc_dn.csv` | 1 doanh nghiệp × 1 năm báo cáo | 3, 5, 7, 9 |
+| `sao_ke_dn_thang.csv` | 1 doanh nghiệp × 1 tháng năm 2026 | 7 |
+| `quan_he_tin_dung_dn.csv` | 1 doanh nghiệp | 5, 6, 7, 9 |
+| `danh_sach_canh_bao_dn.csv` | 1 mã số thuế | 5, 6 |
+| `de_nghi_vay_dn.csv` | 1 hồ sơ đề nghị cấp hạn mức | 7, 9 |
 | `tai_san_bao_dam_dn.csv` | 1 tài sản bảo đảm | 9 |
 | `lich_su_dn.csv` | 1 hồ sơ đã được cấp hạn mức các năm 2021–2025 | 8 |
-| `quy_dinh/nguong_cham_diem_dn.csv` | 1 chỉ tiêu × 1 ngành × 1 quy mô | 7 |
+| `quy_dinh/nguong_cham_diem_dn.csv` | 1 chỉ tiêu × 1 ngành × 1 quy mô | 6 |
+| `quy_dinh/ty_le_cho_vay_tsbd.csv` | 1 loại tài sản bảo đảm | 9 |
 
 ## `doanh_nghiep_raw.csv`
 
@@ -172,3 +173,12 @@ Bảng ngưỡng chấm điểm tài chính của Quy định nội bộ mô ph�
 |---|---|
 | `nganh`, `quy_mo`, `chi_tieu` | Ngành, quy mô, mã chỉ tiêu |
 | `A`, `B`, `C`, `D` | Ngưỡng chấm. Chỉ tiêu càng cao càng tốt: từ A trở lên 100 điểm, từ B 80, từ C 60, từ D 40, dưới D 20. Chỉ tiêu càng thấp càng tốt thì đọc ngược lại |
+
+## `quy_dinh/ty_le_cho_vay_tsbd.csv`
+
+Tỷ lệ cho vay tối đa trên giá trị tài sản bảo đảm theo loại tài sản, theo Quy định nội bộ mô phỏng của Ngân hàng FTA (quy định doanh nghiệp, mục A7).
+
+| Cột | Ý nghĩa |
+|---|---|
+| `loai_tai_san` | Loại tài sản bảo đảm, ghi như cột `loai_tai_san` của `tai_san_bao_dam_dn.csv` |
+| `ty_le_cho_vay_toi_da` | Giá trị bảo đảm được tính = giá trị định giá × tỷ lệ này |
