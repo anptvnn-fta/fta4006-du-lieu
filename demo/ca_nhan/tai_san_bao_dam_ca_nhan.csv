@@ -1,75 +1,75 @@
-﻿ma_ho_so,ma_kh,stt_tai_san,loai_tai_san,so_so_tiet_kiem,chu_so_huu,gia_tri_dinh_gia,ngay_dinh_gia
-HSCN00002,KH000004,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,920000000.0,2026-12-15
-HSCN00003,KH000006,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TK0000010,Khách hàng,360000000.0,2026-12-03
-HSCN00004,KH000008,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TK0000015,Khách hàng,1925000000.0,2026-12-19
-HSCN00007,KH000012,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,700000000.0,2026-11-15
-HSCN00010,KH000015,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,2550000000.0,2026-12-01
-HSCN00012,KH000017,1,Phương tiện vận tải mới,,"Bên thứ ba (vợ, chồng hoặc người thân)",610000000.0,2026-12-13
-HSCN00015,KH000025,1,Phương tiện vận tải mới,,Khách hàng,440000000.0,2026-11-20
-HSCN00017,KH000027,1,"Bất động sản là nhà ở, đất ở",,"Bên thứ ba (vợ, chồng hoặc người thân)",770000000.0,2026-12-21
-HSCN00018,KH000030,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,550000000.0,2026-12-03
-HSCN00020,KH000032,1,Phương tiện vận tải mới,,Khách hàng,370000000.0,2026-11-26
-HSCN00021,KH000033,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TK0000043,Khách hàng,24000000.0,2026-12-02
-HSCN00022,KH000035,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TK0000044,Khách hàng,147000000.0,2026-12-20
-HSCN00023,KH000037,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,1590000000.0,2026-11-15
-HSCN00024,KH000038,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,780000000.0,2026-11-23
-HSCN00026,KH000040,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,640000000.0,2026-12-07
-HSCN00027,KH000041,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,1040000000.0,2026-11-22
-HSCN00028,KH000042,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,80000000.0,2026-11-26
-HSCN00033,KH000049,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,730000000.0,2026-12-11
-HSCN00034,KH000053,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,1240000000.0,2026-12-09
-HSCN00037,KH000059,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,1670000000.0,2026-12-09
-HSCN00039,KH000062,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,620000000.0,2026-12-14
-HSCN00040,KH000063,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,610000000.0,2026-12-21
-HSCN00041,KH000064,1,Phương tiện vận tải mới,,Khách hàng,395000000.0,2026-11-25
-HSCN00044,KH000068,1,Phương tiện vận tải mới,,Khách hàng,430000000.0,2026-11-17
-HSCN00047,KH000073,1,Phương tiện vận tải mới,,Khách hàng,455000000.0,2026-12-19
-HSCN00048,KH000075,1,Phương tiện vận tải mới,,Khách hàng,385000000.0,2026-12-19
-HSCN00049,KH000076,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TK0000091,Khách hàng,44000000.0,2026-11-21
-HSCN00050,KH000078,1,Phương tiện vận tải mới,,Khách hàng,440000000.0,2026-12-12
-HSCN00053,KH000082,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,630000000.0,2026-11-27
-HSCN00055,KH000084,1,Phương tiện vận tải mới,,Khách hàng,360000000.0,2026-12-04
-HSCN00056,KH000085,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,500000000.0,2026-11-28
-HSCN00057,KH000086,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,850000000.0,2026-11-29
-HSCN00058,KH000087,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TK0000105,Khách hàng,210000000.0,2026-11-15
-HSCN00059,KH000091,1,Phương tiện vận tải mới,,Khách hàng,450000000.0,2026-12-24
-HSCN00060,KH000092,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TK0000114,Khách hàng,107000000.0,2026-12-24
-HSCN00063,KH000096,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,630000000.0,2026-12-02
-HSCN00066,KH000101,1,"Bất động sản là nhà ở, đất ở",,"Bên thứ ba (vợ, chồng hoặc người thân)",720000000.0,2026-12-21
-HSCN00068,KH000106,1,"Bất động sản là nhà ở, đất ở",,"Bên thứ ba (vợ, chồng hoặc người thân)",670000000.0,2026-12-22
-HSCN00070,KH000108,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,770000000.0,2026-11-25
-HSCN00072,KH000110,1,Phương tiện vận tải mới,,Khách hàng,430000000.0,2026-12-07
-HSCN00073,KH000111,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,160000000.0,2026-12-13
-HSCN00078,KH000118,1,Phương tiện vận tải mới,,Khách hàng,380000000.0,2026-12-17
-HSCN00080,KH000122,1,Phương tiện vận tải mới,,Khách hàng,385000000.0,2026-12-17
-HSCN00081,KH000123,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,2960000000.0,2026-12-15
-HSCN00082,KH000124,1,Phương tiện vận tải mới,,Khách hàng,440000000.0,2026-12-21
-HSCN00083,KH000125,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,320000000.0,2026-11-15
-HSCN00085,KH000129,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TK0000155,Khách hàng,26000000.0,2026-12-06
-HSCN00086,KH000130,1,Phương tiện vận tải mới,,Khách hàng,355000000.0,2026-12-12
-HSCN00087,KH000131,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TK0000157,Khách hàng,31000000.0,2026-12-24
-HSCN00090,KH000135,1,Phương tiện vận tải mới,,"Bên thứ ba (vợ, chồng hoặc người thân)",440000000.0,2026-11-27
-HSCN00092,KH000139,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,390000000.0,2026-12-26
-HSCN00095,KH000142,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TK0000171,Khách hàng,928000000.0,2026-12-05
-HSCN00096,KH000145,1,Phương tiện vận tải mới,,Khách hàng,405000000.0,2026-12-21
-HSCN00102,KH000152,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,600000000.0,2026-12-20
-HSCN00104,KH000156,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,690000000.0,2026-12-10
-HSCN00105,KH000158,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,770000000.0,2026-11-18
-HSCN00106,KH000159,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TK0000193,Khách hàng,164000000.0,2026-11-23
-HSCN00107,KH000160,1,Phương tiện vận tải mới,,Khách hàng,435000000.0,2026-12-17
-HSCN00108,KH000163,1,Phương tiện vận tải mới,,"Bên thứ ba (vợ, chồng hoặc người thân)",440000000.0,2026-11-15
-HSCN00109,KH000164,1,Phương tiện vận tải mới,,Khách hàng,385000000.0,2026-12-10
-HSCN00112,KH000168,1,Phương tiện vận tải mới,,Khách hàng,930000000.0,2026-11-13
-HSCN00113,KH000170,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TK0000210,Khách hàng,1085000000.0,2026-11-23
-HSCN00114,KH000171,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,2350000000.0,2026-12-12
-HSCN00115,KH000172,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,1090000000.0,2026-12-18
-HSCN00116,KH000174,1,Phương tiện vận tải mới,,"Bên thứ ba (vợ, chồng hoặc người thân)",355000000.0,2026-12-23
-HSCN00118,KH000177,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,600000000.0,2026-12-15
-HSCN00120,KH000180,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,630000000.0,2026-11-22
-HSCN00122,KH000183,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TK0000226,Khách hàng,1521000000.0,2026-12-24
-HSCN00123,KH000184,1,Phương tiện vận tải mới,,Khách hàng,350000000.0,2026-12-10
-HSCN00124,KH000185,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,210000000.0,2026-11-20
-HSCN00126,KH000188,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,670000000.0,2026-12-24
-HSCN00127,KH000190,1,"Bất động sản là nhà ở, đất ở",,Khách hàng,1130000000.0,2026-12-13
-HSCN00129,KH000194,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TK0000247,Khách hàng,229000000.0,2026-12-21
-HSCN00130,KH000198,1,Phương tiện vận tải mới,,Khách hàng,935000000.0,2026-12-24
+﻿ma_ho_so,ma_kh,stt_tai_san,loai_tai_san,ma_loai_tai_san,so_so_tiet_kiem,chu_so_huu,gia_tri_dinh_gia,ngay_dinh_gia
+HSCN00002,KH000004,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,920000000.0,2026-12-15
+HSCN00003,KH000006,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,TK0000010,Khách hàng,360000000.0,2026-12-03
+HSCN00004,KH000008,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,TK0000015,Khách hàng,1925000000.0,2026-12-19
+HSCN00007,KH000012,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,700000000.0,2026-11-15
+HSCN00010,KH000015,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,2550000000.0,2026-12-01
+HSCN00012,KH000017,1,Phương tiện vận tải mới,PTVT_MOI,,"Bên thứ ba (vợ, chồng hoặc người thân)",610000000.0,2026-12-13
+HSCN00015,KH000025,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,440000000.0,2026-11-20
+HSCN00017,KH000027,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,"Bên thứ ba (vợ, chồng hoặc người thân)",770000000.0,2026-12-21
+HSCN00018,KH000030,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,550000000.0,2026-12-03
+HSCN00020,KH000032,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,370000000.0,2026-11-26
+HSCN00021,KH000033,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,TK0000043,Khách hàng,24000000.0,2026-12-02
+HSCN00022,KH000035,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,TK0000044,Khách hàng,147000000.0,2026-12-20
+HSCN00023,KH000037,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,1590000000.0,2026-11-15
+HSCN00024,KH000038,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,780000000.0,2026-11-23
+HSCN00026,KH000040,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,640000000.0,2026-12-07
+HSCN00027,KH000041,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,1040000000.0,2026-11-22
+HSCN00028,KH000042,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,80000000.0,2026-11-26
+HSCN00033,KH000049,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,730000000.0,2026-12-11
+HSCN00034,KH000053,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,1240000000.0,2026-12-09
+HSCN00037,KH000059,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,1670000000.0,2026-12-09
+HSCN00039,KH000062,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,620000000.0,2026-12-14
+HSCN00040,KH000063,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,610000000.0,2026-12-21
+HSCN00041,KH000064,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,395000000.0,2026-11-25
+HSCN00044,KH000068,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,430000000.0,2026-11-17
+HSCN00047,KH000073,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,455000000.0,2026-12-19
+HSCN00048,KH000075,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,385000000.0,2026-12-19
+HSCN00049,KH000076,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,TK0000091,Khách hàng,44000000.0,2026-11-21
+HSCN00050,KH000078,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,440000000.0,2026-12-12
+HSCN00053,KH000082,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,630000000.0,2026-11-27
+HSCN00055,KH000084,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,360000000.0,2026-12-04
+HSCN00056,KH000085,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,500000000.0,2026-11-28
+HSCN00057,KH000086,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,850000000.0,2026-11-29
+HSCN00058,KH000087,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,TK0000105,Khách hàng,210000000.0,2026-11-15
+HSCN00059,KH000091,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,450000000.0,2026-12-24
+HSCN00060,KH000092,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,TK0000114,Khách hàng,107000000.0,2026-12-24
+HSCN00063,KH000096,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,630000000.0,2026-12-02
+HSCN00066,KH000101,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,"Bên thứ ba (vợ, chồng hoặc người thân)",720000000.0,2026-12-21
+HSCN00068,KH000106,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,"Bên thứ ba (vợ, chồng hoặc người thân)",670000000.0,2026-12-22
+HSCN00070,KH000108,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,770000000.0,2026-11-25
+HSCN00072,KH000110,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,430000000.0,2026-12-07
+HSCN00073,KH000111,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,160000000.0,2026-12-13
+HSCN00078,KH000118,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,380000000.0,2026-12-17
+HSCN00080,KH000122,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,385000000.0,2026-12-17
+HSCN00081,KH000123,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,2960000000.0,2026-12-15
+HSCN00082,KH000124,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,440000000.0,2026-12-21
+HSCN00083,KH000125,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,320000000.0,2026-11-15
+HSCN00085,KH000129,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,TK0000155,Khách hàng,26000000.0,2026-12-06
+HSCN00086,KH000130,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,355000000.0,2026-12-12
+HSCN00087,KH000131,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,TK0000157,Khách hàng,31000000.0,2026-12-24
+HSCN00090,KH000135,1,Phương tiện vận tải mới,PTVT_MOI,,"Bên thứ ba (vợ, chồng hoặc người thân)",440000000.0,2026-11-27
+HSCN00092,KH000139,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,390000000.0,2026-12-26
+HSCN00095,KH000142,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,TK0000171,Khách hàng,928000000.0,2026-12-05
+HSCN00096,KH000145,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,405000000.0,2026-12-21
+HSCN00102,KH000152,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,600000000.0,2026-12-20
+HSCN00104,KH000156,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,690000000.0,2026-12-10
+HSCN00105,KH000158,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,770000000.0,2026-11-18
+HSCN00106,KH000159,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,TK0000193,Khách hàng,164000000.0,2026-11-23
+HSCN00107,KH000160,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,435000000.0,2026-12-17
+HSCN00108,KH000163,1,Phương tiện vận tải mới,PTVT_MOI,,"Bên thứ ba (vợ, chồng hoặc người thân)",440000000.0,2026-11-15
+HSCN00109,KH000164,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,385000000.0,2026-12-10
+HSCN00112,KH000168,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,930000000.0,2026-11-13
+HSCN00113,KH000170,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,TK0000210,Khách hàng,1085000000.0,2026-11-23
+HSCN00114,KH000171,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,2350000000.0,2026-12-12
+HSCN00115,KH000172,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,1090000000.0,2026-12-18
+HSCN00116,KH000174,1,Phương tiện vận tải mới,PTVT_MOI,,"Bên thứ ba (vợ, chồng hoặc người thân)",355000000.0,2026-12-23
+HSCN00118,KH000177,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,600000000.0,2026-12-15
+HSCN00120,KH000180,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,630000000.0,2026-11-22
+HSCN00122,KH000183,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,TK0000226,Khách hàng,1521000000.0,2026-12-24
+HSCN00123,KH000184,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,350000000.0,2026-12-10
+HSCN00124,KH000185,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,210000000.0,2026-11-20
+HSCN00126,KH000188,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,670000000.0,2026-12-24
+HSCN00127,KH000190,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,,Khách hàng,1130000000.0,2026-12-13
+HSCN00129,KH000194,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,TK0000247,Khách hàng,229000000.0,2026-12-21
+HSCN00130,KH000198,1,Phương tiện vận tải mới,PTVT_MOI,,Khách hàng,935000000.0,2026-12-24

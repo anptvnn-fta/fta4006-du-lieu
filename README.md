@@ -31,8 +31,7 @@ demo/                                   bộ dữ liệu dùng trên lớp
 │   ├── de_nghi_vay_dn.csv              hồ sơ đề nghị cấp hạn mức
 │   ├── tai_san_bao_dam_dn.csv          tài sản bảo đảm
 │   ├── lich_su_dn.csv                  lịch sử hồ sơ, có kết quả trả nợ
-│   ├── quy_dinh/nguong_cham_diem_dn.csv  bảng ngưỡng chấm điểm
-│   └── quy_dinh/ty_le_cho_vay_tsbd.csv   tỷ lệ cho vay theo loại tài sản bảo đảm
+│   └── quy_dinh/nguong_cham_diem_dn.csv  bảng ngưỡng chấm điểm
 └── mau/                                bảng mẫu nhỏ cho ví dụ trên lớp
     ├── kh_mau.csv                      7 khách hàng
     ├── gd_t1.csv, gd_t2.csv            giao dịch tháng 1, tháng 2
@@ -43,6 +42,19 @@ demo/                                   bộ dữ liệu dùng trên lớp
     ├── hs_mau.csv                      5 hồ sơ đề nghị vay cá nhân
     ├── ls_mau.csv                      20 hồ sơ lịch sử: điểm và kết quả trả nợ
     └── diem_mau.csv                    6 điểm, 2 biến, cho ví dụ phân nhóm
+```
+
+Kết quả chuẩn từng tiết của bộ lớp nằm trong cây thư mục riêng `ket_qua/` (xem `ket_qua/README.md`):
+
+```
+ket_qua/                                kết quả chuẩn, dùng khi vắng tiết trước hoặc chưa làm xong
+├── tiet01/khach_hang_sach.csv
+├── tiet02/danh_muc_tiet2.csv
+├── tiet03/doanh_nghiep_tiet3.csv
+├── tiet04/danh_muc_tiet4.csv
+├── tiet05/danh_muc_tiet5.csv, doanh_nghiep_tiet5.csv
+├── tiet06/ho_so_tiet6.csv, doanh_nghiep_tiet6.csv
+└── tiet07/ho_so_tiet7.csv, doanh_nghiep_tiet7.csv
 ```
 
 Đơn vị tiền:

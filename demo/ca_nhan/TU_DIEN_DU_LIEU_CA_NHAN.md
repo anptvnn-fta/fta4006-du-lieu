@@ -146,6 +146,7 @@ Báo cáo thông tin tín dụng tra cứu ngày 31/12/2026 cho khách có hồ 
 | `ma_ho_so`, `ma_kh` | Hồ sơ và khách hàng |
 | `stt_tai_san` | Thứ tự tài sản trong hồ sơ |
 | `loai_tai_san` | Bất động sản là nhà ở, đất ở; Phương tiện vận tải mới; Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA |
+| `ma_loai_tai_san` | Mã viết tắt, cùng bảng mã với dữ liệu doanh nghiệp: `BDS_NHA_O`, `PTVT_MOI`, `TG_FTA` |
 | `so_so_tiet_kiem` | Số sổ tiết kiệm được cầm cố (nối sang `so_tiet_kiem.csv`) |
 | `chu_so_huu` | Khách hàng, hoặc bên thứ ba (vợ, chồng hoặc người thân) |
 | `gia_tri_dinh_gia` | Giá trị do FTA định giá |
@@ -168,5 +169,9 @@ Khoản vay cá nhân đã giải ngân các năm 2021–2025. Thông tin là th
 | `ty_le_cho_vay_tren_tai_san` | Số tiền vay / giá trị tài sản bảo đảm; để trống với vay tín chấp |
 | `nhom_no_cao_nhat_con_luu` | Nhóm nợ cao nhất còn lưu theo CIC |
 | `so_lan_qua_han_12_thang` | Số lần quá hạn trong 12 tháng trước khi vay |
+| `so_ngay_qua_han_lon_nhat` | Số ngày quá hạn lớn nhất trong thời gian CIC còn lưu thông tin; 0 nếu chưa từng quá hạn |
+| `da_tung_vay` | Đã từng vay tại FTA hoặc tổ chức tín dụng khác trước khoản vay này hay chưa ("Không" là hồ sơ mỏng) |
 | `so_du_tktt_binh_quan_3_thang` | Số dư tài khoản thanh toán bình quân 3 tháng |
+| `tien_gui_tiet_kiem` | Tiền gửi tiết kiệm tại FTA lúc giải ngân; 0 nếu không có |
+| `co_giao_dich_3_thang` | Có giao dịch trong 3 tháng trước khi giải ngân hay không |
 | `xau_12_thang` | 1 nếu khoản vay chuyển sang nhóm 3–5 trong 12 tháng sau giải ngân; 0 nếu không |

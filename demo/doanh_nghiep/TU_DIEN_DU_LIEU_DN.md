@@ -20,7 +20,6 @@ Toàn bộ số liệu là **mô phỏng**, dùng cho học tập. Tên doanh ng
 | `tai_san_bao_dam_dn.csv` | 1 tài sản bảo đảm | 9 |
 | `lich_su_dn.csv` | 1 hồ sơ đã được cấp hạn mức các năm 2021–2025 | 8 |
 | `quy_dinh/nguong_cham_diem_dn.csv` | 1 chỉ tiêu × 1 ngành × 1 quy mô | 6 |
-| `quy_dinh/ty_le_cho_vay_tsbd.csv` | 1 loại tài sản bảo đảm | 9 |
 
 ## `doanh_nghiep_raw.csv`
 
@@ -148,6 +147,7 @@ Số liệu tại 31/12/2026. Nhóm nợ theo số ngày quá hạn: nhóm 1 dư
 | `ma_ho_so`, `ma_kh` | Hồ sơ đề nghị và khách hàng |
 | `stt_tai_san` | Thứ tự tài sản trong hồ sơ |
 | `loai_tai_san` | Loại tài sản theo bảng tỷ lệ cho vay tối đa của FTA |
+| `ma_loai_tai_san` | Mã viết tắt của loại tài sản (bảng mã ở cuối tệp) |
 | `chu_so_huu` | Doanh nghiệp, hoặc bên thứ ba (người đại diện theo pháp luật) |
 | `gia_tri_dinh_gia` | Giá trị do FTA định giá |
 | `ngay_dinh_gia` | Ngày định giá |
@@ -174,11 +174,18 @@ Bảng ngưỡng chấm điểm tài chính của Quy định nội bộ mô ph�
 | `nganh`, `quy_mo`, `chi_tieu` | Ngành, quy mô, mã chỉ tiêu |
 | `A`, `B`, `C`, `D` | Ngưỡng chấm. Chỉ tiêu càng cao càng tốt: từ A trở lên 100 điểm, từ B 80, từ C 60, từ D 40, dưới D 20. Chỉ tiêu càng thấp càng tốt thì đọc ngược lại |
 
-## `quy_dinh/ty_le_cho_vay_tsbd.csv`
+## Mã loại tài sản bảo đảm
 
-Tỷ lệ cho vay tối đa trên giá trị tài sản bảo đảm theo loại tài sản, theo Quy định nội bộ mô phỏng của Ngân hàng FTA (quy định doanh nghiệp, mục A7).
+Cột `ma_loai_tai_san` của `tai_san_bao_dam_dn.csv` và `tai_san_bao_dam_ca_nhan.csv`:
 
-| Cột | Ý nghĩa |
+| Mã | Loại tài sản |
 |---|---|
-| `loai_tai_san` | Loại tài sản bảo đảm, ghi như cột `loai_tai_san` của `tai_san_bao_dam_dn.csv` |
-| `ty_le_cho_vay_toi_da` | Giá trị bảo đảm được tính = giá trị định giá × tỷ lệ này |
+| `TG_FTA` | Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA |
+| `BDS_NHA_O` | Bất động sản là nhà ở, đất ở |
+| `BDS_SXKD` | Nhà xưởng, kho, đất sản xuất kinh doanh |
+| `PTVT_MOI` | Phương tiện vận tải mới |
+| `PTVT_CU` | Phương tiện vận tải đã qua sử dụng |
+| `MMTB` | Máy móc thiết bị |
+| `HTK_CAO` | Hàng tồn kho thanh khoản cao |
+| `HTK_THAP` | Hàng tồn kho thanh khoản thấp |
+| `PHAI_THU` | Khoản phải thu |
