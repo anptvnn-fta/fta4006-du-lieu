@@ -35,7 +35,7 @@ demo/                                   bộ dữ liệu dùng trên lớp
 └── mau/                                bảng mẫu nhỏ cho ví dụ trên lớp
     ├── kh_mau.csv                      7 khách hàng
     ├── gd_t1.csv, gd_t2.csv            giao dịch tháng 1, tháng 2
-    ├── vay_mau.csv                     4 hợp đồng vay
+    ├── vay_mau.csv                     6 hợp đồng vay
     ├── tk_mau.csv                      4 sổ tiền gửi
     ├── dn_mau_ho_so.csv                hồ sơ 4 doanh nghiệp
     ├── dn_mau_bctc.csv                 báo cáo tài chính 2024–2025 của 4 doanh nghiệp
