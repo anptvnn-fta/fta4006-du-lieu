@@ -13,7 +13,7 @@ Toàn bộ số liệu là **mô phỏng**, dùng cho học tập. Tên doanh ng
 |---|---|---|
 | `doanh_nghiep_raw.csv` | 1 doanh nghiệp (bản chưa làm sạch) | 3, 5, 6, 7, 9 |
 | `bctc_dn.csv` | 1 doanh nghiệp × 1 năm báo cáo | 3, 5, 7, 9 |
-| `sao_ke_dn_thang.csv` | 1 doanh nghiệp × 1 tháng năm 2026 | 7 |
+| `sao_ke_dn_thang.csv` | 1 doanh nghiệp × 1 tháng có quan hệ trong năm 2026 | 7 |
 | `quan_he_tin_dung_dn.csv` | 1 doanh nghiệp | 5, 6, 7, 9 |
 | `danh_sach_canh_bao_dn.csv` | 1 mã số thuế | 5, 6 |
 | `de_nghi_vay_dn.csv` | 1 hồ sơ đề nghị cấp hạn mức | 7, 9 |
@@ -35,8 +35,8 @@ Bản chưa làm sạch: có dòng trùng, có cách ghi ngành không thống n
 | `nganh_chinh` | Ngành, nghề kinh doanh chính đã đăng ký, theo 4 ngành chấm điểm của FTA: Thương mại và dịch vụ; Công nghiệp; Xây dựng; Nông, lâm nghiệp và thủy sản |
 | `tieu_nhom_nganh` | Tiểu nhóm để phân tích (không dùng để chấm điểm), ví dụ "Bán buôn, bán lẻ", "Dịch vụ khác" |
 | `nam_thanh_lap` | Năm thành lập |
-| `lao_dong_bhxh_binh_quan` | Số lao động tham gia bảo hiểm xã hội bình quân năm 2025 (người) |
-| `tinh_thanh` | Tỉnh, thành nơi đặt trụ sở |
+| `lao_dong_bhxh_binh_quan` | Số lao động tham gia bảo hiểm xã hội bình quân năm 2025 (người); doanh thu trên lao động theo năng suất bình quân của Sách trắng doanh nghiệp 2025 |
+| `tinh_thanh` | Tỉnh, thành nơi đặt trụ sở (34 tỉnh, thành từ 01/7/2025; CN Bình Dương thuộc TP Hồ Chí Minh) |
 | `chi_nhanh_quan_ly` | Chi nhánh FTA quản lý khách hàng |
 | `ngay_mo_quan_he` | Ngày bắt đầu quan hệ với FTA |
 | `nguoi_dai_dien_theo_phap_luat` | Họ tên người đại diện theo pháp luật |
@@ -96,7 +96,7 @@ Báo cáo rút gọn chỉ còn các dòng cần cho thẩm định. Quan hệ g
 
 | Cột | Ý nghĩa |
 |---|---|
-| `ma_kh`, `thang` | Mã khách hàng, tháng (2026-01 … 2026-12) |
+| `ma_kh`, `thang` | Mã khách hàng, tháng (2026-01 … 2026-12). Chỉ có các tháng từ tháng mở quan hệ; doanh nghiệp ngừng giao dịch, đã đóng thì dừng ở tháng giao dịch cuối (doanh nghiệp đã đóng chuyển hết số dư) |
 | `tien_vao` | Tổng tiền vào tài khoản thanh toán tại FTA trong tháng |
 | `tien_ra` | Tổng tiền ra trong tháng |
 | `so_du_cuoi_thang` | Số dư cuối tháng |
@@ -148,7 +148,7 @@ Số liệu tại 31/12/2026. Nhóm nợ theo số ngày quá hạn: nhóm 1 dư
 | `stt_tai_san` | Thứ tự tài sản trong hồ sơ |
 | `loai_tai_san` | Loại tài sản theo bảng tỷ lệ cho vay tối đa của FTA |
 | `ma_loai_tai_san` | Mã viết tắt của loại tài sản (bảng mã ở cuối tệp) |
-| `chu_so_huu` | Doanh nghiệp, hoặc bên thứ ba (người đại diện theo pháp luật) |
+| `chu_so_huu` | Doanh nghiệp, hoặc bên thứ ba (người đại diện theo pháp luật). Nhà ở, đất ở thuộc bên thứ ba; tài sản của doanh nghiệp không vượt giá trị trên báo cáo tài chính của nhóm tài sản tương ứng (nhà xưởng, đất sản xuất kinh doanh: tối đa 2 lần giá trị sổ sách) |
 | `gia_tri_dinh_gia` | Giá trị do FTA định giá |
 | `ngay_dinh_gia` | Ngày định giá |
 

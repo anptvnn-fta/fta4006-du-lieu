@@ -1,6 +1,8 @@
 # Từ điển dữ liệu khách hàng cá nhân — Ngân hàng FTA
 
-Bộ dùng trên lớp: 200 khách hàng, 256 sổ tiền gửi, 58 hợp đồng vay, 18.830 giao dịch trong 12 tháng năm 2026.
+Bộ dùng trên lớp: 200 khách hàng, 139 sổ tiền gửi, 55 hợp đồng vay, 21.882 giao dịch trong 12 tháng năm 2026.
+
+Dữ liệu sinh lại ngày 12/10/2026 theo bộ quy tắc có căn cứ thực tế: nghề theo tuổi, thu nhập theo nghề và vùng, số dư tính theo thời gian, kỳ trả nợ theo công thức trả góp.
 
 - Mốc dữ liệu: 31/12/2026.
 - Đơn vị tiền: **đồng**.
@@ -30,12 +32,12 @@ Bản này **cố ý để bẩn**: có dòng trùng, có ô để trống, có 
 | `ho_ten` | Họ và tên |
 | `ngay_sinh` | Ngày sinh, dùng để tính tuổi |
 | `gioi_tinh` | Nam hoặc Nữ |
-| `so_giay_to` | Số giấy tờ định danh |
-| `tinh_thanh` | Tỉnh, thành phố |
-| `nghe_nghiep` | Nghề nghiệp khai báo |
+| `so_giay_to` | Số định danh cá nhân 12 chữ số: 3 số mã tỉnh nơi đăng ký khai sinh, 1 số thế kỷ và giới tính, 2 số cuối năm sinh, 6 số ngẫu nhiên |
+| `tinh_thanh` | Tỉnh, thành phố nơi cư trú (34 tỉnh, thành phố từ ngày 01/7/2025) |
+| `nghe_nghiep` | Nghề nghiệp khai báo: Bác sĩ, Kỹ sư, Kế toán, Giáo viên, Công chức, Nhân viên văn phòng, Bán hàng, Công nhân, Lái xe, Kinh doanh tự do, Hưu trí, Nội trợ, Học sinh, sinh viên |
 | `phan_khuc` | Phân khúc đang ghi trong hệ thống, gán từ khi mở quan hệ, nhiều năm chưa rà soát |
 | `loai_khach_hang` | Cá nhân |
-| `chi_nhanh_quan_ly` | Chi nhánh quản lý |
+| `chi_nhanh_quan_ly` | Chi nhánh quản lý (CN Bình Dương thuộc TP Hồ Chí Minh) |
 | `ngay_mo_quan_he` | Ngày mở quan hệ, dùng để tính thâm niên |
 | `kenh_dang_ky` | Tại quầy hoặc Trực tuyến |
 | `trang_thai` | Đang hoạt động, Ngừng giao dịch, hoặc Đã đóng. Khách hàng đã đóng quan hệ: tài khoản thanh toán đã đóng (giao dịch cuối cùng rút toàn bộ số dư), sổ tiết kiệm và khoản vay đã tất toán |
@@ -50,14 +52,15 @@ Bản này **cố ý để bẩn**: có dòng trùng, có ô để trống, có 
 | `so_so` | Số sổ |
 | `ma_kh` | Mã khách hàng |
 | `loai_khach_hang`, `chi_nhanh` | Loại khách hàng, chi nhánh mở sổ |
-| `so_tien_goc` | Số tiền gửi |
+| `so_tien_goc` | Số tiền gốc của kỳ gửi đang chạy (sổ tự động tái tục: gồm cả lãi các kỳ trước đã nhập gốc) |
+| `lai_suat_nam_pct` | Lãi suất năm của kỳ gửi đang chạy, tính theo phần trăm |
 | `ngay_mo_lan_dau` | Ngày mở sổ |
-| `ky_han_thang`, `ngay_dao_han` | Kỳ hạn (tháng), ngày đến hạn của kỳ đang chạy tại ngày 31/12/2026. Một kỳ dài 30, 91, 182, 364, 729 ngày ứng với kỳ hạn 1, 3, 6, 12, 24 tháng |
-| `tu_dong_tai_tuc` | Có tự động tái tục hay không. Sổ đã qua ít nhất 1 lần đến hạn đều ghi "Có" |
+| `ky_han_thang`, `ngay_dao_han` | Kỳ hạn (tháng), ngày đến hạn của kỳ đang chạy tại ngày 31/12/2026. Ngày đến hạn là ngày tương ứng của tháng đến hạn; tháng đó không có ngày tương ứng thì là ngày cuối tháng |
+| `tu_dong_tai_tuc` | Có: đến hạn thì gốc và lãi chuyển sang kỳ mới. Không: đến hạn thì tất toán, gốc và lãi trả về tài khoản thanh toán hoặc trả tiền mặt tại quầy |
 | `hinh_thuc_gui` | Gửi tại quầy hay trực tuyến |
 | `ky_thu` | Kỳ gửi thứ mấy của sổ |
 | `ngay_hieu_luc_ky_hien_tai` | Ngày bắt đầu kỳ gửi đang chạy |
-| `trang_thai` | Đang hiệu lực hoặc Đã tất toán. Sổ của khách hàng đã đóng quan hệ ghi Đã tất toán |
+| `trang_thai` | Đang hiệu lực hoặc Đã tất toán (sổ không tái tục đến hạn trong năm 2026; sổ của khách hàng đã đóng quan hệ). Sổ đã tất toán ghi thông tin của kỳ cuối cùng |
 
 ## `khoan_vay.csv`
 
@@ -70,9 +73,10 @@ Bản này **cố ý để bẩn**: có dòng trùng, có ô để trống, có 
 | `ngay_giai_ngan` | Ngày giải ngân |
 | `so_tien_vay` | Số tiền vay ban đầu |
 | `ky_han_thang` | Kỳ hạn |
-| `lai_suat_nam_pct` | Lãi suất năm, tính theo phần trăm |
+| `lai_suat_nam_pct` | Lãi suất năm áp dụng cho kỳ trả nợ tiếp theo, tính theo phần trăm (vay mua nhà, mua ô tô: hết thời gian ưu đãi thì thả nổi) |
+| `phuong_thuc_tra_no` | Trả góp đều; Gốc đều, lãi theo dư nợ giảm dần; Lãi hằng tháng, gốc cuối kỳ |
 | `so_ky_da_tra` | Số kỳ đã trả |
-| `ky_tra_no_hang_thang` | Số tiền phải trả mỗi kỳ |
+| `ky_tra_no_hang_thang` | Số tiền phải trả của kỳ tiếp theo, theo phương thức trả nợ (gốc đều thì giảm dần qua các kỳ) |
 | `du_no_goc` | Dư nợ gốc hiện tại |
 | `tai_san_bao_dam` | Có hoặc Không |
 | `nhom_no`, `so_ngay_qua_han` | Nhóm nợ (1–5) và số ngày quá hạn |
@@ -88,27 +92,31 @@ Khoản đã tất toán giữ nhóm nợ và số ngày quá hạn trong thời
 | `ma_giao_dich` | Mã giao dịch |
 | `ngay_gio` | Thời điểm giao dịch |
 | `ma_kh` | Mã khách hàng |
-| `kenh` | Mobile Banking, Internet Banking, QR Code, ATM, POS, Quầy giao dịch. Với giao dịch tiền vào (Nhận lương, Chuyển khoản đến) là kênh bên chuyển dùng để khởi tạo giao dịch |
-| `loai_giao_dich` | Nhận lương, Chuyển khoản đi, Chuyển khoản đến, Rút tiền mặt, Nộp tiền mặt, Thanh toán thẻ, Thanh toán hóa đơn, Nạp tiền điện thoại |
+| `kenh` | Mobile Banking, Internet Banking, QR Code, ATM, POS, Quầy giao dịch. Với giao dịch tiền vào (Nhận lương, Nhận lương hưu, Chuyển khoản đến) là kênh bên chuyển dùng để khởi tạo giao dịch |
+| `loai_giao_dich` | Nhận lương, Nhận lương hưu, Chuyển khoản đi, Chuyển khoản đến, Rút tiền mặt, Nộp tiền mặt, Thanh toán thẻ, Thanh toán hóa đơn, Nạp tiền điện thoại, Gửi tiết kiệm, Tất toán tiết kiệm, Giải ngân vay, Trả nợ vay |
 | `so_tien` | Số tiền giao dịch |
 | `phi` | Phí của giao dịch |
 | `trang_thai` | Thành công hoặc Thất bại |
 | `chi_nhanh` | Chi nhánh phát sinh |
-| `so_du_sau_giao_dich` | Số dư tài khoản thanh toán ngay sau giao dịch |
+| `so_du_sau_giao_dich` | Số dư tài khoản thanh toán ngay sau giao dịch, đã trừ phí. Giao dịch thất bại không làm đổi số dư |
 
-Thu nhập lương qua FTA không ghi sẵn ở tệp nào. Thu nhập lương bình quân tháng tính từ các giao dịch "Nhận lương" thành công.
+Thu nhập lương qua FTA không ghi sẵn ở tệp nào. Thu nhập lương bình quân tháng tính từ các giao dịch "Nhận lương" và "Nhận lương hưu" thành công.
+
+Gửi tiết kiệm, Tất toán tiết kiệm: tiền chuyển giữa tài khoản thanh toán và sổ tiết kiệm của chính khách hàng. Giải ngân vay: tiền vay tiêu dùng tín chấp, vay sản xuất kinh doanh giải ngân vào tài khoản thanh toán (vay mua nhà, mua ô tô giải ngân thẳng cho bên bán). Trả nợ vay: khách hàng trả kỳ trả nợ từ tài khoản thanh toán.
 
 Loại giao dịch và kênh thực hiện được:
 
 | Loại giao dịch | Kênh |
 |---|---|
-| Nhận lương | Internet Banking (đơn vị trả lương chi lương qua Internet Banking) |
+| Nhận lương, Nhận lương hưu | Internet Banking (đơn vị trả lương, cơ quan bảo hiểm xã hội chuyển tiền qua ngân hàng điện tử) |
 | Nộp tiền mặt, Rút tiền mặt | ATM, Quầy giao dịch |
 | Nạp tiền điện thoại | Mobile Banking, Internet Banking, ATM |
 | Thanh toán thẻ | POS; thanh toán thẻ trực tuyến qua Mobile Banking, Internet Banking |
 | Chuyển khoản đi, Chuyển khoản đến, Thanh toán hóa đơn | Mobile Banking, Internet Banking, QR Code, ATM, Quầy giao dịch |
+| Gửi tiết kiệm, Tất toán tiết kiệm, Trả nợ vay | Mobile Banking, Internet Banking, Quầy giao dịch |
+| Giải ngân vay | Quầy giao dịch |
 
-Giao dịch tại quầy chỉ trong giờ giao dịch tại quầy: thứ Hai đến thứ Sáu, 08:00–11:30 và 13:30–16:00. Phí của giao dịch qua Mobile Banking, Internet Banking, QR Code bằng 0.
+Giao dịch tại quầy chỉ trong giờ giao dịch tại quầy: thứ Hai đến thứ Sáu, 08:00–11:30 và 13:30–16:00, trừ ngày nghỉ lễ, Tết. Phí theo biểu phí của FTA: rút tiền tại ATM của FTA 1.000 đồng, ATM ngân hàng khác 3.000 đồng; chuyển khoản tại ATM, tại quầy có phí; giao dịch qua Mobile Banking, Internet Banking, QR Code, POS, giao dịch tiền vào và giao dịch thất bại có phí 0.
 
 ## `de_nghi_vay_ca_nhan.csv`
 
@@ -121,23 +129,23 @@ Giao dịch tại quầy chỉ trong giờ giao dịch tại quầy: thứ Hai �
 | `muc_dich` | Mục đích vay |
 | `so_tien_de_nghi` | Số tiền khách hàng đề nghị |
 | `ky_han_thang` | Thời hạn vay đề nghị (tháng) |
-| `lai_suat_nam_pct` | Lãi suất năm dự kiến của sản phẩm, tính theo phần trăm; trả góp đều hằng tháng |
+| `lai_suat_nam_pct` | Lãi suất năm dự kiến của sản phẩm, tính theo phần trăm; kỳ trả dự kiến tính theo trả góp đều hằng tháng |
 | `thu_nhap_khai_bao` | Thu nhập tháng do khách tự khai |
 | `thu_nhap_khac_xac_minh` | Thu nhập tháng ngoài lương qua FTA đã được xác minh bằng giấy tờ; 0 nếu không có |
-| `hinh_thuc_xac_minh` | Lương qua FTA; Lương qua FTA và sao kê ngân hàng khác; Sao kê ngân hàng khác; Giấy tờ kinh doanh, sổ sách thuế; Chưa xác minh |
+| `hinh_thuc_xac_minh` | Lương qua FTA; Lương hưu qua FTA; Lương qua FTA và sao kê ngân hàng khác; Sao kê ngân hàng khác; Giấy tờ kinh doanh, sổ sách thuế; Chưa xác minh |
 
-Thu nhập đã xác minh = lương bình quân tháng qua FTA (tính từ sao kê) + `thu_nhap_khac_xac_minh`.
+Thu nhập đã xác minh = lương, lương hưu bình quân tháng qua FTA (tính từ sao kê) + `thu_nhap_khac_xac_minh`.
 
 ## `bao_cao_cic_ca_nhan.csv`
 
-Báo cáo thông tin tín dụng tra cứu ngày 31/12/2026 cho khách có hồ sơ đề nghị. Nhóm nợ tính trên mọi tổ chức tín dụng, kể cả FTA.
+Báo cáo thông tin tín dụng tra cứu khi khách nộp hồ sơ đề nghị. Nhóm nợ tính trên mọi tổ chức tín dụng, kể cả FTA.
 
 | Cột | Ý nghĩa |
 |---|---|
 | `ma_ho_so`, `ma_kh` | Hồ sơ và khách hàng |
-| `ngay_bao_cao` | Ngày tra cứu |
+| `ngay_bao_cao` | Ngày tra cứu: ngày nộp hồ sơ hoặc 1–2 ngày làm việc sau |
 | `so_tctd_khac_dang_vay` | Số tổ chức tín dụng khác (ngoài FTA) đang có dư nợ |
-| `du_no_tctd_khac` | Dư nợ tại các tổ chức tín dụng khác |
+| `du_no_tctd_khac` | Dư nợ gốc tại các tổ chức tín dụng khác |
 | `nghia_vu_tra_no_thang_tctd_khac` | Số tiền phải trả hằng tháng tại các tổ chức tín dụng khác |
 | `nhom_no_hien_tai` | Nhóm nợ cao nhất hiện tại tại mọi tổ chức tín dụng |
 | `nhom_no_cao_nhat_con_luu` | Nhóm nợ cao nhất còn lưu trong lịch sử, theo thời hạn lưu (1 năm với nhóm 2; 5 năm với nhóm 3–5) |
@@ -168,7 +176,7 @@ Vay tiêu dùng tín chấp không có tài sản bảo đảm. Vay mua nhà, va
 
 ## `lich_su_vay_ca_nhan.csv`
 
-Khoản vay cá nhân đã giải ngân các năm 2021–2025. Thông tin là thông tin tại thời điểm giải ngân; nhãn là kết quả trả nợ trong 12 tháng sau giải ngân.
+Khoản vay cá nhân đã giải ngân các năm 2021–2025, mọi khoản đều thỏa điều kiện cho vay của FTA tại thời điểm giải ngân (thu nhập từ 7 triệu đồng, DTI không quá 50%). Thông tin là thông tin tại thời điểm giải ngân; nhãn là kết quả trả nợ trong 12 tháng sau giải ngân.
 
 | Cột | Ý nghĩa |
 |---|---|
