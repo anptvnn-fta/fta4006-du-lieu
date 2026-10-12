@@ -1,6 +1,6 @@
 # Từ điển dữ liệu khách hàng cá nhân — Ngân hàng FTA
 
-Bộ dùng trên lớp: 200 khách hàng, 256 sổ tiền gửi, 58 hợp đồng vay, 18.823 giao dịch trong 12 tháng năm 2026.
+Bộ dùng trên lớp: 200 khách hàng, 256 sổ tiền gửi, 58 hợp đồng vay, 18.830 giao dịch trong 12 tháng năm 2026.
 
 - Mốc dữ liệu: 31/12/2026.
 - Đơn vị tiền: **đồng**.
@@ -15,7 +15,7 @@ Bộ dùng trên lớp: 200 khách hàng, 256 sổ tiền gửi, 58 hợp đồn
 | `khoan_vay.csv` | 1 hợp đồng vay tại FTA | 5, 6, 7 |
 | `sao_ke/sao_ke_2026_MM.csv` | 1 giao dịch (12 tệp, mỗi tháng 1 tệp) | 2, 5, 6 |
 | `de_nghi_vay_ca_nhan.csv` | 1 hồ sơ đề nghị vay | 6 |
-| `bao_cao_cic_ca_nhan.csv` | 1 báo cáo thông tin tín dụng của khách có hồ sơ đề nghị | 6 |
+| `bao_cao_cic_ca_nhan.csv` | 1 báo cáo thông tin tín dụng của khách có hồ sơ đề nghị | 5, 6 |
 | `danh_sach_canh_bao_ca_nhan.csv` | 1 số giấy tờ bị cảnh báo | 5, 6 |
 | `tai_san_bao_dam_ca_nhan.csv` | 1 tài sản bảo đảm | 9 |
 | `lich_su_vay_ca_nhan.csv` | 1 khoản vay đã giải ngân các năm 2021–2025 | 8 |
@@ -38,7 +38,7 @@ Bản này **cố ý để bẩn**: có dòng trùng, có ô để trống, có 
 | `chi_nhanh_quan_ly` | Chi nhánh quản lý |
 | `ngay_mo_quan_he` | Ngày mở quan hệ, dùng để tính thâm niên |
 | `kenh_dang_ky` | Tại quầy hoặc Trực tuyến |
-| `trang_thai` | Đang hoạt động, Ngừng giao dịch, hoặc Đã đóng |
+| `trang_thai` | Đang hoạt động, Ngừng giao dịch, hoặc Đã đóng. Khách hàng đã đóng quan hệ: tài khoản thanh toán đã đóng (giao dịch cuối cùng rút toàn bộ số dư), sổ tiết kiệm và khoản vay đã tất toán |
 | `canh_bao_gian_lan` | Có hoặc Không: cờ cảnh báo gian lận của FTA |
 | `cong_nhan_dac_biet` | Có hoặc Không: khách được khối kinh doanh công nhận theo chương trình riêng |
 | `dien_thoai`, `email` | Thông tin liên hệ |
@@ -57,7 +57,7 @@ Bản này **cố ý để bẩn**: có dòng trùng, có ô để trống, có 
 | `hinh_thuc_gui` | Gửi tại quầy hay trực tuyến |
 | `ky_thu` | Kỳ gửi thứ mấy của sổ |
 | `ngay_hieu_luc_ky_hien_tai` | Ngày bắt đầu kỳ gửi đang chạy |
-| `trang_thai` | Trạng thái sổ |
+| `trang_thai` | Đang hiệu lực hoặc Đã tất toán. Sổ của khách hàng đã đóng quan hệ ghi Đã tất toán |
 
 ## `khoan_vay.csv`
 
@@ -79,7 +79,7 @@ Bản này **cố ý để bẩn**: có dòng trùng, có ô để trống, có 
 | `ngay_den_han_ky_toi` | Ngày đến hạn của kỳ trả nợ tiếp theo, chỉ có ý nghĩa với khoản đang hiệu lực |
 | `trang_thai` | Đang hiệu lực hoặc Đã tất toán |
 
-Khoản đã tất toán giữ nhóm nợ và số ngày quá hạn trong thời hạn lưu lịch sử nợ: 1 năm với nợ nhóm 2; 5 năm với nợ nhóm 3 đến 5, kể từ ngày tất toán. Quá thời hạn đó thì lịch sử đã được xóa.
+Khoản đã tất toán giữ nhóm nợ và số ngày quá hạn trong thời hạn lưu lịch sử nợ: 1 năm với nợ nhóm 2; 5 năm với nợ nhóm 3 đến 5, kể từ ngày tất toán. Quá thời hạn đó thì lịch sử đã được xóa. Khoản vay của khách hàng đã đóng quan hệ đã tất toán trước hạn: dư nợ gốc bằng 0, số kỳ đã trả giữ số kỳ thực trả.
 
 ## `sao_ke/sao_ke_2026_MM.csv`
 
@@ -88,7 +88,7 @@ Khoản đã tất toán giữ nhóm nợ và số ngày quá hạn trong thời
 | `ma_giao_dich` | Mã giao dịch |
 | `ngay_gio` | Thời điểm giao dịch |
 | `ma_kh` | Mã khách hàng |
-| `kenh` | Mobile Banking, Internet Banking, QR Code, ATM, POS, Quầy giao dịch |
+| `kenh` | Mobile Banking, Internet Banking, QR Code, ATM, POS, Quầy giao dịch. Với giao dịch tiền vào (Nhận lương, Chuyển khoản đến) là kênh bên chuyển dùng để khởi tạo giao dịch |
 | `loai_giao_dich` | Nhận lương, Chuyển khoản đi, Chuyển khoản đến, Rút tiền mặt, Nộp tiền mặt, Thanh toán thẻ, Thanh toán hóa đơn, Nạp tiền điện thoại |
 | `so_tien` | Số tiền giao dịch |
 | `phi` | Phí của giao dịch |
@@ -97,6 +97,18 @@ Khoản đã tất toán giữ nhóm nợ và số ngày quá hạn trong thời
 | `so_du_sau_giao_dich` | Số dư tài khoản thanh toán ngay sau giao dịch |
 
 Thu nhập lương qua FTA không ghi sẵn ở tệp nào. Thu nhập lương bình quân tháng tính từ các giao dịch "Nhận lương" thành công.
+
+Loại giao dịch và kênh thực hiện được:
+
+| Loại giao dịch | Kênh |
+|---|---|
+| Nhận lương | Internet Banking (đơn vị trả lương chi lương qua Internet Banking) |
+| Nộp tiền mặt, Rút tiền mặt | ATM, Quầy giao dịch |
+| Nạp tiền điện thoại | Mobile Banking, Internet Banking, ATM |
+| Thanh toán thẻ | POS; thanh toán thẻ trực tuyến qua Mobile Banking, Internet Banking |
+| Chuyển khoản đi, Chuyển khoản đến, Thanh toán hóa đơn | Mobile Banking, Internet Banking, QR Code, ATM, Quầy giao dịch |
+
+Giao dịch tại quầy chỉ trong giờ giao dịch tại quầy: thứ Hai đến thứ Sáu, 08:00–11:30 và 13:30–16:00. Phí của giao dịch qua Mobile Banking, Internet Banking, QR Code bằng 0.
 
 ## `de_nghi_vay_ca_nhan.csv`
 
