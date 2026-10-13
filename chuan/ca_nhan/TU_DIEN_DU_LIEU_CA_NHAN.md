@@ -1,6 +1,6 @@
 # Từ điển dữ liệu khách hàng cá nhân — Ngân hàng FTA
 
-Bộ dữ liệu chuẩn (13/10/2026): 10.000 khách hàng, 8.963 sổ tiền gửi, 2.160 hợp đồng vay, 1.192.193 giao dịch trong 12 tháng năm 2026, 100 hồ sơ đề nghị vay, bộ lịch sử 10.000 khoản vay.
+Bộ dữ liệu chuẩn (13/10/2026): 10.000 khách hàng, 8.851 sổ tiền gửi, 2.160 hợp đồng vay, 1.193.057 giao dịch trong 12 tháng năm 2026, 115 hồ sơ đề nghị vay, bộ lịch sử 10.000 khoản vay.
 
 Dữ liệu sinh lại ngày 12/10/2026 theo bộ quy tắc có căn cứ thực tế: nghề theo tuổi, thu nhập theo nghề và vùng, số dư tính theo thời gian, kỳ trả nợ theo công thức trả góp.
 

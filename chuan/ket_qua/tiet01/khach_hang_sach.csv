@@ -333,7 +333,7 @@ KH008903,Đặng Bảo Hưng,1999-11-03,Nam,017099362441,TP Hồ Chí Minh,Kế 
 KH003776,Nguyễn Mai Xuân,1956-03-26,Nữ,093156231561,Cần Thơ,Hưu trí,Phổ thông,Cá nhân,CN Cần Thơ,2014-07-29,Tại quầy,Đang hoạt động,Không,Không,0812450448,xuannm56919@gmail.com
 KH002351,Vũ Thị Tâm,2006-11-25,Nữ,077306349374,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Quận 1,2021-12-13,Tại quầy,Đang hoạt động,Không,Không,0882421273,tamvt06117@gmail.com
 KH000392,Ngô Văn Vinh,1980-05-04,Nam,024080064405,Cần Thơ,Công nhân,Phổ thông,Cá nhân,CN Cần Thơ,2018-11-20,Tại quầy,Đang hoạt động,Có,Không,0343401854,vinhnv80984@gmail.com
-KH006251,Lê Đình Lực,2011-01-20,Nam,079211278141,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2026-02-26,Tại quầy,Đang hoạt động,Có,Không,0355704651,lucld11571@gmail.com
+KH006252,Trần Văn Đức,1971-07-12,Nam,074071539980,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Quận 1,2013-03-11,Tại quầy,Đang hoạt động,Không,Không,0866535065,ductv7154@outlook.com
 KH007547,Dương Anh Dũng,2004-06-10,Nam,074204328363,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Bình Dương,2019-09-23,Tại quầy,Đang hoạt động,Không,Không,0375944159,dungda04836@gmail.com
 KH007512,Ngô Văn Minh,1989-07-19,Nam,048089034394,Đà Nẵng,Kinh doanh tự do,Phổ thông,Cá nhân,CN Đà Nẵng,2021-04-26,Tại quầy,Đang hoạt động,Không,Không,0935699709,minhnv89312@gmail.com
 KH006613,Nguyễn Anh Khoa,2009-08-17,Nam,079209247020,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2024-08-30,Trực tuyến,Đang hoạt động,Không,Không,0589192363,khoana09760@gmail.com
@@ -517,7 +517,7 @@ KH005216,Nguyễn Thu Liên,1969-08-10,Nữ,001169192439,Hà Nội,Bán hàng,Ph
 KH000548,Nguyễn Ngọc Lam,1977-07-03,Nữ,030177652841,Hải Phòng,Bán hàng,Phổ thông,Cá nhân,CN Hải Phòng,2020-03-17,Tại quầy,Đang hoạt động,Không,Không,0973289930,lamnn77269@gmail.com
 KH000868,Trần Công Thịnh,1961-10-01,Nam,042061306443,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2025-05-28,Tại quầy,Đang hoạt động,Không,Không,0868321514,thinhtc61422@gmail.com
 KH006971,Dương Thị Liên,1986-12-12,Nữ,077186204318,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Bình Dương,2017-02-06,Tại quầy,Đã đóng,Không,Không,0859004863,liendt86527@gmail.com
-KH007031,Bùi Ngọc Hằng,1961-07-31,Nữ,077161525854,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Quận 1,2018-10-02,Tại quầy,Đang hoạt động,Không,Không,,hangbn61625@outlook.com
+KH007031,Bùi Ngọc Hằng,1961-07-31,Nữ,077161525854,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Quận 1,2018-10-02,Tại quầy,Đang hoạt động,Không,Không,0345721027,hangbn61625@outlook.com
 KH003672,Nguyễn Hữu Việt,1972-01-22,Nam,094072881845,Cần Thơ,Bán hàng,Phổ thông,Cá nhân,CN Cần Thơ,2018-10-10,Tại quầy,Đang hoạt động,Không,Không,0832873936,vietnh7231@outlook.com
 KH005521,Bùi Xuân Hùng,1975-12-31,Nam,066075656287,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2024-11-21,Tại quầy,Đang hoạt động,Không,Không,0382367253,hungbx75260@gmail.com
 KH003830,Trần Văn Hải,1969-04-16,Nam,001069947024,Hà Nội,Nhân viên văn phòng,Ưu tiên,Cá nhân,CN Hoàn Kiếm,2021-04-02,Tại quầy,Đang hoạt động,Không,Không,0820069595,haitv69157@yahoo.com
@@ -971,7 +971,7 @@ KH009277,Trương Minh Hiếu,2006-12-31,Nam,064206354204,Gia Lai,"Học sinh, s
 KH008988,Bùi Minh Sơn,1958-04-28,Nam,077058334054,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Bình Dương,2018-05-24,Tại quầy,Đang hoạt động,Không,Không,0343281419,sonbm58770@gmail.com
 KH005551,Nguyễn Xuân Thắng,1965-07-07,Nam,079065481482,TP Hồ Chí Minh,Bác sĩ,Ưu tiên,Cá nhân,CN Bình Dương,2026-04-20,Tại quầy,Đang hoạt động,Không,Không,0986294363,thangnx65260@gmail.com
 KH009488,Nguyễn Mai Oanh,2005-11-20,Nữ,038305377713,Hải Phòng,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Hải Phòng,2020-12-18,Tại quầy,Ngừng giao dịch,Không,Không,0864511426,oanhnm05767@gmail.com
-KH005433,Nguyễn Thanh Liên,1985-11-30,Nữ,077185643523,TP Hồ Chí Minh,Kinh doanh tự do,Ưu tiên,Cá nhân,CN Quận 1,2016-05-10,Tại quầy,Đang hoạt động,Không,Không,0396562621,liennt85385@gmail.com
+KH005433,Nguyễn Thanh Liên,1985-11-30,Nữ,077185643523,TP Hồ Chí Minh,Kinh doanh tự do,Ưu tiên,Cá nhân,CN Quận 1,2016-05-10,Tại quầy,Đang hoạt động,Không,Không,,liennt85385@gmail.com
 KH008095,Lê Đức Tâm,1958-11-02,Nam,074058645759,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Quận 1,2020-11-10,Tại quầy,Đang hoạt động,Không,Không,0844724955,tamld58826@gmail.com
 KH007259,Nguyễn Đức Khánh,1973-06-10,Nam,079073045766,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Bình Dương,2025-12-02,Tại quầy,Đang hoạt động,Không,Không,0386146458,khanhnd7331@gmail.com
 KH002297,Bùi Phương Chi,1986-04-18,Nữ,079186183281,TP Hồ Chí Minh,Bán hàng,Phổ thông,Cá nhân,CN Bình Dương,2025-03-19,Trực tuyến,Đang hoạt động,Không,Không,0858932255,chibp86621@gmail.com
@@ -2026,7 +2026,7 @@ KH007429,Lê Văn Hải,1995-01-10,Nam,074095145997,TP Hồ Chí Minh,Công ch�
 KH007657,Lê Thảo Hồng,1981-04-07,Nữ,001181295235,Hà Nội,Nội trợ,Phổ thông,Cá nhân,CN Cầu Giấy,2025-08-10,Trực tuyến,Đang hoạt động,Không,Không,0332573516,honglt81734@gmail.com
 KH009647,Trần Hữu An,1981-12-23,Nam,096081423939,TP Hồ Chí Minh,Lái xe,Phổ thông,Cá nhân,CN Quận 1,2024-02-29,Tại quầy,Đang hoạt động,Không,Không,0364250056,anth8140@outlook.com
 KH009516,Ngô Kim Xuân,1995-09-09,Nữ,079195816315,TP Hồ Chí Minh,Công nhân,Phổ thông,Cá nhân,CN Bình Dương,2019-09-03,Tại quầy,Ngừng giao dịch,Không,Không,0855513539,xuannk95864@gmail.com
-KH005765,Hoàng Diệu Lan,1982-09-10,Nữ,031182484339,Hải Phòng,Công nhân,Phổ thông,Cá nhân,CN Hải Phòng,2014-10-15,Tại quầy,Đang hoạt động,Không,Không,,lanhd82144@gmail.com
+KH005765,Hoàng Diệu Lan,1982-09-10,Nữ,031182484339,Hải Phòng,Công nhân,Phổ thông,Cá nhân,CN Hải Phòng,2014-10-15,Tại quầy,Đang hoạt động,Không,Không,0766311428,lanhd82144@gmail.com
 KH001356,Nguyễn Hồng Duyên,1956-10-30,Nữ,030156846149,Hải Phòng,Hưu trí,Ưu tiên,Cá nhân,CN Hải Phòng,2014-05-05,Tại quầy,Đang hoạt động,Không,Không,0322279187,duyennh56365@yahoo.com
 KH009564,Đặng Bảo Khang,1985-05-23,Nam,077085008401,TP Hồ Chí Minh,Kỹ sư,Phổ thông,Cá nhân,CN Bình Dương,2025-03-24,Tại quầy,Đang hoạt động,Không,Không,0525478446,khangdb85613@gmail.com
 KH008806,Nguyễn Văn Nghĩa,1945-04-23,Nam,079045833390,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Quận 1,2020-05-11,Tại quầy,Đang hoạt động,Không,Không,0910703820,nghianv45300@gmail.com
@@ -2052,7 +2052,7 @@ KH006515,Hà Thị My,1995-04-12,Nữ,026195270384,TP Hồ Chí Minh,Công nhân
 KH001068,Nguyễn Phương Hương,1992-03-27,Nữ,001192885770,Hà Nội,Công chức,Phổ thông,Cá nhân,CN Thanh Xuân,2024-07-09,Trực tuyến,Đang hoạt động,Không,Không,0867636940,huongnp92965@gmail.com
 KH009061,Nguyễn Thùy Hồng,1996-01-17,Nữ,077196655705,TP Hồ Chí Minh,Công nhân,Phổ thông,Cá nhân,CN Quận 1,2019-02-12,Tại quầy,Đang hoạt động,Không,Không,0925035712,hongnt96239@gmail.com
 KH008776,Lưu Thị Vân,1984-09-15,Nữ,001184441463,Hà Nội,Kinh doanh tự do,Phổ thông,Cá nhân,CN Cầu Giấy,2012-09-26,Tại quầy,Đang hoạt động,Không,Không,0772149272,vanlt84311@gmail.com
-KH001568,Hồ Đức Quân,1957-10-03,Nam,019057811301,Hà Nội,Hưu trí,Phổ thông,Cá nhân,CN Thanh Xuân,2017-12-25,Tại quầy,Đang hoạt động,Không,Không,0853028430,quanhd57989@icloud.com
+KH001568,Hồ Đức Quân,1957-10-03,Nam,019057811301,Hà Nội,Hưu trí,Phổ thông,Cá nhân,CN Thanh Xuân,2017-12-25,Tại quầy,Đang hoạt động,Không,Không,,quanhd57989@icloud.com
 KH003427,Nguyễn Thị Lam,1993-10-14,Nữ,030193996392,Hải Phòng,Nội trợ,Phổ thông,Cá nhân,CN Hải Phòng,2022-02-06,Trực tuyến,Đang hoạt động,Không,Không,0367996857,lamnt93657@gmail.com
 KH001302,Trần Diệu Yến,2006-04-22,Nữ,093306151264,Cần Thơ,Công nhân,Phổ thông,Cá nhân,CN Cần Thơ,2024-03-12,Trực tuyến,Đang hoạt động,Không,Không,0983632788,yentd06366@gmail.com
 KH005435,Lê Ngọc Nga,2009-08-22,Nữ,001309277180,Hà Nội,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Thanh Xuân,2024-09-18,Trực tuyến,Đang hoạt động,Không,Không,0867362232,ngaln09706@outlook.com
@@ -2090,7 +2090,7 @@ KH007245,Trần Văn Hiếu,2000-05-04,Nam,001200120050,Hà Nội,Công nhân,Ph
 KH009100,Đặng Kim Nhi,1972-06-14,Nữ,001172105259,Hà Nội,Công nhân,Phổ thông,Cá nhân,CN Thanh Xuân,2021-07-23,Tại quầy,Đang hoạt động,Không,Không,0768723146,nhidk7267@gmail.com
 KH010000,Đặng Tuấn Tâm,1975-02-21,Nam,038075581935,Thanh Hóa,Bán hàng,Phổ thông,Cá nhân,CN Cầu Giấy,2019-12-31,Tại quầy,Đang hoạt động,Không,Không,0945269447,tamdt7566@gmail.com
 KH001152,Lý Ngọc Lam,1975-04-06,Nữ,015175247871,Hải Phòng,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Thanh Xuân,2017-03-20,Tại quầy,Đang hoạt động,Không,Không,0986441842,lamln75235@gmail.com
-KH005481,Nguyễn Diệu Huyền,1965-10-25,Nữ,074165036429,TP Hồ Chí Minh,Hưu trí,Ưu tiên,Cá nhân,CN TP Hồ Chí Minh,2015-09-21,Tại quầy,Đang hoạt động,Không,Không,0354858156,huyennd6521@outlook.com
+KH005481,Nguyễn Diệu Huyền,1965-10-25,Nữ,074165036429,TP Hồ Chí Minh,Hưu trí,Ưu tiên,Cá nhân,CN TP Hồ Chí Minh,2015-09-21,Tại quầy,Đang hoạt động,Không,Không,,huyennd6521@outlook.com
 KH000923,Võ Văn Vinh,1987-10-10,Nam,030087545533,Hải Phòng,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Hải Phòng,2024-08-12,Tại quầy,Đang hoạt động,Không,Không,0902066254,vinhvv87919@gmail.com
 KH006707,Trần Mai Liên,1973-09-21,Nữ,001173099187,Hà Nội,Công chức,Phổ thông,Cá nhân,CN Thanh Xuân,2019-05-20,Tại quầy,Đã đóng,Không,Không,0886730921,lientm73900@gmail.com
 KH001970,Nguyễn Xuân Hoàng,1982-03-19,Nam,056082271991,Hà Nội,Công nhân,Phổ thông,Cá nhân,CN Thanh Xuân,2024-01-24,Trực tuyến,Đang hoạt động,Không,Không,0376895037,hoangnx82341@gmail.com
@@ -2456,7 +2456,7 @@ KH005908,Trần Quang Sơn,2002-11-13,Nam,077202708476,TP Hồ Chí Minh,Công n
 KH009303,Nguyễn Xuân Toàn,1995-12-08,Nam,001095352710,Hà Nội,Công chức,Phổ thông,Cá nhân,CN Hoàn Kiếm,2012-06-15,Tại quầy,Đang hoạt động,Không,Không,0869463752,toannx95522@gmail.com
 KH000468,Lê Minh Lam,1968-12-17,Nữ,001168583008,TP Hồ Chí Minh,Hưu trí,Ưu tiên,Cá nhân,CN Bình Dương,2025-09-03,Trực tuyến,Đang hoạt động,Không,Không,0963632696,lamlm68751@gmail.com
 KH009614,Huỳnh Quang An,1988-05-09,Nam,001088551020,Hà Nội,Kế toán,Phổ thông,Cá nhân,CN Cầu Giấy,2020-11-24,Tại quầy,Đang hoạt động,Không,Không,0351759541,anhq8852@gmail.com
-KH002993,Trần Trung Duy,1968-05-20,Nam,001068837013,Hà Nội,Lái xe,Phổ thông,Cá nhân,CN Cầu Giấy,2012-06-01,Tại quầy,Đang hoạt động,Không,Không,0325123776,duytt68869@gmail.com
+KH002993,Trần Trung Duy,1968-05-20,Nam,001068837013,Hà Nội,Lái xe,Phổ thông,Cá nhân,CN Cầu Giấy,2012-06-01,Tại quầy,Đang hoạt động,Không,Không,,duytt68869@gmail.com
 KH001771,Lê Quang Khang,1989-07-10,Nam,079089320315,TP Hồ Chí Minh,Kỹ sư,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2021-06-28,Trực tuyến,Đang hoạt động,Không,Không,0385260494,khanglq89215@outlook.com
 KH009298,Trần Ngọc Nhung,1985-06-08,Nữ,030185285470,Hải Phòng,Bác sĩ,Phổ thông,Cá nhân,CN Hải Phòng,2015-10-05,Tại quầy,Ngừng giao dịch,Không,Không,0963251532,nhungtn85897@gmail.com
 KH006995,Dương Kim Hằng,1976-04-11,Nữ,031176467690,Hải Phòng,Nội trợ,Phổ thông,Cá nhân,CN Hải Phòng,2022-11-02,Tại quầy,Đang hoạt động,Không,Không,0799670409,hangdk76551@yahoo.com
@@ -2767,6 +2767,7 @@ KH002644,Hoàng Thùy Nhung,1980-01-03,Nữ,049180304781,Đà Nẵng,Bán hàng,
 KH004612,Nguyễn Hữu Hùng,1972-09-03,Nam,049072822142,Đà Nẵng,Lái xe,Ưu tiên,Cá nhân,CN Đà Nẵng,2024-12-19,Tại quầy,Ngừng giao dịch,Không,Không,0778711856,hungnh725@icloud.com
 KH004246,Mai Minh Thủy,1941-08-30,Nữ,040141086306,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Bình Dương,2022-01-12,Tại quầy,Đang hoạt động,Không,Không,0918485440,thuymm41282@gmail.com
 KH005859,Nguyễn Diệu Giang,1971-03-24,Nữ,079171235466,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Bình Dương,2020-08-11,Tại quầy,Đang hoạt động,Không,Không,0700076737,giangnd71164@gmail.com
+KH006251,Lê Đình Lực,2011-01-20,Nam,079211278141,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2026-02-26,Tại quầy,Đang hoạt động,Có,Không,0355704651,lucld11571@gmail.com
 KH008201,Vũ Thanh Khánh,1994-03-22,Nam,030094755117,Hải Phòng,Bán hàng,Phổ thông,Cá nhân,CN Hải Phòng,2025-07-01,Trực tuyến,Đang hoạt động,Không,Không,0322712279,khanhvt94314@gmail.com
 KH009379,Hồ Hoàng Thành,1996-08-04,Nam,031096203345,Hải Phòng,Lái xe,Phổ thông,Cá nhân,CN Hải Phòng,2015-06-04,Tại quầy,Đang hoạt động,Không,Không,0866595346,thanhhh96776@gmail.com
 KH005828,Đỗ Anh Cường,1985-10-01,Nam,001085036017,Hà Nội,Kỹ sư,Phổ thông,Cá nhân,CN Thanh Xuân,2020-08-18,Tại quầy,Đã đóng,Không,Không,0910526981,cuongda85313@gmail.com
@@ -3185,7 +3186,7 @@ KH000047,Nguyễn Khánh My,1973-04-20,Nữ,001173079628,Hà Nội,Công nhân,�
 KH009404,Nguyễn Thảo Quyên,1980-11-29,Nữ,033180940783,TP Hồ Chí Minh,Giáo viên,Phổ thông,Cá nhân,CN Bình Dương,2022-11-16,Trực tuyến,Đang hoạt động,Không,Không,0854565748,quyennt80137@outlook.com
 KH000406,Phạm Quốc Nghĩa,1979-03-02,Nam,093079761453,Cần Thơ,Kinh doanh tự do,Phổ thông,Cá nhân,CN Cần Thơ,2026-02-23,Tại quầy,Đang hoạt động,Không,Không,0961991709,nghiapq79145@gmail.com
 KH002699,Đặng Diệu Thư,2011-07-29,Nữ,077311145863,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Quận 1,2026-11-10,Trực tuyến,Đang hoạt động,Không,Không,0928538995,thudd11878@gmail.com
-KH003128,Nguyễn Đình Hùng,1968-03-22,Nam,060068478756,Lâm Đồng,Giáo viên,Ưu tiên,Cá nhân,CN Thanh Xuân,2017-10-30,Tại quầy,Đang hoạt động,Không,Không,0848248925,hungnd68574@gmail.com
+KH003128,Nguyễn Đình Hùng,1968-03-22,Nam,060068478756,Lâm Đồng,Giáo viên,Ưu tiên,Cá nhân,CN Thanh Xuân,2017-10-30,Tại quầy,Đang hoạt động,Không,Không,,hungnd68574@gmail.com
 KH007019,Phan Phương Hậu,1947-11-26,Nữ,092147309155,Cần Thơ,Hưu trí,Phổ thông,Cá nhân,CN Cần Thơ,2014-12-08,Tại quầy,Đang hoạt động,Không,Không,0321916084,haupp47764@gmail.com
 KH006360,Phạm Phương Mai,2000-03-14,Nữ,079300752417,TP Hồ Chí Minh,Bán hàng,Phổ thông,Cá nhân,CN Quận 1,2025-09-26,Tại quầy,Ngừng giao dịch,Không,Không,0869055222,maipp00812@gmail.com
 KH006296,Nguyễn Hồng Hoa,1993-01-05,Nữ,077193819142,TP Hồ Chí Minh,Kỹ sư,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2018-01-04,Tại quầy,Đang hoạt động,Không,Không,0845020609,hoanh93360@gmail.com
@@ -3264,11 +3265,11 @@ KH000763,Bùi Văn Phong,1992-06-21,Nam,096092446416,Cà Mau,Kế toán,Phổ th
 KH009709,Nguyễn Công Đạt,1988-07-16,Nam,077088491144,TP Hồ Chí Minh,Kỹ sư,Phổ thông,Cá nhân,CN Quận 1,2023-05-22,Trực tuyến,Đang hoạt động,Không,Không,0819792763,datnc88851@gmail.com
 KH006973,Nguyễn Đình Hải,2003-12-10,Nam,074203460201,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Bình Dương,2018-12-19,Tại quầy,Đang hoạt động,Không,Không,0785990052,haind0346@icloud.com
 KH007067,Đỗ Đức Tùng,1977-09-14,Nam,049077684972,Đà Nẵng,Kinh doanh tự do,Phổ thông,Cá nhân,CN Đà Nẵng,2019-03-18,Tại quầy,Đang hoạt động,Không,Không,0359228316,tungdd77426@gmail.com
-KH003156,Trần Đức Long,1980-11-30,Nam,077080926143,Đà Nẵng,Công nhân,Phổ thông,Cá nhân,CN Đà Nẵng,2025-02-05,Trực tuyến,Đã đóng,Không,Không,,longtd80272@gmail.com
+KH003156,Trần Đức Long,1980-11-30,Nam,077080926143,Đà Nẵng,Công nhân,Phổ thông,Cá nhân,CN Đà Nẵng,2025-02-05,Trực tuyến,Đã đóng,Không,Không,0916179500,longtd80272@gmail.com
 KH005998,Nguyễn Công Hùng,1988-10-20,Nam,077088257321,TP Hồ Chí Minh,Lái xe,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2022-07-06,Tại quầy,Đang hoạt động,Không,Không,0774310063,hungnc88583@gmail.com
 KH000774,Đinh Mai Ngân,1961-06-29,Nữ,074161756886,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Bình Dương,2015-04-17,Tại quầy,Đang hoạt động,Không,Không,0375257165,ngandm61412@outlook.com
 KH007304,Trần Bảo Anh,1961-08-21,Nữ,048161724641,Đà Nẵng,Hưu trí,Phổ thông,Cá nhân,CN Đà Nẵng,2019-04-19,Tại quầy,Đang hoạt động,Không,Không,0324114038,anhtb61278@icloud.com
-KH005432,Nguyễn Phương Duyên,1959-06-25,Nữ,035159112319,Cần Thơ,Hưu trí,Ưu tiên,Cá nhân,CN Cần Thơ,2014-09-01,Tại quầy,Đang hoạt động,Không,Không,,duyennp59979@gmail.com
+KH005432,Nguyễn Phương Duyên,1959-06-25,Nữ,035159112319,Cần Thơ,Hưu trí,Ưu tiên,Cá nhân,CN Cần Thơ,2014-09-01,Tại quầy,Đang hoạt động,Không,Không,0792669647,duyennp59979@gmail.com
 KH000760,Phan Hữu Phúc,1995-11-26,Nam,033095437157,Hưng Yên,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Cầu Giấy,2020-08-03,Tại quầy,Đang hoạt động,Không,Không,0998275783,phucph95232@gmail.com
 KH003515,Nguyễn Thanh Trung,2001-12-08,Nam,031201363546,Hải Phòng,Kinh doanh tự do,Phổ thông,Cá nhân,CN Hải Phòng,2024-06-10,Tại quầy,Ngừng giao dịch,Không,Không,0970686335,trungnt0183@gmail.com
 KH008247,Trần Văn Phúc,2008-05-16,Nam,074208558683,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2023-06-05,Tại quầy,Đang hoạt động,Không,Không,0916680591,phuctv0832@gmail.com
@@ -4060,7 +4061,7 @@ KH007455,Phạm Diệu Hà,1990-04-18,Nữ,075190975455,Đồng Nai,Kinh doanh t
 KH002727,Trần Thùy Nga,1961-10-15,Nữ,080161281803,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Quận 1,2019-09-19,Tại quầy,Đang hoạt động,Không,Không,0821042113,ngatt61454@yahoo.com
 KH005896,Vũ Thảo Thảo,2011-10-08,Nữ,054311562871,Hà Nội,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Thanh Xuân,2026-10-16,Trực tuyến,Đang hoạt động,Không,Không,0379841519,thaovt11559@gmail.com
 KH001309,Nguyễn Mai Chi,1991-09-14,Nữ,092191372875,Cần Thơ,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Cần Thơ,2017-09-25,Tại quầy,Đang hoạt động,Không,Không,0853827275,chinm91569@icloud.com
-KH006377,Nguyễn Bảo Loan,1982-09-15,Nữ,079182718583,TP Hồ Chí Minh,Công nhân,Phổ thông,Cá nhân,CN Bình Dương,2012-11-02,Tại quầy,Đang hoạt động,Không,Không,0525327816,loannb82846@gmail.com
+KH006377,Nguyễn Bảo Loan,1982-09-15,Nữ,079182718583,TP Hồ Chí Minh,Công nhân,Phổ thông,Cá nhân,CN Bình Dương,2012-11-02,Tại quầy,Đang hoạt động,Không,Không,,loannb82846@gmail.com
 KH005700,Nguyễn Thu Vân,1987-06-12,Nữ,001187699393,Hà Nội,Giáo viên,Phổ thông,Cá nhân,CN Hoàn Kiếm,2021-05-28,Tại quầy,Đang hoạt động,Không,Không,0818086991,vannt87818@gmail.com
 KH004495,Bùi Văn Phúc,1982-08-26,Nam,074082019100,Đà Nẵng,Công nhân,Phổ thông,Cá nhân,CN Đà Nẵng,2016-09-19,Tại quầy,Đang hoạt động,Không,Không,0703936538,phucbv82934@gmail.com
 KH009976,Dương Mai Hậu,1975-09-17,Nữ,001175674389,Hà Nội,Kinh doanh tự do,Phổ thông,Cá nhân,CN Thanh Xuân,2021-09-06,Tại quầy,Đang hoạt động,Không,Không,0767638168,haudm75127@gmail.com
@@ -4220,7 +4221,7 @@ KH002963,Trần Thị Thủy,1968-12-12,Nữ,079168577693,TP Hồ Chí Minh,Hưu
 KH001036,Lê Minh Đạt,1957-04-09,Nam,001057141744,TP Hồ Chí Minh,Hưu trí,Ưu tiên,Cá nhân,CN TP Hồ Chí Minh,2025-08-18,Tại quầy,Đang hoạt động,Không,Không,0792062119,datlm57250@gmail.com
 KH002914,Nguyễn Bảo Trang,1985-12-10,Nữ,030185017376,Hải Phòng,Công nhân,Phổ thông,Cá nhân,CN Hải Phòng,2025-04-28,Tại quầy,Đang hoạt động,Không,Không,0524712411,trangnb85202@outlook.com
 KH003663,Lưu Trung Việt,1980-05-09,Nam,074080302711,TP Hồ Chí Minh,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Bình Dương,2026-02-27,Trực tuyến,Đang hoạt động,Không,Không,0810374839,vietlt80636@gmail.com
-KH001280,Trần Minh Mai,1952-11-20,Nữ,094152559279,Cần Thơ,Hưu trí,Phổ thông,Cá nhân,CN Cần Thơ,2012-11-15,Tại quầy,Đang hoạt động,Không,Không,,maitm52310@gmail.com
+KH001280,Trần Minh Mai,1952-11-20,Nữ,094152559279,Cần Thơ,Hưu trí,Phổ thông,Cá nhân,CN Cần Thơ,2012-11-15,Tại quầy,Đang hoạt động,Không,Không,0561269136,maitm52310@gmail.com
 KH007601,Trần Thị Yến,1987-09-07,Nữ,074187463716,TP Hồ Chí Minh,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Quận 1,2021-04-05,Tại quầy,Đang hoạt động,Không,Không,0708974144,yentt87683@gmail.com
 KH000074,Đỗ Tuấn Trung,1959-03-09,Nam,048059805120,Cần Thơ,Hưu trí,Phổ thông,Cá nhân,CN Cần Thơ,2021-01-19,Tại quầy,Đang hoạt động,Không,Không,0326277117,trungdt59675@yahoo.com
 KH009645,Trần Hữu Lực,1970-06-15,Nam,072070076894,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Quận 1,2018-08-15,Tại quầy,Đang hoạt động,Không,Không,0338288536,lucth70477@gmail.com
@@ -5427,7 +5428,7 @@ KH001038,Trịnh Kim Thảo,1974-05-24,Nữ,048174344033,Đà Nẵng,Kỹ sư,Ph
 KH009664,Trần Trung Việt,2003-04-19,Nam,074203991470,TP Hồ Chí Minh,Lái xe,Phổ thông,Cá nhân,CN Bình Dương,2024-10-21,Trực tuyến,Đang hoạt động,Không,Không,0899755286,viettt03947@icloud.com
 KH003786,Lê Minh Xuân,1999-01-22,Nữ,001199206415,Hà Nội,Giáo viên,Phổ thông,Cá nhân,CN Cầu Giấy,2017-09-15,Tại quầy,Đang hoạt động,Không,Không,0369117156,xuanlm99201@yahoo.com
 KH005651,Trần Công Sơn,2000-02-05,Nam,024200783809,TP Hồ Chí Minh,Công nhân,Phổ thông,Cá nhân,CN Quận 1,2018-02-05,Tại quầy,Đang hoạt động,Không,Không,0323345867,sontc001@gmail.com
-KH006784,Dương Thùy Huyền,1990-07-26,Nữ,075190266435,Hà Nội,Giáo viên,Phổ thông,Cá nhân,CN Hoàn Kiếm,2014-02-04,Tại quầy,Đang hoạt động,Không,Không,0337131358,huyendt90290@gmail.com
+KH006784,Dương Thùy Huyền,1990-07-26,Nữ,075190266435,Hà Nội,Giáo viên,Phổ thông,Cá nhân,CN Hoàn Kiếm,2014-02-04,Tại quầy,Đang hoạt động,Không,Không,,huyendt90290@gmail.com
 KH001329,Lê Văn Vinh,2010-07-18,Nam,077210614154,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Quận 1,2025-12-10,Trực tuyến,Đang hoạt động,Không,Không,0380027179,vinhlv10290@gmail.com
 KH001279,Lê Xuân Nghĩa,1984-11-05,Nam,048084476377,Hà Nội,Lái xe,Phổ thông,Cá nhân,CN Thanh Xuân,2025-07-09,Trực tuyến,Đang hoạt động,Có,Không,0349535025,nghialx84903@gmail.com
 KH000446,Trương Quang Kiên,1998-12-09,Nam,001098135766,Hà Nội,Công chức,Phổ thông,Cá nhân,CN Hoàn Kiếm,2025-08-14,Tại quầy,Đang hoạt động,Không,Không,0887611275,kientq98352@gmail.com
@@ -5552,7 +5553,7 @@ KH007267,Lý Hoàng Quân,1991-02-06,Nam,062091345051,Hà Nội,Kinh doanh tự 
 KH000136,Đặng Hoài Vy,1983-04-16,Nữ,001183980209,Hà Nội,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Hoàn Kiếm,2019-08-22,Tại quầy,Ngừng giao dịch,Không,Không,0373711262,vydh83686@gmail.com
 KH007634,Lê Công Hiếu,1988-08-14,Nam,094088875903,Cần Thơ,Lái xe,Phổ thông,Cá nhân,CN Cần Thơ,2016-01-25,Tại quầy,Đang hoạt động,Không,Không,0966126005,hieulc88164@gmail.com
 KH008288,Lê Đức Hải,1996-05-17,Nam,001096660292,Hà Nội,Bán hàng,Phổ thông,Cá nhân,CN Thanh Xuân,2017-04-17,Tại quầy,Đang hoạt động,Không,Không,0389955972,haild9640@gmail.com
-KH006170,Trần Thùy Trang,1997-09-29,Nữ,092197822980,Cần Thơ,Kinh doanh tự do,Phổ thông,Cá nhân,CN Cần Thơ,2021-01-15,Trực tuyến,Đang hoạt động,Không,Không,0371886192,trangtt97346@gmail.com
+KH006171,Nguyễn Minh Lan,1963-02-22,Nữ,079163159123,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Quận 1,2023-06-13,Tại quầy,Đang hoạt động,Không,Không,0353472509,lannm63927@gmail.com
 KH002252,Phan Phương Dung,1979-09-03,Nữ,079179561699,TP Hồ Chí Minh,Bán hàng,Ưu tiên,Cá nhân,CN TP Hồ Chí Minh,2014-12-09,Tại quầy,Đang hoạt động,Không,Không,0361419187,dungpp79123@gmail.com
 KH004332,Nguyễn Ngọc Tâm,1967-04-15,Nữ,077167229876,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Quận 1,2013-04-26,Tại quầy,Đã đóng,Không,Không,0584980022,tamnn67425@gmail.com
 KH005704,Lưu Ngọc Thư,1953-01-24,Nữ,074153584375,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2025-11-20,Trực tuyến,Ngừng giao dịch,Không,Không,0829903360,thuln53113@gmail.com
@@ -5676,14 +5677,14 @@ KH005317,Trương Gia Quân,1980-12-12,Nam,001080557148,Hà Nội,Bán hàng,Ưu
 KH001961,Lê Thị Hậu,1992-12-25,Nữ,052192884736,Cần Thơ,Bán hàng,Phổ thông,Cá nhân,CN Cần Thơ,2023-02-16,Trực tuyến,Đang hoạt động,Không,Không,0980274603,hault92358@gmail.com
 KH009069,Trần Thảo Huyền,1981-07-21,Nữ,079181743248,TP Hồ Chí Minh,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Quận 1,2012-08-24,Tại quầy,Đang hoạt động,Không,Không,0356556148,huyentt81403@gmail.com
 KH004469,Nguyễn Diệu Thủy,1993-05-17,Nữ,001193393185,Hà Nội,Công chức,Phổ thông,Cá nhân,CN Thanh Xuân,2019-09-26,Tại quầy,Đang hoạt động,Không,Không,0525439402,thuynd93721@gmail.com
-KH007268,Tô Phương Quyên,1994-06-13,Nữ,074194583911,TP Hồ Chí Minh,Kế toán,Phổ thông,Cá nhân,CN Cầu Giấy,2013-07-09,Tại quầy,Đang hoạt động,Không,Không,,quyentp94397@gmail.com
+KH007268,Tô Phương Quyên,1994-06-13,Nữ,074194583911,TP Hồ Chí Minh,Kế toán,Phổ thông,Cá nhân,CN Cầu Giấy,2013-07-09,Tại quầy,Đang hoạt động,Không,Không,0899192531,quyentp94397@gmail.com
 KH004872,Lê Thanh An,1983-10-19,Nam,079083869822,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Quận 1,2020-01-13,Tại quầy,Đang hoạt động,Không,Không,0320385467,anlt83944@gmail.com
 KH004675,Nguyễn Thị Vân,1990-11-14,Nữ,031190798906,Hải Phòng,Nội trợ,Phổ thông,Cá nhân,CN Hải Phòng,2020-09-03,Tại quầy,Ngừng giao dịch,Không,Không,0965407798,vannt90344@gmail.com
 KH009758,Trương Thanh Vân,1991-09-03,Nữ,077191616371,TP Hồ Chí Minh,Giáo viên,Phổ thông,Cá nhân,CN Bình Dương,2024-07-05,Trực tuyến,Đang hoạt động,Không,Không,0899193536,vantt91397@gmail.com
 KH003721,Nguyễn Ngọc Tâm,1960-06-13,Nữ,074160647885,TP Hồ Chí Minh,Bán hàng,Phổ thông,Cá nhân,CN Bình Dương,2020-08-06,Tại quầy,Đang hoạt động,Không,Không,0324719298,tamnn60864@gmail.com
 KH007118,Nguyễn Bảo Hạnh,1974-12-07,Nữ,087174296938,TP Hồ Chí Minh,Bán hàng,Phổ thông,Cá nhân,CN Bình Dương,2025-08-11,Trực tuyến,Đang hoạt động,Không,Không,0320275906,hanhnb74467@gmail.com
 KH004768,Võ Xuân Hùng,1988-09-17,Nam,074088088552,TP Hồ Chí Minh,Công nhân,Ưu tiên,Cá nhân,CN Bình Dương,2016-01-22,Tại quầy,Đang hoạt động,Không,Không,0348854611,hungvx88740@gmail.com
-KH001288,Bùi Quốc Trung,1978-05-30,Nam,001078513769,Hà Nội,Công nhân,Ưu tiên,Cá nhân,CN Cầu Giấy,2013-04-22,Tại quầy,Đang hoạt động,Không,Không,0865399289,trungbq78383@gmail.com
+KH001288,Bùi Quốc Trung,1978-05-30,Nam,001078513769,Hà Nội,Công nhân,Ưu tiên,Cá nhân,CN Cầu Giấy,2013-04-22,Tại quầy,Đang hoạt động,Không,Không,,trungbq78383@gmail.com
 KH001117,Nguyễn Mai Huyền,2010-04-28,Nữ,094310520202,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Quận 1,2025-05-07,Trực tuyến,Đang hoạt động,Không,Không,0378730455,huyennm10493@gmail.com
 KH000404,Nguyễn Minh Oanh,2005-02-05,Nữ,075305975251,Đồng Nai,Bán hàng,Phổ thông,Cá nhân,CN Bình Dương,2022-10-17,Tại quầy,Đang hoạt động,Không,Không,0320989842,oanhnm05295@gmail.com
 KH008864,Tạ Thị Chi,1977-01-31,Nữ,040177386388,TP Hồ Chí Minh,Bán hàng,Phổ thông,Cá nhân,CN Quận 1,2018-10-15,Tại quầy,Đang hoạt động,Không,Không,0333115024,chitt7779@gmail.com
@@ -5721,7 +5722,8 @@ KH009898,Bùi Kim My,2010-11-20,Nữ,079310119450,TP Hồ Chí Minh,"Học sinh,
 KH009639,Nguyễn Thị Loan,1980-01-26,Nữ,074180687213,TP Hồ Chí Minh,Kỹ sư,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2019-08-19,Tại quầy,Đang hoạt động,Không,Không,0852022585,loannt80201@gmail.com
 KH003541,Nguyễn Hồng Hằng,1975-07-14,Nữ,037175693756,Ninh Bình,Công nhân,Phổ thông,Cá nhân,CN Hải Phòng,2021-07-26,Tại quầy,Đang hoạt động,Không,Không,0326017204,hangnh7549@gmail.com
 KH004685,Lê Bảo Hạnh,1979-11-10,Nữ,001179863331,Hà Nội,Giáo viên,Ưu tiên,Cá nhân,CN Cầu Giấy,2015-09-22,Tại quầy,Đang hoạt động,Không,Không,0823336287,hanhlb793@gmail.com
-KH005638,Nguyễn Bảo Hoàng,1970-03-02,Nam,001070392804,Hà Nội,Bán hàng,Phổ thông,Cá nhân,CN Hoàn Kiếm,2012-09-28,Tại quầy,Đang hoạt động,Không,Không,0334094702,hoangnb7016@gmail.com
+KH006170,Trần Thùy Trang,1997-09-29,Nữ,092197822980,Cần Thơ,Kinh doanh tự do,Phổ thông,Cá nhân,CN Cần Thơ,2021-01-15,Trực tuyến,Đang hoạt động,Không,Không,0371886192,trangtt97346@gmail.com
+KH005638,Nguyễn Bảo Hoàng,1970-03-02,Nam,001070392804,Hà Nội,Bán hàng,Phổ thông,Cá nhân,CN Hoàn Kiếm,2012-09-28,Tại quầy,Đang hoạt động,Không,Không,,hoangnb7016@gmail.com
 KH008069,Trần Quang Sơn,1994-04-17,Nam,068094341082,Hà Nội,Kinh doanh tự do,Phổ thông,Cá nhân,CN Hoàn Kiếm,2014-06-02,Tại quầy,Đang hoạt động,Không,Không,0834961257,sontq94590@gmail.com
 KH003197,Lê Thanh An,1977-07-21,Nam,094077790687,Cần Thơ,Lái xe,Phổ thông,Cá nhân,CN Cần Thơ,2023-09-11,Tại quầy,Ngừng giao dịch,Không,Không,0839456671,anlt77690@yahoo.com
 KH007498,Trần Văn Huy,1993-11-26,Nam,001093850801,Hà Nội,Bán hàng,Phổ thông,Cá nhân,CN Cầu Giấy,2017-06-01,Tại quầy,Đang hoạt động,Không,Không,0910130378,huytv93429@gmail.com
@@ -5745,7 +5747,7 @@ KH007097,Nguyễn Thanh An,1946-06-11,Nam,092046919493,Cần Thơ,Hưu trí,Ph�
 KH003081,Nguyễn Thị Thủy,1979-02-14,Nữ,001179863934,Hà Nội,Nội trợ,Phổ thông,Cá nhân,CN Hoàn Kiếm,2016-06-13,Tại quầy,Đang hoạt động,Không,Không,0943050334,thuynt79434@gmail.com
 KH005688,Nguyễn Diệu Quyên,2005-12-24,Nữ,087305107903,Đồng Tháp,Công nhân,Phổ thông,Cá nhân,CN Đà Nẵng,2023-08-23,Tại quầy,Đang hoạt động,Không,Không,0363796983,quyennd05948@gmail.com
 KH007064,Hoàng Hoài Ngọc,1979-10-16,Nữ,077179650434,TP Hồ Chí Minh,Giáo viên,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2021-09-15,Trực tuyến,Đang hoạt động,Không,Không,0773791470,ngochh79931@gmail.com
-KH003124,Bùi Thảo Quyên,1988-09-05,Nữ,048188449151,Đà Nẵng,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Đà Nẵng,2012-07-31,Tại quầy,Ngừng giao dịch,Không,Không,,quyenbt88832@yahoo.com
+KH003124,Bùi Thảo Quyên,1988-09-05,Nữ,048188449151,Đà Nẵng,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Đà Nẵng,2012-07-31,Tại quầy,Ngừng giao dịch,Không,Không,0371667668,quyenbt88832@yahoo.com
 KH004725,Nguyễn Bảo Hải,1991-10-11,Nam,077091254914,TP Hồ Chí Minh,Công nhân,Phổ thông,Cá nhân,CN Quận 1,2013-09-24,Tại quầy,Đang hoạt động,Không,Không,0849259991,hainb91974@gmail.com
 KH002677,Lý Thị Duyên,2008-08-17,Nữ,030308790791,Hải Phòng,Công nhân,Phổ thông,Cá nhân,CN Thanh Xuân,2025-11-17,Tại quầy,Đang hoạt động,Không,Không,0973414754,duyenlt08481@gmail.com
 KH008170,Lưu Trung Nghĩa,1994-05-27,Nam,031094659725,Hải Phòng,Công nhân,Phổ thông,Cá nhân,CN Hải Phòng,2024-02-14,Tại quầy,Đang hoạt động,Không,Không,0786522165,nghialt94240@outlook.com
@@ -5874,7 +5876,7 @@ KH001096,Phan Thanh Hồng,1958-06-16,Nữ,079158698812,TP Hồ Chí Minh,Hưu t
 KH007956,Phạm Gia Nam,1989-02-18,Nam,030089146276,Hải Phòng,Công nhân,Phổ thông,Cá nhân,CN Hải Phòng,2016-01-25,Tại quầy,Đang hoạt động,Không,Không,0348873459,nampg89908@gmail.com
 KH003845,Võ Xuân Hưng,2001-12-28,Nam,092201731721,Cần Thơ,Công chức,Phổ thông,Cá nhân,CN Cần Thơ,2016-12-29,Tại quầy,Đang hoạt động,Không,Không,0982109467,hungvx01924@gmail.com
 KH008553,Đặng Đức Khoa,1946-12-14,Nam,001046942702,Hà Nội,Hưu trí,Phổ thông,Cá nhân,CN Thanh Xuân,2017-06-29,Tại quầy,Đang hoạt động,Không,Không,0590322923,khoadd4622@gmail.com
-KH006848,Bùi Thị Yến,1955-08-16,Nữ,030155429815,Hải Phòng,Hưu trí,Phổ thông,Cá nhân,CN Hải Phòng,2014-11-26,Tại quầy,Đang hoạt động,Không,Không,0981436080,yenbt55711@gmail.com
+KH006848,Bùi Thị Yến,1955-08-16,Nữ,030155429815,Hải Phòng,Hưu trí,Phổ thông,Cá nhân,CN Hải Phòng,2014-11-26,Tại quầy,Đang hoạt động,Không,Không,,yenbt55711@gmail.com
 KH004407,Nguyễn Hoàng Hùng,2005-07-09,Nam,077205407267,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2021-02-08,Trực tuyến,Đang hoạt động,Không,Không,0858993903,hungnh05648@gmail.com
 KH001828,Nguyễn Văn Hải,1969-03-14,Nam,077069179661,Cần Thơ,Hưu trí,Ưu tiên,Cá nhân,CN Cần Thơ,2025-02-19,Trực tuyến,Ngừng giao dịch,Không,Không,0990761578,hainv69171@icloud.com
 KH001203,Lê Hồng Duyên,1962-07-13,Nữ,093162802636,Cần Thơ,Bác sĩ,Phổ thông,Cá nhân,CN Cần Thơ,2012-06-19,Tại quầy,Đang hoạt động,Không,Không,0374284808,duyenlh6233@gmail.com
@@ -5906,7 +5908,7 @@ KH003664,Trần Hữu Bình,1984-05-15,Nam,064084115104,Hà Nội,Bán hàng,Ph�
 KH001355,Hoàng Kim Uyên,2003-04-29,Nữ,074303593793,TP Hồ Chí Minh,Công chức,Ưu tiên,Cá nhân,CN Bình Dương,2020-04-28,Tại quầy,Đang hoạt động,Không,Không,0983291917,uyenhk03930@gmail.com
 KH003511,Nguyễn Thị Thảo,2002-07-21,Nữ,079302960745,TP Hồ Chí Minh,Kỹ sư,Phổ thông,Cá nhân,CN Cần Thơ,2026-03-26,Tại quầy,Đang hoạt động,Không,Không,0813459493,thaont02679@yahoo.com
 KH000573,Lý Hoài Chi,2010-07-25,Nữ,074310494209,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Quận 1,2026-10-02,Trực tuyến,Đang hoạt động,Không,Không,0935846845,chilh10390@gmail.com
-KH002058,Lê Minh Thịnh,1980-08-08,Nam,038080828091,Thanh Hóa,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Bình Dương,2016-10-17,Tại quầy,Đang hoạt động,Không,Không,,thinhlm80584@yahoo.com
+KH002058,Lê Minh Thịnh,1980-08-08,Nam,038080828091,Thanh Hóa,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Bình Dương,2016-10-17,Tại quầy,Đang hoạt động,Không,Không,0363322781,thinhlm80584@yahoo.com
 KH004954,Lê Thảo Loan,2002-07-01,Nữ,044302515532,Sơn La,Kỹ sư,Phổ thông,Cá nhân,CN Hải Phòng,2025-02-03,Trực tuyến,Đang hoạt động,Không,Không,0787700199,loanlt02282@gmail.com
 KH001547,Trương Quốc Khánh,2002-01-01,Nam,074202467128,TP Hồ Chí Minh,Công nhân,Phổ thông,Cá nhân,CN Bình Dương,2023-03-22,Trực tuyến,Đã đóng,Không,Không,0961629049,khanhtq022@outlook.com
 KH004016,Trương Quang Cường,2005-11-04,Nam,077205005723,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Bình Dương,2023-10-04,Tại quầy,Đang hoạt động,Không,Không,0322137631,cuongtq05755@gmail.com
@@ -6152,7 +6154,7 @@ KH009748,Trương Tuấn Khang,1971-12-01,Nam,030071645013,Hải Phòng,Kinh doa
 KH008907,Phan Thùy Vy,1998-02-23,Nữ,030198834096,Hải Phòng,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Hải Phòng,2023-02-27,Trực tuyến,Đang hoạt động,Không,Không,0960254659,vypt98699@yahoo.com
 KH001462,Tô Hoàng Thắng,2000-01-02,Nam,048200542807,Đà Nẵng,Công chức,Phổ thông,Cá nhân,CN Đà Nẵng,2021-02-24,Trực tuyến,Đang hoạt động,Không,Không,0327075008,thangth00215@yahoo.com
 KH000336,Bùi Thanh Việt,1998-07-23,Nam,001098812843,Hà Nội,Bác sĩ,Ưu tiên,Cá nhân,CN Thanh Xuân,2018-10-16,Tại quầy,Đang hoạt động,Không,Không,0942400492,vietbt98225@gmail.com
-KH002992,Huỳnh Tuấn Kiên,1997-05-10,Nam,024097945089,Cần Thơ,Công nhân,Phổ thông,Cá nhân,CN Cần Thơ,2016-10-10,Tại quầy,Đang hoạt động,Không,Không,,kienht97590@gmail.com
+KH002992,Huỳnh Tuấn Kiên,1997-05-10,Nam,024097945089,Cần Thơ,Công nhân,Phổ thông,Cá nhân,CN Cần Thơ,2016-10-10,Tại quầy,Đang hoạt động,Không,Không,0862780173,kienht97590@gmail.com
 KH009427,Trần Quốc Đức,1988-12-31,Nam,074088263621,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Bình Dương,2021-01-20,Trực tuyến,Đang hoạt động,Không,Không,0994476118,ductq88825@gmail.com
 KH001841,Vũ Đình Quân,1989-07-25,Nam,068089014694,Lâm Đồng,Công nhân,Phổ thông,Cá nhân,CN Bình Dương,2025-08-11,Trực tuyến,Đang hoạt động,Không,Không,0938251481,quanvd8953@gmail.com
 KH007187,Nguyễn Quang Cường,2006-11-15,Nam,001206323562,Hà Nội,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Hoàn Kiếm,2025-12-24,Trực tuyến,Đang hoạt động,Không,Không,0394092441,cuongnq06295@gmail.com
@@ -6208,7 +6210,7 @@ KH005625,Đặng Đức Tuấn,1988-12-15,Nam,096088682136,Lào Cai,Công nhân,
 KH002055,Hồ Kim Hậu,1956-04-09,Nữ,064156143842,Gia Lai,Hưu trí,Phổ thông,Cá nhân,CN Hải Phòng,2021-05-11,Tại quầy,Đang hoạt động,Không,Không,0360041534,hauhk56356@gmail.com
 KH003906,Phạm Đình Phong,2009-04-12,Nam,031209100238,Hải Phòng,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Hải Phòng,2024-09-25,Trực tuyến,Đang hoạt động,Không,Không,0947254037,phongpd09388@gmail.com
 KH007181,Nguyễn Thu Yến,1967-01-31,Nữ,031167268680,Hải Phòng,Hưu trí,Phổ thông,Cá nhân,CN Hải Phòng,2022-06-17,Tại quầy,Đang hoạt động,Không,Không,0964490580,yennt67177@gmail.com
-KH003552,Nguyễn Tuấn Huy,1995-03-29,Nam,077095797684,TP Hồ Chí Minh,Công chức,Phổ thông,Cá nhân,CN Quận 1,2019-06-26,Tại quầy,Đang hoạt động,Không,Không,0792217402,huynt95777@gmail.com
+KH003552,Nguyễn Tuấn Huy,1995-03-29,Nam,077095797684,TP Hồ Chí Minh,Công chức,Phổ thông,Cá nhân,CN Quận 1,2019-06-26,Tại quầy,Đang hoạt động,Không,Không,,huynt95777@gmail.com
 KH002089,Trần Thị Xuân,1996-11-27,Nữ,095196210633,Cà Mau,Kế toán,Ưu tiên,Cá nhân,CN Cần Thơ,2018-07-13,Tại quầy,Đang hoạt động,Không,Không,0705615639,xuantt96450@outlook.com
 KH007420,Nguyễn Thanh Uyên,1988-02-24,Nữ,077188958016,TP Hồ Chí Minh,Giáo viên,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2019-05-02,Tại quầy,Đang hoạt động,Không,Không,0767859248,uyennt88415@gmail.com
 KH008222,Phạm Thị Trang,1986-08-02,Nữ,074186893211,TP Hồ Chí Minh,Công nhân,Phổ thông,Cá nhân,CN Quận 1,2025-01-11,Trực tuyến,Đang hoạt động,Không,Không,0352965621,trangpt86361@icloud.com
@@ -6378,7 +6380,7 @@ KH007508,Nguyễn Gia Cường,1992-03-28,Nam,079092306683,TP Hồ Chí Minh,Nh�
 KH008865,Huỳnh Thảo Trang,1995-04-08,Nữ,001195358795,Hải Phòng,Kinh doanh tự do,Phổ thông,Cá nhân,CN Hải Phòng,2020-08-31,Tại quầy,Đang hoạt động,Không,Không,0796376725,tranght95261@gmail.com
 KH000042,Phan Khánh Vy,1961-06-19,Nữ,035161157161,Ninh Bình,Hưu trí,Phổ thông,Cá nhân,CN Hoàn Kiếm,2018-06-04,Tại quầy,Đang hoạt động,Không,Không,0385883040,vypk61794@gmail.com
 KH001360,Bùi Thanh Hải,1973-05-04,Nam,079073043686,TP Hồ Chí Minh,Bác sĩ,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2025-10-27,Tại quầy,Đang hoạt động,Không,Không,0792917030,haibt73142@yahoo.com
-KH005478,Nguyễn Trung Đạt,1987-09-04,Nam,006087930030,TP Hồ Chí Minh,Kỹ sư,Phổ thông,Cá nhân,CN Quận 1,2016-10-21,Tại quầy,Đang hoạt động,Không,Không,,datnt87623@outlook.com
+KH005478,Nguyễn Trung Đạt,1987-09-04,Nam,006087930030,TP Hồ Chí Minh,Kỹ sư,Phổ thông,Cá nhân,CN Quận 1,2016-10-21,Tại quầy,Đang hoạt động,Không,Không,0814674265,datnt87623@outlook.com
 KH003848,Nguyễn Văn Lâm,1985-02-20,Nam,079085893217,TP Hồ Chí Minh,Bác sĩ,Phổ thông,Cá nhân,CN Quận 1,2018-07-23,Tại quầy,Đang hoạt động,Không,Không,0349868393,lamnv85931@gmail.com
 KH003748,Võ Thị Nga,1963-10-28,Nữ,034163369672,Hưng Yên,Hưu trí,Ưu tiên,Cá nhân,CN TP Hồ Chí Minh,2022-11-12,Trực tuyến,Đang hoạt động,Không,Không,0344271966,ngavt63848@gmail.com
 KH009719,Hoàng Văn Khoa,1971-10-01,Nam,014071483189,Hải Phòng,Lái xe,Phổ thông,Cá nhân,CN Hải Phòng,2023-10-02,Tại quầy,Đang hoạt động,Không,Không,0969584120,khoahv71292@gmail.com
@@ -6545,7 +6547,7 @@ KH002582,Lê Quang Thịnh,1970-10-27,Nam,054070455163,TP Hồ Chí Minh,Kinh do
 KH002087,Trần Tuấn Đức,1985-12-20,Nam,001085865190,Hà Nội,Giáo viên,Phổ thông,Cá nhân,CN Cầu Giấy,2016-10-31,Tại quầy,Đang hoạt động,Không,Không,0949805108,ductt8532@gmail.com
 KH000407,Nguyễn Hữu Nghĩa,1962-09-22,Nam,074062782030,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2022-07-14,Trực tuyến,Đang hoạt động,Không,Không,0322311972,nghianh62846@gmail.com
 KH004670,Lê Ngọc Chi,1962-12-28,Nữ,077162227847,TP Hồ Chí Minh,Kinh doanh tự do,Ưu tiên,Cá nhân,CN Bình Dương,2016-11-22,Tại quầy,Ngừng giao dịch,Không,Không,0833617149,chiln62308@gmail.com
-KH005620,Nguyễn Phương Anh,1975-02-05,Nữ,068175569967,Hà Nội,Giáo viên,Phổ thông,Cá nhân,CN Hoàn Kiếm,2013-07-08,Tại quầy,Đang hoạt động,Không,Không,,anhnp75615@gmail.com
+KH005620,Nguyễn Phương Anh,1975-02-05,Nữ,068175569967,Hà Nội,Giáo viên,Phổ thông,Cá nhân,CN Hoàn Kiếm,2013-07-08,Tại quầy,Đang hoạt động,Không,Không,0819202885,anhnp75615@gmail.com
 KH002218,Trần Tuấn Khang,1977-03-20,Nam,010077360455,Thái Nguyên,Lái xe,Phổ thông,Cá nhân,CN Đà Nẵng,2023-06-12,Tại quầy,Đang hoạt động,Không,Không,0363390266,khangtt77204@outlook.com
 KH003585,Nguyễn Bảo Sơn,1996-04-01,Nam,001096947253,Hà Nội,Công nhân,Phổ thông,Cá nhân,CN Thanh Xuân,2019-10-21,Tại quầy,Đang hoạt động,Không,Không,0863670774,sonnb96211@gmail.com
 KH003154,Lý Văn Hưng,1999-02-13,Nam,002099955198,TP Hồ Chí Minh,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Bình Dương,2019-07-12,Tại quầy,Đang hoạt động,Không,Không,0398310585,hunglv99694@gmail.com
@@ -6613,7 +6615,7 @@ KH008784,Nguyễn Quốc Trung,2005-02-28,Nam,031205648934,Hải Phòng,"Học s
 KH004473,Trần Đức Long,1997-08-31,Nam,079097502360,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Quận 1,2015-02-23,Tại quầy,Đang hoạt động,Không,Không,0788825539,longtd97387@gmail.com
 KH008168,Lê Đình Hùng,1997-04-16,Nam,074097556804,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Bình Dương,2015-10-29,Tại quầy,Đang hoạt động,Không,Không,0373388440,hungld97304@gmail.com
 KH001524,Nguyễn Bảo Hà,2011-04-06,Nữ,077311866891,TP Hồ Chí Minh,"Học sinh, sinh viên",Ưu tiên,Cá nhân,CN TP Hồ Chí Minh,2026-06-29,Tại quầy,Đang hoạt động,Không,Không,0849731236,hanb11452@gmail.com
-KH002066,Vũ Phương Thư,1953-12-12,Nữ,074153221063,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Bình Dương,2014-01-09,Tại quầy,Đang hoạt động,Có,Không,0339860244,thuvp53339@gmail.com
+KH002066,Vũ Phương Thư,1953-12-12,Nữ,074153221063,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Bình Dương,2014-01-09,Tại quầy,Đang hoạt động,Có,Không,,thuvp53339@gmail.com
 KH008803,Võ Mai Phương,2005-03-31,Nữ,077305084139,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Bình Dương,2021-07-09,Trực tuyến,Ngừng giao dịch,Không,Không,0333656695,phuongvm05248@yahoo.com
 KH000638,Ngô Khánh Hoa,1987-04-01,Nữ,034187045645,Hưng Yên,Kinh doanh tự do,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2013-01-07,Tại quầy,Đang hoạt động,Không,Không,0331353240,hoank8747@gmail.com
 KH002289,Nguyễn Hồng Lan,1959-03-28,Nữ,001159166736,Hà Nội,Hưu trí,Phổ thông,Cá nhân,CN Hoàn Kiếm,2014-10-21,Tại quầy,Đang hoạt động,Không,Không,0962490592,lannh5931@outlook.com
@@ -6929,7 +6931,7 @@ KH003508,Phạm Thanh Ngân,1995-10-04,Nữ,024195798280,TP Hồ Chí Minh,Nhân
 KH000230,Trần Đình Huy,1972-12-04,Nam,091072194538,Hải Phòng,Kinh doanh tự do,Phổ thông,Cá nhân,CN Hải Phòng,2021-02-08,Trực tuyến,Ngừng giao dịch,Không,Không,0335072488,huytd72891@icloud.com
 KH007199,Dương Thị Quyên,1983-07-13,Nữ,077183987522,TP Hồ Chí Minh,Nội trợ,Phổ thông,Cá nhân,CN Quận 1,2023-01-05,Tại quầy,Đang hoạt động,Không,Không,0385532568,quyendt83538@gmail.com
 KH001954,Nguyễn Thu Loan,2010-07-27,Nữ,052310996312,Cần Thơ,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Cần Thơ,2025-10-03,Tại quầy,Đang hoạt động,Không,Không,0784351072,loannt10909@outlook.com
-KH006846,Nguyễn Thị Quyên,1990-01-08,Nữ,001190619434,Hải Phòng,Kế toán,Phổ thông,Cá nhân,CN Hải Phòng,2017-09-13,Tại quầy,Ngừng giao dịch,Không,Không,,quyennt90106@outlook.com
+KH006846,Nguyễn Thị Quyên,1990-01-08,Nữ,001190619434,Hải Phòng,Kế toán,Phổ thông,Cá nhân,CN Hải Phòng,2017-09-13,Tại quầy,Ngừng giao dịch,Không,Không,0771932090,quyennt90106@outlook.com
 KH001831,Đinh Thanh Lực,1991-09-25,Nam,089091649528,TP Hồ Chí Minh,Kỹ sư,Phổ thông,Cá nhân,CN Quận 1,2021-05-10,Trực tuyến,Đang hoạt động,Không,Không,0904838277,lucdt91105@gmail.com
 KH001080,Nguyễn Thị Nga,1963-09-13,Nữ,001163277327,Hà Nội,Hưu trí,Ưu tiên,Cá nhân,CN Cầu Giấy,2026-10-14,Tại quầy,Đang hoạt động,Không,Không,0335431936,ngant63124@gmail.com
 KH006967,Nguyễn Ngọc Ngân,2004-06-05,Nữ,067304690069,Đà Nẵng,Bán hàng,Phổ thông,Cá nhân,CN Đà Nẵng,2019-11-13,Tại quầy,Đang hoạt động,Không,Không,0861583169,ngannn04762@gmail.com
@@ -7051,7 +7053,7 @@ KH009887,Lê Văn Nam,1997-09-02,Nam,001097677863,Hà Nội,Nhân viên văn ph�
 KH001481,Phạm Ngọc Hoa,1984-07-06,Nữ,074184275247,TP Hồ Chí Minh,Công nhân,Ưu tiên,Cá nhân,CN TP Hồ Chí Minh,2026-03-06,Tại quầy,Đang hoạt động,Không,Không,0842560635,hoapn84311@gmail.com
 KH002585,Trần Bảo Thắng,1989-06-17,Nam,034089871300,Hưng Yên,Công nhân,Phổ thông,Cá nhân,CN Cần Thơ,2025-08-29,Trực tuyến,Đang hoạt động,Không,Không,0989977090,thangtb89338@gmail.com
 KH009692,Lê Đức Huy,1991-05-28,Nam,079091652709,TP Hồ Chí Minh,Lái xe,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2019-04-18,Tại quầy,Đang hoạt động,Không,Không,0820967122,huyld91637@gmail.com
-KH005766,Trần Quốc Đạt,1997-06-19,Nam,024097753559,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Bình Dương,2016-08-29,Tại quầy,Đang hoạt động,Không,Không,0860677650,dattq97515@gmail.com
+KH005766,Trần Quốc Đạt,1997-06-19,Nam,024097753559,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Bình Dương,2016-08-29,Tại quầy,Đang hoạt động,Không,Không,,dattq97515@gmail.com
 KH002666,Phạm Anh Thắng,1996-08-10,Nam,079096113195,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Quận 1,2021-09-10,Trực tuyến,Đã đóng,Không,Không,0880133760,thangpa96566@gmail.com
 KH000751,Trần Đình Đức,2011-05-01,Nam,079211462823,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2026-07-28,Trực tuyến,Đang hoạt động,Không,Không,0769904367,ductd11291@gmail.com
 KH001419,Nguyễn Công Trung,1984-01-07,Nam,052084797717,Hà Nội,Lái xe,Phổ thông,Cá nhân,CN Cầu Giấy,2016-09-05,Tại quầy,Đang hoạt động,Không,Không,0388435600,trungnc84163@gmail.com
@@ -7203,7 +7205,6 @@ KH009003,Nguyễn Văn Nam,1965-07-17,Nam,001065356556,Hà Nội,Lái xe,Phổ t
 KH002187,Trần Thị Liên,1982-04-29,Nữ,079182835614,TP Hồ Chí Minh,Kế toán,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2022-09-02,Trực tuyến,Đang hoạt động,Không,Không,0970831054,lientt8281@gmail.com
 KH003653,Tô Thảo Oanh,1960-11-30,Nữ,001160747653,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2021-01-25,Tại quầy,Ngừng giao dịch,Không,Không,0849534620,oanhtt60534@gmail.com
 KH004479,Dương Thanh Yến,2011-04-20,Nữ,001311989424,Hà Nội,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Cầu Giấy,2026-10-02,Tại quầy,Đang hoạt động,Không,Không,0979113718,yendt11766@yahoo.com
-KH006171,Nguyễn Minh Lan,1963-02-22,Nữ,079163159123,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Quận 1,2023-06-13,Tại quầy,Đang hoạt động,Không,Không,0353472509,lannm63927@gmail.com
 KH007213,Trịnh Minh Ngọc,1961-07-10,Nữ,077161081756,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Quận 1,2026-11-17,Tại quầy,Đang hoạt động,Không,Không,0379987626,ngoctm6165@gmail.com
 KH004603,Nguyễn Văn Đạt,1964-02-09,Nam,001064134038,Cần Thơ,Hưu trí,Phổ thông,Cá nhân,CN Cần Thơ,2021-06-28,Tại quầy,Đang hoạt động,Không,Không,0354325808,datnv64381@gmail.com
 KH005404,Nguyễn Thùy Ngọc,1971-08-01,Nữ,001171739057,Hà Nội,Nội trợ,Phổ thông,Cá nhân,CN Thanh Xuân,2020-05-29,Tại quầy,Đang hoạt động,Không,Không,0380186027,ngocnt71529@gmail.com
@@ -7220,7 +7221,7 @@ KH007937,Nguyễn Ngọc Thảo,1992-04-19,Nữ,004192300034,Hà Nội,Bán hàn
 KH004268,Nguyễn Quang Hùng,2002-10-11,Nam,038202444431,TP Hồ Chí Minh,Kinh doanh tự do,Ưu tiên,Cá nhân,CN Bình Dương,2024-04-03,Trực tuyến,Đang hoạt động,Không,Không,0834661026,hungnq02354@yahoo.com
 KH004731,Nguyễn Công Khang,1976-05-25,Nam,020076858784,Lạng Sơn,Bán hàng,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2026-11-16,Trực tuyến,Đang hoạt động,Không,Không,0345925779,khangnc7699@gmail.com
 KH001219,Nguyễn Diệu Mai,1957-03-25,Nữ,077157451225,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Quận 1,2024-01-30,Trực tuyến,Đang hoạt động,Không,Không,0385372444,maind5773@gmail.com
-KH006372,Vũ Quốc Khoa,1987-07-07,Nam,074087047118,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2017-03-20,Tại quầy,Đang hoạt động,Không,Không,,khoavq87140@gmail.com
+KH006372,Vũ Quốc Khoa,1987-07-07,Nam,074087047118,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2017-03-20,Tại quầy,Đang hoạt động,Không,Không,0982229782,khoavq87140@gmail.com
 KH001999,Trần Anh Thành,1971-07-19,Nam,093071389765,Cần Thơ,Công chức,Phổ thông,Cá nhân,CN Cần Thơ,2017-08-24,Tại quầy,Đang hoạt động,Không,Không,0390724283,thanhta71876@gmail.com
 KH005546,Nguyễn Văn Lâm,1987-05-30,Nam,046087711635,Hải Phòng,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Hải Phòng,2016-05-12,Tại quầy,Đang hoạt động,Không,Không,0359249158,lamnv87914@gmail.com
 KH007949,Bùi Khánh Lam,1983-10-30,Nữ,031183616705,Hải Phòng,Công nhân,Ưu tiên,Cá nhân,CN Hải Phòng,2021-04-01,Tại quầy,Đã đóng,Không,Không,0894483706,lambk83168@gmail.com
@@ -7579,7 +7580,7 @@ KH007912,Tạ Văn Thịnh,2008-03-24,Nam,084208190562,TP Hồ Chí Minh,"Học 
 KH002014,Vũ Thu Yến,1972-08-29,Nữ,092172862320,An Giang,Hưu trí,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2014-12-05,Tại quầy,Đang hoạt động,Không,Không,0382168573,yenvt72312@gmail.com
 KH003624,Bùi Văn Tâm,1973-12-24,Nam,077073304427,TP Hồ Chí Minh,Bán hàng,Phổ thông,Cá nhân,CN Quận 1,2013-01-21,Tại quầy,Đang hoạt động,Không,Không,0838863036,tambv7346@gmail.com
 KH005978,Nguyễn Bảo Ngọc,1984-07-05,Nữ,008184955547,Hà Nội,Bác sĩ,Ưu tiên,Cá nhân,CN Cầu Giấy,2025-03-14,Tại quầy,Đang hoạt động,Không,Không,0826244194,ngocnb84544@gmail.com
-KH001567,Nguyễn Minh Thảo,1954-12-27,Nữ,077154167647,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Bình Dương,2013-04-08,Tại quầy,Đang hoạt động,Không,Không,,thaonm54754@gmail.com
+KH001567,Nguyễn Minh Thảo,1954-12-27,Nữ,077154167647,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Bình Dương,2013-04-08,Tại quầy,Đang hoạt động,Không,Không,0337031137,thaonm54754@gmail.com
 KH008636,Trần Bảo Yến,1955-08-16,Nữ,026155904236,Hà Nội,Hưu trí,Phổ thông,Cá nhân,CN Hoàn Kiếm,2020-05-08,Tại quầy,Đang hoạt động,Không,Không,0960911083,yentb55592@gmail.com
 KH009510,Tạ Thanh Quyên,1996-11-06,Nữ,079196050737,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Bình Dương,2025-01-15,Trực tuyến,Ngừng giao dịch,Không,Không,0979817404,quyentt96542@gmail.com
 KH004961,Mai Bảo Tùng,2001-05-02,Nam,079201972346,TP Hồ Chí Minh,Bác sĩ,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2016-08-10,Tại quầy,Đang hoạt động,Không,Không,0889478423,tungmb0186@gmail.com
@@ -7627,7 +7628,7 @@ KH004594,Nguyễn Thị Phương,1960-11-12,Nữ,048160272871,TP Hồ Chí Minh,
 KH003266,Trần Thùy Duyên,2001-12-03,Nữ,040301573820,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Bình Dương,2025-01-21,Trực tuyến,Đã đóng,Không,Không,0789823793,duyentt013@gmail.com
 KH002292,Trần Thị Anh,1997-12-19,Nữ,038197635227,TP Hồ Chí Minh,Công chức,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2022-06-13,Trực tuyến,Đang hoạt động,Không,Không,0977943155,anhtt97785@yahoo.com
 KH001614,Nguyễn Ngọc My,1990-11-04,Nữ,079190172911,TP Hồ Chí Minh,Kế toán,Phổ thông,Cá nhân,CN Quận 1,2022-08-24,Trực tuyến,Đang hoạt động,Không,Không,0979275927,mynn90822@gmail.com
-KH000607,Võ Thị Huyền,1974-10-07,Nữ,030174334677,Hải Phòng,Nội trợ,Phổ thông,Cá nhân,CN Hải Phòng,2016-08-04,Tại quầy,Đã đóng,Không,Không,0794317102,huyenvt74463@gmail.com
+KH000607,Võ Thị Huyền,1974-10-07,Nữ,030174334677,Hải Phòng,Nội trợ,Phổ thông,Cá nhân,CN Hải Phòng,2016-08-04,Tại quầy,Đã đóng,Không,Không,,huyenvt74463@gmail.com
 KH005554,Đặng Anh Sơn,1983-03-11,Nam,089083491792,Cần Thơ,Lái xe,Phổ thông,Cá nhân,CN Cần Thơ,2013-08-19,Tại quầy,Đang hoạt động,Không,Không,0837465929,sonda83495@gmail.com
 KH005083,Trần Thị Châu,1991-04-29,Nữ,027191429155,Bắc Ninh,Kỹ sư,Phổ thông,Cá nhân,CN Quận 1,2016-07-20,Tại quầy,Ngừng giao dịch,Không,Không,0360585549,chautt91180@icloud.com
 KH003104,Trần Hữu Hùng,1972-12-19,Nam,079072310669,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Bình Dương,2025-09-08,Tại quầy,Đang hoạt động,Không,Không,0705263882,hungth72279@gmail.com
@@ -7778,7 +7779,7 @@ KH006072,Dương Anh Trung,1973-05-27,Nam,030073157610,Nghệ An,Bác sĩ,Phổ 
 KH004005,Phạm Tuấn Khang,2003-08-24,Nam,001203661738,Hà Nội,Công chức,Phổ thông,Cá nhân,CN Cầu Giấy,2026-02-09,Trực tuyến,Đang hoạt động,Không,Không,0595104973,khangpt03486@gmail.com
 KH005809,Đinh Văn Vinh,1985-10-04,Nam,079085223885,TP Hồ Chí Minh,Công nhân,Phổ thông,Cá nhân,CN Quận 1,2015-07-13,Tại quầy,Ngừng giao dịch,Không,Không,0391866452,vinhdv85598@yahoo.com
 KH008822,Bùi Quốc Sơn,1975-03-06,Nam,079075090983,TP Hồ Chí Minh,Bác sĩ,Phổ thông,Cá nhân,CN Quận 1,2017-11-15,Tại quầy,Đang hoạt động,Không,Không,0380418758,sonbq7562@gmail.com
-KH003588,Đỗ Gia Khoa,1982-12-13,Nam,038082248955,Thanh Hóa,Kinh doanh tự do,Phổ thông,Cá nhân,CN Bình Dương,2015-07-08,Tại quầy,Đang hoạt động,Không,Không,0529232840,khoadg8281@gmail.com
+KH003588,Đỗ Gia Khoa,1982-12-13,Nam,038082248955,Thanh Hóa,Kinh doanh tự do,Phổ thông,Cá nhân,CN Bình Dương,2015-07-08,Tại quầy,Đang hoạt động,Không,Không,,khoadg8281@gmail.com
 KH008413,Lý Minh Huy,2001-09-06,Nam,001201852639,Hà Nội,Giáo viên,Phổ thông,Cá nhân,CN Thanh Xuân,2025-05-05,Tại quầy,Đang hoạt động,Không,Không,0962160242,huylm0160@gmail.com
 KH003363,Lý Văn Hưng,1979-10-04,Nam,077079015998,TP Hồ Chí Minh,Giáo viên,Phổ thông,Cá nhân,CN Bình Dương,2022-08-07,Trực tuyến,Đang hoạt động,Không,Không,0941264835,hunglv79289@gmail.com
 KH007336,Nguyễn Quốc Hiếu,1995-04-30,Nam,034095049190,TP Hồ Chí Minh,Giáo viên,Phổ thông,Cá nhân,CN Quận 1,2018-07-31,Tại quầy,Đang hoạt động,Không,Không,0859047441,hieunq95628@yahoo.com
@@ -8261,7 +8262,7 @@ KH008215,Nguyễn Khánh Hằng,1974-05-26,Nữ,048174446681,Đà Nẵng,Công n
 KH001173,Lưu Trung Nghĩa,1997-10-16,Nam,077097140135,TP Hồ Chí Minh,Kỹ sư,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2019-06-03,Tại quầy,Đang hoạt động,Không,Không,0352732239,nghialt97328@outlook.com
 KH002352,Huỳnh Hoàng Quân,2010-01-16,Nam,068210418026,Lâm Đồng,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2025-04-18,Trực tuyến,Đang hoạt động,Không,Không,0369446354,quanhh10431@gmail.com
 KH001992,Lê Quang Hưng,1966-07-20,Nam,089066344072,Hà Nội,Bán hàng,Phổ thông,Cá nhân,CN Hoàn Kiếm,2018-03-09,Tại quầy,Đang hoạt động,Không,Không,0864080125,hunglq66574@gmail.com
-KH003424,Phạm Văn Phong,1982-05-31,Nam,022082387877,Hà Nội,Kế toán,Phổ thông,Cá nhân,CN Thanh Xuân,2017-12-18,Tại quầy,Đang hoạt động,Không,Không,0341967444,phongpv8259@gmail.com
+KH003424,Phạm Văn Phong,1982-05-31,Nam,022082387877,Hà Nội,Kế toán,Phổ thông,Cá nhân,CN Thanh Xuân,2017-12-18,Tại quầy,Đang hoạt động,Không,Không,,phongpv8259@gmail.com
 KH009374,Hồ Diệu Huyền,1962-05-04,Nữ,038162765631,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2022-09-27,Trực tuyến,Đang hoạt động,Không,Không,0813388412,huyenhd62236@gmail.com
 KH009825,Nguyễn Hữu Trí,1988-12-18,Nam,025088410529,Cần Thơ,Công nhân,Phổ thông,Cá nhân,CN Cần Thơ,2018-09-07,Tại quầy,Đang hoạt động,Không,Không,0886349846,trinh88515@gmail.com
 KH003855,Nguyễn Thảo Oanh,2005-06-23,Nữ,072305845171,Hải Phòng,Kinh doanh tự do,Phổ thông,Cá nhân,CN Hải Phòng,2022-06-24,Trực tuyến,Đang hoạt động,Không,Không,0388068886,oanhnt05796@gmail.com
@@ -8339,7 +8340,7 @@ KH003943,Nguyễn Kim Hậu,1969-01-20,Nữ,049169489713,Đà Nẵng,Kinh doanh 
 KH004754,Nguyễn Kim Yến,1997-10-02,Nữ,067197481645,TP Hồ Chí Minh,Công chức,Phổ thông,Cá nhân,CN Quận 1,2018-02-13,Tại quầy,Đang hoạt động,Không,Không,0773851645,yennk97889@gmail.com
 KH007955,Huỳnh Đình Duy,1981-07-16,Nam,092081646938,Cần Thơ,Giáo viên,Phổ thông,Cá nhân,CN Cần Thơ,2026-09-28,Tại quầy,Đang hoạt động,Không,Không,0932731679,duyhd81839@gmail.com
 KH006557,Lê Quang Lâm,1966-11-17,Nam,048066413898,Đà Nẵng,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Đà Nẵng,2026-04-13,Tại quầy,Đang hoạt động,Không,Không,0812805334,lamlq66897@gmail.com
-KH003420,Phạm Diệu Trang,1970-01-06,Nữ,001170418828,Hà Nội,Kế toán,Ưu tiên,Cá nhân,CN Cầu Giấy,2015-10-12,Tại quầy,Ngừng giao dịch,Không,Không,,trangpd70961@gmail.com
+KH003420,Phạm Diệu Trang,1970-01-06,Nữ,001170418828,Hà Nội,Kế toán,Ưu tiên,Cá nhân,CN Cầu Giấy,2015-10-12,Tại quầy,Ngừng giao dịch,Không,Không,0961225584,trangpd70961@gmail.com
 KH003237,Nguyễn Minh Vân,1986-10-30,Nữ,038186662923,Thanh Hóa,Giáo viên,Phổ thông,Cá nhân,CN Hải Phòng,2024-06-13,Trực tuyến,Đang hoạt động,Không,Không,0328017049,vannm86596@gmail.com
 KH005935,Nguyễn Anh Thắng,1964-05-19,Nam,077064767211,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Bình Dương,2020-10-20,Tại quầy,Đang hoạt động,Không,Không,0385126339,thangna64394@gmail.com
 KH007317,Nguyễn Công Thịnh,1971-11-06,Nam,074071630117,TP Hồ Chí Minh,Công nhân,Phổ thông,Cá nhân,CN Quận 1,2015-06-03,Tại quầy,Đang hoạt động,Không,Không,0939121638,thinhnc71740@yahoo.com
@@ -8499,7 +8500,7 @@ KH006615,Nguyễn Hoàng An,1996-02-09,Nam,086096189065,Vĩnh Long,Kỹ sư,Ph�
 KH009106,Trần Tuấn Hải,1974-09-12,Nam,001074626374,Hà Nội,Kinh doanh tự do,Phổ thông,Cá nhân,CN Cầu Giấy,2024-11-11,Tại quầy,Đang hoạt động,Không,Không,0342046405,haitt74637@gmail.com
 KH008895,Huỳnh Phương Hồng,1969-01-05,Nữ,001169199888,Hà Nội,Bán hàng,Ưu tiên,Cá nhân,CN Thanh Xuân,2023-03-24,Tại quầy,Đang hoạt động,Không,Không,0347192225,honghp69880@gmail.com
 KH003232,Đinh Ngọc Yến,1983-05-11,Nữ,077183350924,TP Hồ Chí Minh,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Bình Dương,2022-08-09,Trực tuyến,Ngừng giao dịch,Không,Không,0936281369,yendn83581@gmail.com
-KH006782,Nguyễn Thị Ngọc,1963-12-29,Nữ,030163594821,Hải Phòng,Kinh doanh tự do,Phổ thông,Cá nhân,CN Hải Phòng,2017-11-16,Tại quầy,Đang hoạt động,Không,Không,,ngocnt63821@gmail.com
+KH006782,Nguyễn Thị Ngọc,1963-12-29,Nữ,030163594821,Hải Phòng,Kinh doanh tự do,Phổ thông,Cá nhân,CN Hải Phòng,2017-11-16,Tại quầy,Đang hoạt động,Không,Không,0388923243,ngocnt63821@gmail.com
 KH005457,Võ Thanh Bình,1986-10-13,Nam,052086047162,Gia Lai,Công chức,Phổ thông,Cá nhân,CN Quận 1,2023-12-11,Tại quầy,Đang hoạt động,Không,Không,0375638499,binhvt86549@icloud.com
 KH009233,Bùi Diệu Hồng,1958-08-24,Nữ,030158246644,Hải Phòng,Hưu trí,Ưu tiên,Cá nhân,CN Bình Dương,2012-12-11,Tại quầy,Đang hoạt động,Không,Không,0566818661,hongbd58238@gmail.com
 KH005385,Nguyễn Phương Hương,1998-06-14,Nữ,077198326817,TP Hồ Chí Minh,Giáo viên,Phổ thông,Cá nhân,CN Quận 1,2024-01-01,Trực tuyến,Đang hoạt động,Không,Không,0943698407,huongnp98660@gmail.com
@@ -8524,7 +8525,6 @@ KH005811,Lê Hữu Lực,1987-01-03,Nam,079087055318,TP Hồ Chí Minh,Kỹ sư,
 KH005847,Huỳnh Bảo Hoa,1972-09-04,Nữ,077172463154,TP Hồ Chí Minh,Bán hàng,Phổ thông,Cá nhân,CN Bình Dương,2023-01-09,Tại quầy,Đang hoạt động,Không,Không,0857450354,hoahb72732@gmail.com
 KH008543,Lê Văn Long,1987-07-13,Nam,094087263600,Cần Thơ,Kinh doanh tự do,Phổ thông,Cá nhân,CN Cần Thơ,2025-02-10,Trực tuyến,Đang hoạt động,Không,Không,0911821088,longlv87540@gmail.com
 KH005870,Nguyễn Hữu Nam,2004-03-12,Nam,079204932218,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2024-01-29,Trực tuyến,Đang hoạt động,Không,Không,0817704810,namnh04483@yahoo.com
-KH006252,Trần Văn Đức,1971-07-12,Nam,074071539980,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Quận 1,2013-03-11,Tại quầy,Đang hoạt động,Không,Không,0866535065,ductv7154@outlook.com
 KH007343,Hà Bảo Quyên,1953-07-28,Nữ,077153838389,TP Hồ Chí Minh,Hưu trí,Ưu tiên,Cá nhân,CN Bình Dương,2021-12-29,Tại quầy,Đã đóng,Không,Không,0341111802,quyenhb53555@gmail.com
 KH007438,Dương Đình Trí,1968-04-07,Nam,001068079790,Hà Nội,Kỹ sư,Phổ thông,Cá nhân,CN Thanh Xuân,2024-10-08,Tại quầy,Đang hoạt động,Không,Không,0590280855,tridd68450@gmail.com
 KH009725,Hồ Thanh Thắng,2008-01-03,Nam,030208853194,Hải Phòng,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Hải Phòng,2026-07-24,Trực tuyến,Đang hoạt động,Không,Không,0852114035,thanght08854@gmail.com
@@ -8543,6 +8543,7 @@ KH006265,Phan Mai Hương,1999-08-16,Nữ,051199676232,Quảng Ngãi,Bán hàng,
 KH006319,Trần Khánh Hằng,1971-06-24,Nữ,067171415558,Hải Phòng,Kinh doanh tự do,Phổ thông,Cá nhân,CN Hải Phòng,2026-08-09,Trực tuyến,Đang hoạt động,Không,Không,0907695151,hangtk71468@gmail.com
 KH008959,Lý Bảo Khánh,2001-11-28,Nam,040201037402,Hà Nội,Công nhân,Phổ thông,Cá nhân,CN Cầu Giấy,2022-01-11,Tại quầy,Đang hoạt động,Không,Không,0852571305,khanhlb01848@gmail.com
 KH001195,Bùi Thùy Tâm,2011-09-06,Nữ,074311790766,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Quận 1,2026-11-16,Trực tuyến,Đang hoạt động,Không,Không,0938029877,tambt11528@yahoo.com
+KH005630,Trần Diệu Hiền,2001-08-13,Nữ,019301216232,Cần Thơ,Giáo viên,Phổ thông,Cá nhân,CN Cần Thơ,2023-10-04,Trực tuyến,Đang hoạt động,Không,Không,0865795647,hientd01910@gmail.com
 KH002707,Trần Văn Phúc,1997-02-24,Nam,048097648862,TP Hồ Chí Minh,Kinh doanh tự do,Phổ thông,Cá nhân,CN Quận 1,2014-10-06,Tại quầy,Đang hoạt động,Không,Không,0860070165,phuctv97507@gmail.com
 KH008352,Phạm Đức Đạt,2004-02-23,Nam,037204867394,Ninh Bình,Công nhân,Phổ thông,Cá nhân,CN Quận 1,2023-06-07,Trực tuyến,Đang hoạt động,Không,Không,0985630274,datpd04880@yahoo.com
 KH008262,Bùi Diệu Quyên,1966-01-15,Nữ,077166978013,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Bình Dương,2021-10-11,Tại quầy,Đang hoạt động,Không,Không,0901794755,quyenbd66404@gmail.com
@@ -9167,12 +9168,11 @@ KH005378,Lê Xuân Tâm,1990-06-17,Nam,001090595764,Hà Nội,Lái xe,Phổ thô
 KH003275,Bùi Thị Huyền,2003-02-23,Nữ,094303185667,Hà Nội,Kế toán,Phổ thông,Cá nhân,CN Cầu Giấy,2024-10-15,Trực tuyến,Đang hoạt động,Không,Không,0339797469,huyenbt03989@icloud.com
 KH002541,Nguyễn Thanh Nghĩa,1971-08-03,Nam,048071200643,Đà Nẵng,Công nhân,Ưu tiên,Cá nhân,CN Đà Nẵng,2025-05-12,Trực tuyến,Đang hoạt động,Không,Không,0333925055,nghiant71307@gmail.com
 KH003752,Lê Hoàng Duy,1976-06-29,Nam,001076997436,Hà Nội,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Cầu Giấy,2016-05-02,Tại quầy,Đang hoạt động,Không,Không,0947359636,duylh76597@gmail.com
-KH004555,Hoàng Minh Nga,2012-01-01,Nữ,079312701257,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2027-01-01,Trực tuyến,Đang hoạt động,Không,Không,0865210267,ngahm12188@icloud.com
+KH004555,Hoàng Minh Nga,2011-12-31,Nữ,079311701257,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2026-12-31,Trực tuyến,Đang hoạt động,Không,Không,0865210267,ngahm11188@icloud.com
 KH005749,Tạ Khánh Lam,1986-03-29,Nữ,031186311349,Hải Phòng,Bác sĩ,Phổ thông,Cá nhân,CN Hải Phòng,2018-10-22,Tại quầy,Đang hoạt động,Không,Không,0353087576,lamtk86817@gmail.com
 KH000247,Nguyễn Văn Bảo,1987-11-06,Nam,001087749300,Hà Nội,Lái xe,Ưu tiên,Cá nhân,CN Thanh Xuân,2022-02-27,Trực tuyến,Đang hoạt động,Không,Không,0833766740,baonv87492@icloud.com
 KH001911,Nguyễn Hữu Nam,1989-08-03,Nam,001089022255,TP Hồ Chí Minh,Công chức,Phổ thông,Cá nhân,CN Bình Dương,2012-11-05,Tại quầy,Đang hoạt động,Không,Không,0395280272,namnh89107@outlook.com
 KH000036,Trần Hữu Hoàng,1981-09-03,Nam,087081788305,Đà Nẵng,Lái xe,Phổ thông,Cá nhân,CN Đà Nẵng,2021-01-13,Trực tuyến,Đang hoạt động,Không,Không,0887636828,hoangth81478@gmail.com
-KH006835,Nguyễn Công Đức,1989-06-30,Nam,030089627986,Hải Phòng,Kinh doanh tự do,Phổ thông,Cá nhân,CN Hải Phòng,2017-12-18,Tại quầy,Đang hoạt động,Không,Không,0359695981,ducnc89526@gmail.com
 KH004372,Nguyễn Công Khánh,1969-01-24,Nam,077069915069,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Bình Dương,2024-03-07,Tại quầy,Đang hoạt động,Không,Không,0815721184,khanhnc69195@gmail.com
 KH002955,Đinh Hữu Kiên,1979-05-09,Nam,077079143877,TP Hồ Chí Minh,Nhân viên văn phòng,Ưu tiên,Cá nhân,CN Quận 1,2020-05-13,Tại quầy,Đang hoạt động,Không,Không,0786219755,kiendh79465@gmail.com
 KH004849,Nguyễn Ngọc Thư,1991-06-09,Nữ,093191153872,Cần Thơ,Nội trợ,Phổ thông,Cá nhân,CN Cần Thơ,2021-05-24,Trực tuyến,Đang hoạt động,Không,Không,0341633477,thunn91255@icloud.com
@@ -9358,6 +9358,7 @@ KH005236,Trương Minh Hưng,1963-01-24,Nam,049063050073,Cần Thơ,Hưu trí,Ph
 KH007450,Vũ Bảo Tùng,1987-11-12,Nam,093087427891,TP Hồ Chí Minh,Công nhân,Phổ thông,Cá nhân,CN Bình Dương,2018-05-18,Tại quầy,Đang hoạt động,Không,Không,0856267678,tungvb87209@outlook.com
 KH006684,Huỳnh Thị Liên,1960-03-28,Nữ,058160475032,Hải Phòng,Hưu trí,Ưu tiên,Cá nhân,CN Hải Phòng,2019-01-21,Tại quầy,Đang hoạt động,Không,Không,0892056484,lienht60684@gmail.com
 KH001442,Phan Gia Vinh,2001-06-06,Nam,046201426724,Huế,Kinh doanh tự do,Phổ thông,Cá nhân,CN Thanh Xuân,2026-09-22,Tại quầy,Đang hoạt động,Không,Không,0702053167,vinhpg0175@gmail.com
+KH006835,Nguyễn Công Đức,1989-06-30,Nam,030089627986,Hải Phòng,Kinh doanh tự do,Phổ thông,Cá nhân,CN Hải Phòng,2017-12-18,Tại quầy,Đang hoạt động,Không,Không,0359695981,ducnc89526@gmail.com
 KH004342,Nguyễn Hồng Xuân,1999-08-21,Nữ,020199209515,Hà Nội,Nội trợ,Phổ thông,Cá nhân,CN Cầu Giấy,2026-02-28,Trực tuyến,Đang hoạt động,Không,Không,0769721173,xuannh99716@yahoo.com
 KH004328,Lương Minh Thư,2001-04-12,Nữ,034301968251,Hải Phòng,Công nhân,Phổ thông,Cá nhân,CN Hải Phòng,2021-06-10,Trực tuyến,Đang hoạt động,Không,Không,0594730784,thulm01583@gmail.com
 KH008228,Hoàng Quốc Phúc,2011-12-24,Nam,030211957368,Hải Phòng,"Học sinh, sinh viên",Ưu tiên,Cá nhân,CN Hải Phòng,2026-12-24,Tại quầy,Đang hoạt động,Không,Không,0363903246,phuchq11905@gmail.com
@@ -9391,7 +9392,6 @@ KH003358,Nguyễn Thị Lam,2007-05-27,Nữ,093307859890,Cần Thơ,"Học sinh,
 KH005082,Nguyễn Thùy Chi,1992-10-12,Nữ,077192591234,TP Hồ Chí Minh,Kỹ sư,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2013-02-14,Tại quầy,Đang hoạt động,Không,Không,0890286226,chint92439@gmail.com
 KH005231,Bùi Tuấn Kiên,1972-05-03,Nam,030072279365,TP Hồ Chí Minh,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Đà Nẵng,2024-04-09,Tại quầy,Đang hoạt động,Không,Không,0989833478,kienbt728@gmail.com
 KH003013,Phạm Tuấn Quân,1963-04-20,Nam,077063584144,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Quận 1,2021-03-10,Tại quầy,Đang hoạt động,Không,Không,0960083437,quanpt63877@gmail.com
-KH005630,Trần Diệu Hiền,2001-08-13,Nữ,019301216232,Cần Thơ,Giáo viên,Phổ thông,Cá nhân,CN Cần Thơ,2023-10-04,Trực tuyến,Đang hoạt động,Không,Không,0865795647,hientd01910@gmail.com
 KH007636,Dương Anh Hiếu,2001-11-11,Nam,048201924606,Đà Nẵng,Công nhân,Phổ thông,Cá nhân,CN Đà Nẵng,2021-04-26,Tại quầy,Đang hoạt động,Có,Không,0810355653,hieuda01273@yahoo.com
 KH009869,Huỳnh Hoài Liên,1961-03-01,Nữ,008161133591,Tuyên Quang,Hưu trí,Phổ thông,Cá nhân,CN Cần Thơ,2013-05-10,Tại quầy,Đang hoạt động,Không,Không,0900437452,lienhh6131@gmail.com
 KH005922,Cao Văn Tài,1958-12-03,Nam,077058068978,TP Hồ Chí Minh,Hưu trí,Phổ thông,Cá nhân,CN Quận 1,2014-04-28,Tại quầy,Đang hoạt động,Không,Không,0340937133,taicv58928@outlook.com
@@ -9507,7 +9507,7 @@ KH002812,Lê Đình Dũng,1990-07-16,Nam,030090613922,Hải Phòng,Kỹ sư,Ph�
 KH004317,Phạm Văn Bình,2006-12-31,Nam,038206336383,TP Hồ Chí Minh,Công nhân,Phổ thông,Cá nhân,CN Quận 1,2021-12-31,Tại quầy,Ngừng giao dịch,Không,Không,0976077553,binhpv06956@gmail.com
 KH001421,Nguyễn Công Hoàng,2004-12-02,Nam,093204685669,Cần Thơ,Kỹ sư,Phổ thông,Cá nhân,CN Thanh Xuân,2024-01-09,Tại quầy,Đang hoạt động,Không,Không,0321092103,hoangnc04931@gmail.com
 KH001950,Phan Thị Uyên,2010-07-19,Nữ,079310761015,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2025-09-08,Tại quầy,Đang hoạt động,Không,Không,0937662141,uyenpt10219@gmail.com
-KH007273,Phạm Văn Trung,1995-09-06,Nam,093095529278,Cần Thơ,Công nhân,Phổ thông,Cá nhân,CN Cần Thơ,2013-01-29,Tại quầy,Đang hoạt động,Không,Không,0968022086,trungpv95635@gmail.com
+KH007273,Phạm Văn Trung,1995-09-06,Nam,093095529278,Cần Thơ,Công nhân,Phổ thông,Cá nhân,CN Cần Thơ,2013-01-29,Tại quầy,Đang hoạt động,Không,Không,,trungpv95635@gmail.com
 KH007614,Nguyễn Thị Tâm,2002-01-08,Nữ,001302275184,Hà Nội,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Hoàn Kiếm,2019-06-14,Tại quầy,Đang hoạt động,Không,Không,0779248667,tamnt02710@gmail.com
 KH007233,Nguyễn Hoàng Bình,1983-08-20,Nam,084083865024,Vĩnh Long,Bán hàng,Phổ thông,Cá nhân,CN Quận 1,2025-07-21,Tại quầy,Đang hoạt động,Không,Không,0798267321,binhnh83175@gmail.com
 KH000558,Vũ Thảo Vân,2002-04-13,Nữ,074302602009,TP Hồ Chí Minh,Kỹ sư,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2018-09-03,Tại quầy,Ngừng giao dịch,Không,Không,0387621529,vanvt02926@gmail.com
@@ -9737,7 +9737,7 @@ KH008623,Nguyễn Thu Nhi,1972-08-04,Nữ,048172294566,Đà Nẵng,Công nhân,P
 KH002392,Lý Hữu Đức,1969-02-28,Nam,001069023610,Hà Nội,Công nhân,Phổ thông,Cá nhân,CN Thanh Xuân,2018-08-30,Tại quầy,Đang hoạt động,Không,Không,0962567383,duclh69108@gmail.com
 KH000097,Dương Gia Khang,1983-07-09,Nam,077083544629,TP Hồ Chí Minh,Công chức,Phổ thông,Cá nhân,CN TP Hồ Chí Minh,2020-08-03,Tại quầy,Đang hoạt động,Không,Không,0525715407,khangdg83118@gmail.com
 KH003099,Lê Thanh Thắng,1986-01-11,Nam,095086310039,Cần Thơ,Kinh doanh tự do,Phổ thông,Cá nhân,CN Cần Thơ,2019-09-13,Tại quầy,Đang hoạt động,Không,Không,0844273136,thanglt86126@gmail.com
-KH003586,Nguyễn Bảo Hằng,1968-01-09,Nữ,001168085493,Hà Nội,Hưu trí,Phổ thông,Cá nhân,CN Thanh Xuân,2014-10-27,Tại quầy,Đang hoạt động,Không,Không,,hangnb68111@icloud.com
+KH003586,Nguyễn Bảo Hằng,1968-01-09,Nữ,001168085493,Hà Nội,Hưu trí,Phổ thông,Cá nhân,CN Thanh Xuân,2014-10-27,Tại quầy,Đang hoạt động,Không,Không,0390147575,hangnb68111@icloud.com
 KH004159,Võ Ngọc Hoa,1982-01-28,Nữ,093182639005,Cần Thơ,Bán hàng,Phổ thông,Cá nhân,CN Cần Thơ,2021-07-26,Trực tuyến,Đang hoạt động,Không,Không,0371866985,hoavn82326@gmail.com
 KH002175,Mai Minh Huyền,1986-08-16,Nữ,031186357371,Hải Phòng,Nhân viên văn phòng,Phổ thông,Cá nhân,CN Hải Phòng,2025-12-29,Trực tuyến,Đang hoạt động,Không,Không,0863553608,huyenmm86355@gmail.com
 KH007757,Trương Thị Lam,2009-08-19,Nữ,074309844237,TP Hồ Chí Minh,"Học sinh, sinh viên",Phổ thông,Cá nhân,CN Đà Nẵng,2024-11-14,Trực tuyến,Đang hoạt động,Không,Không,0385553913,lamtt09806@yahoo.com

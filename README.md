@@ -67,7 +67,7 @@ ket_qua/                                kết quả chuẩn, dùng khi vắng ti
 
 Bộ dữ liệu lớn, sinh theo bộ quy tắc có căn cứ thực tế, dùng cho phần thực hành từ ngày 13/10/2026. Cấu trúc giống `demo/`:
 
-- `chuan/ca_nhan/`: 10.000 khách hàng cá nhân (bản thô 10.030 dòng), 8.963 sổ tiền gửi, 2.160 hợp đồng vay, 100 hồ sơ đề nghị vay, lịch sử 10.000 khoản vay. Sao kê 12 tháng (1.192.193 giao dịch) **nén dạng `.csv.gz`**: `sao_ke/sao_ke_2026_01.csv.gz` … `sao_ke_2026_12.csv.gz`; `pd.read_csv` đọc trực tiếp, tự giải nén.
+- `chuan/ca_nhan/`: 10.000 khách hàng cá nhân (bản thô 10.030 dòng), 8.851 sổ tiền gửi, 2.160 hợp đồng vay, 115 hồ sơ đề nghị vay, lịch sử 10.000 khoản vay. Sao kê 12 tháng (1.193.057 giao dịch) **nén dạng `.csv.gz`**: `sao_ke/sao_ke_2026_01.csv.gz` … `sao_ke_2026_12.csv.gz`; `pd.read_csv` đọc trực tiếp, tự giải nén.
 - `chuan/doanh_nghiep/`: 2.000 doanh nghiệp, 454 hồ sơ đề nghị cấp hạn mức, lịch sử 10.000 hồ sơ.
 - `chuan/mau/`: bảng mẫu nhỏ, giống `demo/mau/`.
 - `chuan/ket_qua/`: kết quả chuẩn tiết 1–7 của bộ chuẩn (xem `chuan/ket_qua/README.md`).
