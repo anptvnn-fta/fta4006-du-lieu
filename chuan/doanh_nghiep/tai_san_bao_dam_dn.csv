@@ -1,0 +1,634 @@
+﻿ma_ho_so,ma_kh,stt_tai_san,loai_tai_san,ma_loai_tai_san,chu_so_huu,gia_tri_dinh_gia,ngay_dinh_gia
+HSDN00001,DN00006,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),3900.0,2026-12-31
+HSDN00002,DN00007,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,2040.0,2026-12-23
+HSDN00002,DN00007,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,11690.0,2026-12-24
+HSDN00003,DN00010,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),21590.0,2026-12-21
+HSDN00003,DN00010,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,21200.0,2026-12-29
+HSDN00004,DN00020,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),700.0,2026-12-29
+HSDN00004,DN00020,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,440.0,2026-12-31
+HSDN00006,DN00024,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),830.0,2026-12-15
+HSDN00007,DN00025,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),2800.0,2026-12-28
+HSDN00009,DN00034,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,50.0,2026-12-15
+HSDN00009,DN00034,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),860.0,2026-12-22
+HSDN00010,DN00040,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,1210.0,2026-12-25
+HSDN00011,DN00044,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,4260.0,2026-11-27
+HSDN00012,DN00048,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),11910.0,2026-12-08
+HSDN00013,DN00056,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),800.0,2026-12-08
+HSDN00014,DN00069,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,6160.0,2026-11-30
+HSDN00014,DN00069,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,17620.0,2026-11-30
+HSDN00014,DN00069,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),54230.0,2026-12-01
+HSDN00014,DN00069,4,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),83370.0,2026-12-01
+HSDN00015,DN00071,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),11660.0,2026-12-16
+HSDN00016,DN00073,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,110.0,2026-12-08
+HSDN00017,DN00074,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,1060.0,2026-12-10
+HSDN00018,DN00088,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),15710.0,2026-11-25
+HSDN00019,DN00090,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),500.0,2026-11-27
+HSDN00019,DN00090,2,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,200.0,2026-11-30
+HSDN00020,DN00091,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,3160.0,2026-12-21
+HSDN00020,DN00091,2,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,5780.0,2026-12-21
+HSDN00021,DN00093,1,Máy móc thiết bị,MMTB,Doanh nghiệp,520.0,2026-12-14
+HSDN00026,DN00109,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,330.0,2026-12-22
+HSDN00027,DN00111,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),690.0,2026-12-03
+HSDN00028,DN00113,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),150.0,2026-12-07
+HSDN00028,DN00113,2,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,50.0,2026-12-07
+HSDN00028,DN00113,3,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,430.0,2026-12-02
+HSDN00028,DN00113,4,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),250.0,2026-12-01
+HSDN00028,DN00113,5,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,90.0,2026-12-08
+HSDN00029,DN00120,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),2230.0,2026-12-02
+HSDN00029,DN00120,2,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,1240.0,2026-12-04
+HSDN00030,DN00128,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),400.0,2026-12-31
+HSDN00032,DN00133,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,2220.0,2026-12-31
+HSDN00032,DN00133,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,6030.0,2026-12-29
+HSDN00032,DN00133,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),13140.0,2026-12-29
+HSDN00033,DN00140,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),300.0,2026-12-25
+HSDN00034,DN00141,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),570.0,2026-12-29
+HSDN00034,DN00141,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),530.0,2026-12-21
+HSDN00034,DN00141,3,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,1290.0,2026-12-25
+HSDN00035,DN00142,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,3620.0,2026-12-29
+HSDN00035,DN00142,2,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,850.0,2026-12-24
+HSDN00035,DN00142,3,Máy móc thiết bị,MMTB,Doanh nghiệp,680.0,2026-12-24
+HSDN00037,DN00148,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,580.0,2026-11-30
+HSDN00037,DN00148,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1010.0,2026-11-30
+HSDN00037,DN00148,3,Khoản phải thu,PHAI_THU,Doanh nghiệp,4740.0,2026-12-04
+HSDN00038,DN00149,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,23520.0,2026-12-01
+HSDN00038,DN00149,2,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,12880.0,2026-12-07
+HSDN00039,DN00150,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,70.0,2026-12-31
+HSDN00039,DN00150,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,100.0,2026-12-31
+HSDN00040,DN00152,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),700.0,2026-12-21
+HSDN00040,DN00152,2,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,2900.0,2026-12-29
+HSDN00040,DN00152,3,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,150.0,2026-12-22
+HSDN00041,DN00155,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,1230.0,2026-12-08
+HSDN00041,DN00155,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),11990.0,2026-12-07
+HSDN00045,DN00181,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,2210.0,2026-12-02
+HSDN00045,DN00181,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,420.0,2026-12-03
+HSDN00046,DN00188,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,150.0,2026-12-09
+HSDN00046,DN00188,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1040.0,2026-12-08
+HSDN00047,DN00197,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,2110.0,2026-12-21
+HSDN00048,DN00201,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1350.0,2026-12-03
+HSDN00048,DN00201,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,220.0,2026-11-30
+HSDN00049,DN00210,1,Máy móc thiết bị,MMTB,Doanh nghiệp,231250.0,2026-11-27
+HSDN00049,DN00210,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),116070.0,2026-11-23
+HSDN00049,DN00210,3,Máy móc thiết bị,MMTB,Doanh nghiệp,217720.0,2026-11-23
+HSDN00050,DN00214,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,100.0,2026-12-07
+HSDN00050,DN00214,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,640.0,2026-12-10
+HSDN00051,DN00215,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),136270.0,2026-12-31
+HSDN00052,DN00216,1,Máy móc thiết bị,MMTB,Doanh nghiệp,5600.0,2026-12-28
+HSDN00053,DN00219,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,620.0,2026-12-29
+HSDN00055,DN00224,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),3400.0,2026-12-09
+HSDN00056,DN00234,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,310.0,2026-12-22
+HSDN00056,DN00234,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),200.0,2026-12-14
+HSDN00057,DN00246,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,6280.0,2026-12-23
+HSDN00059,DN00256,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,370.0,2026-12-08
+HSDN00060,DN00261,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,1270.0,2026-11-25
+HSDN00061,DN00262,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),840.0,2026-11-30
+HSDN00061,DN00262,2,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,310.0,2026-12-04
+HSDN00062,DN00265,1,Máy móc thiết bị,MMTB,Doanh nghiệp,120.0,2026-12-14
+HSDN00062,DN00265,2,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,400.0,2026-12-14
+HSDN00062,DN00265,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),50.0,2026-12-11
+HSDN00063,DN00267,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,190.0,2026-12-18
+HSDN00064,DN00270,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),6120.0,2026-12-14
+HSDN00064,DN00270,2,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,5150.0,2026-12-11
+HSDN00065,DN00273,1,Máy móc thiết bị,MMTB,Doanh nghiệp,1030.0,2026-12-09
+HSDN00066,DN00276,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,70.0,2026-11-30
+HSDN00066,DN00276,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,200.0,2026-11-30
+HSDN00067,DN00283,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,180.0,2026-12-31
+HSDN00067,DN00283,2,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,270.0,2026-12-29
+HSDN00068,DN00290,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,1700.0,2026-12-29
+HSDN00069,DN00293,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),2080.0,2026-12-10
+HSDN00070,DN00295,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),8700.0,2026-12-29
+HSDN00071,DN00299,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,120.0,2026-12-08
+HSDN00074,DN00320,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,820.0,2026-12-10
+HSDN00075,DN00321,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),4650.0,2026-12-11
+HSDN00075,DN00321,2,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,60.0,2026-12-09
+HSDN00076,DN00324,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,420.0,2026-12-18
+HSDN00077,DN00329,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),150.0,2026-12-09
+HSDN00077,DN00329,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,60.0,2026-12-11
+HSDN00078,DN00336,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,1710.0,2026-12-29
+HSDN00079,DN00341,1,Máy móc thiết bị,MMTB,Doanh nghiệp,50.0,2026-12-04
+HSDN00079,DN00341,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),360.0,2026-11-26
+HSDN00080,DN00345,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,2020.0,2026-12-09
+HSDN00081,DN00346,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),22280.0,2026-12-11
+HSDN00082,DN00348,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),40680.0,2026-12-11
+HSDN00082,DN00348,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),23940.0,2026-12-10
+HSDN00083,DN00349,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,630.0,2026-11-26
+HSDN00084,DN00353,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),5190.0,2026-12-08
+HSDN00084,DN00353,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),15090.0,2026-12-09
+HSDN00084,DN00353,3,Máy móc thiết bị,MMTB,Doanh nghiệp,5820.0,2026-12-11
+HSDN00085,DN00354,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,50.0,2026-12-31
+HSDN00085,DN00354,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),70.0,2026-12-31
+HSDN00086,DN00375,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),7700.0,2026-12-15
+HSDN00086,DN00375,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,16480.0,2026-12-15
+HSDN00088,DN00379,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,222940.0,2026-12-25
+HSDN00088,DN00379,2,Máy móc thiết bị,MMTB,Doanh nghiệp,46980.0,2026-12-28
+HSDN00089,DN00403,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),140.0,2026-12-03
+HSDN00089,DN00403,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1500.0,2026-12-03
+HSDN00090,DN00407,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),140.0,2026-12-18
+HSDN00092,DN00417,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),5340.0,2026-12-22
+HSDN00092,DN00417,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,4840.0,2026-12-16
+HSDN00093,DN00420,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,930.0,2026-12-10
+HSDN00093,DN00420,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),2050.0,2026-12-07
+HSDN00094,DN00422,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),200.0,2026-12-02
+HSDN00094,DN00422,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),90.0,2026-12-04
+HSDN00095,DN00423,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,1360.0,2026-12-29
+HSDN00095,DN00423,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),960.0,2026-12-31
+HSDN00096,DN00430,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,160.0,2026-12-31
+HSDN00097,DN00433,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,2220.0,2026-12-28
+HSDN00097,DN00433,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),770.0,2026-12-28
+HSDN00098,DN00434,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),460.0,2026-12-22
+HSDN00100,DN00451,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,70.0,2026-11-26
+HSDN00101,DN00452,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),4710.0,2026-12-09
+HSDN00101,DN00452,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),380.0,2026-12-10
+HSDN00102,DN00457,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),530.0,2026-12-23
+HSDN00103,DN00463,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,1770.0,2026-12-14
+HSDN00104,DN00466,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,210.0,2026-11-30
+HSDN00104,DN00466,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),250.0,2026-11-30
+HSDN00105,DN00485,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,1310.0,2026-12-21
+HSDN00105,DN00485,2,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,280.0,2026-12-21
+HSDN00106,DN00486,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,530.0,2026-11-30
+HSDN00106,DN00486,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,60.0,2026-12-02
+HSDN00106,DN00486,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),160.0,2026-11-27
+HSDN00107,DN00488,1,Máy móc thiết bị,MMTB,Doanh nghiệp,190.0,2026-12-22
+HSDN00108,DN00491,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,630.0,2026-12-22
+HSDN00108,DN00491,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,2090.0,2026-12-29
+HSDN00110,DN00503,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),4890.0,2026-12-02
+HSDN00110,DN00503,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,6130.0,2026-12-07
+HSDN00110,DN00503,3,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,2560.0,2026-12-07
+HSDN00110,DN00503,4,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,1430.0,2026-12-08
+HSDN00111,DN00506,1,Máy móc thiết bị,MMTB,Doanh nghiệp,4850.0,2026-12-16
+HSDN00112,DN00521,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1330.0,2026-12-15
+HSDN00112,DN00521,2,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,430.0,2026-12-07
+HSDN00112,DN00521,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1660.0,2026-12-09
+HSDN00113,DN00523,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),140.0,2026-12-09
+HSDN00114,DN00524,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),300.0,2026-12-24
+HSDN00115,DN00533,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),4800.0,2026-12-17
+HSDN00115,DN00533,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),720.0,2026-12-22
+HSDN00116,DN00534,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,310.0,2026-12-01
+HSDN00118,DN00537,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,50.0,2026-12-02
+HSDN00118,DN00537,2,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,70.0,2026-12-02
+HSDN00119,DN00548,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,440.0,2026-12-21
+HSDN00120,DN00551,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,500.0,2026-12-09
+HSDN00121,DN00554,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,190.0,2026-12-14
+HSDN00121,DN00554,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),650.0,2026-12-10
+HSDN00121,DN00554,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),900.0,2026-12-14
+HSDN00122,DN00555,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,1890.0,2026-12-16
+HSDN00123,DN00577,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,850.0,2026-12-11
+HSDN00124,DN00579,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),65020.0,2026-12-25
+HSDN00125,DN00586,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,320.0,2026-12-24
+HSDN00125,DN00586,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,150.0,2026-12-25
+HSDN00126,DN00589,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,800.0,2026-12-14
+HSDN00127,DN00595,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,121230.0,2026-12-23
+HSDN00127,DN00595,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),183830.0,2026-12-22
+HSDN00127,DN00595,3,Máy móc thiết bị,MMTB,Doanh nghiệp,136670.0,2026-12-24
+HSDN00128,DN00597,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1010.0,2026-12-31
+HSDN00128,DN00597,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),220.0,2026-12-29
+HSDN00128,DN00597,3,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,80.0,2026-12-31
+HSDN00128,DN00597,4,Máy móc thiết bị,MMTB,Doanh nghiệp,140.0,2026-12-31
+HSDN00128,DN00597,5,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),70.0,2026-12-24
+HSDN00129,DN00598,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,1200.0,2026-12-08
+HSDN00131,DN00600,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),490.0,2026-12-28
+HSDN00132,DN00601,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,280.0,2026-12-23
+HSDN00132,DN00601,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),440.0,2026-12-17
+HSDN00133,DN00602,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,65740.0,2026-12-31
+HSDN00134,DN00613,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,270.0,2026-12-08
+HSDN00135,DN00616,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,2640.0,2026-12-25
+HSDN00135,DN00616,2,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,42490.0,2026-12-24
+HSDN00135,DN00616,3,Máy móc thiết bị,MMTB,Doanh nghiệp,84980.0,2026-12-29
+HSDN00136,DN00620,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,3210.0,2026-12-22
+HSDN00137,DN00621,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),190.0,2026-12-02
+HSDN00138,DN00623,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1380.0,2026-12-02
+HSDN00140,DN00625,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,490.0,2026-12-07
+HSDN00141,DN00628,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,390.0,2026-12-15
+HSDN00142,DN00635,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),320.0,2026-12-18
+HSDN00144,DN00646,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,310.0,2026-12-17
+HSDN00145,DN00648,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,380.0,2026-12-09
+HSDN00146,DN00652,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,50.0,2026-12-14
+HSDN00146,DN00652,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,70.0,2026-12-16
+HSDN00148,DN00661,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,150.0,2026-12-31
+HSDN00148,DN00661,2,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,170.0,2026-12-31
+HSDN00149,DN00663,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),430.0,2026-12-16
+HSDN00151,DN00677,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,11290.0,2026-12-10
+HSDN00151,DN00677,2,Máy móc thiết bị,MMTB,Doanh nghiệp,22580.0,2026-12-11
+HSDN00153,DN00685,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,120.0,2026-12-01
+HSDN00153,DN00685,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,280.0,2026-12-03
+HSDN00154,DN00696,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,4830.0,2026-12-11
+HSDN00154,DN00696,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,10370.0,2026-12-07
+HSDN00155,DN00700,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,4650.0,2026-12-09
+HSDN00156,DN00701,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),970.0,2026-12-17
+HSDN00157,DN00713,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,60.0,2026-12-31
+HSDN00160,DN00734,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),31880.0,2026-12-14
+HSDN00161,DN00736,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),29160.0,2026-12-03
+HSDN00162,DN00762,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),3990.0,2026-12-25
+HSDN00164,DN00766,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),570.0,2026-12-16
+HSDN00165,DN00767,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),3770.0,2026-12-31
+HSDN00165,DN00767,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1840.0,2026-12-31
+HSDN00165,DN00767,3,Khoản phải thu,PHAI_THU,Doanh nghiệp,290.0,2026-12-29
+HSDN00167,DN00770,1,Máy móc thiết bị,MMTB,Doanh nghiệp,130.0,2026-12-24
+HSDN00168,DN00771,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,11460.0,2026-12-09
+HSDN00168,DN00771,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),3400.0,2026-12-15
+HSDN00169,DN00774,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,50.0,2026-12-03
+HSDN00170,DN00782,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),16400.0,2026-12-22
+HSDN00170,DN00782,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,7660.0,2026-12-21
+HSDN00171,DN00784,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),450.0,2026-12-10
+HSDN00173,DN00787,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,90.0,2026-11-30
+HSDN00173,DN00787,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1870.0,2026-12-03
+HSDN00174,DN00789,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),257360.0,2026-12-07
+HSDN00174,DN00789,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),975910.0,2026-12-02
+HSDN00174,DN00789,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),560120.0,2026-12-01
+HSDN00175,DN00803,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,90.0,2026-12-08
+HSDN00175,DN00803,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),400.0,2026-12-09
+HSDN00176,DN00804,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,5330.0,2026-12-01
+HSDN00177,DN00807,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,640.0,2026-12-04
+HSDN00177,DN00807,2,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,3110.0,2026-12-04
+HSDN00177,DN00807,3,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,1840.0,2026-12-03
+HSDN00177,DN00807,4,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),5480.0,2026-12-09
+HSDN00178,DN00809,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,360.0,2026-12-16
+HSDN00179,DN00811,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),3430.0,2026-12-08
+HSDN00180,DN00814,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),90.0,2026-12-17
+HSDN00181,DN00817,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),160.0,2026-12-08
+HSDN00181,DN00817,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,710.0,2026-12-01
+HSDN00182,DN00819,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),180.0,2026-11-30
+HSDN00182,DN00819,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),380.0,2026-12-04
+HSDN00182,DN00819,3,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,160.0,2026-12-08
+HSDN00183,DN00826,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),130.0,2026-12-02
+HSDN00183,DN00826,2,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,90.0,2026-12-08
+HSDN00184,DN00828,1,Máy móc thiết bị,MMTB,Doanh nghiệp,220.0,2026-12-03
+HSDN00185,DN00829,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),350.0,2026-12-07
+HSDN00187,DN00842,1,Máy móc thiết bị,MMTB,Doanh nghiệp,20350.0,2026-12-17
+HSDN00187,DN00842,2,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,30910.0,2026-12-17
+HSDN00188,DN00845,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,360.0,2026-12-25
+HSDN00188,DN00845,2,Máy móc thiết bị,MMTB,Doanh nghiệp,550.0,2026-12-23
+HSDN00189,DN00848,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),11630.0,2026-12-28
+HSDN00191,DN00858,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,50.0,2026-12-25
+HSDN00192,DN00865,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,19010.0,2026-12-31
+HSDN00192,DN00865,2,Máy móc thiết bị,MMTB,Doanh nghiệp,15250.0,2026-12-31
+HSDN00193,DN00868,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),620.0,2026-12-28
+HSDN00196,DN00881,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1120.0,2026-12-14
+HSDN00198,DN00886,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,19910.0,2026-12-03
+HSDN00198,DN00886,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),25080.0,2026-11-30
+HSDN00199,DN00889,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),480.0,2026-12-15
+HSDN00200,DN00894,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,460.0,2026-12-22
+HSDN00201,DN00904,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,470.0,2026-12-08
+HSDN00202,DN00905,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),370.0,2026-12-02
+HSDN00202,DN00905,2,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,50.0,2026-12-03
+HSDN00203,DN00906,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,420.0,2026-12-28
+HSDN00205,DN00910,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,20580.0,2026-12-02
+HSDN00205,DN00910,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,1990.0,2026-12-01
+HSDN00205,DN00910,3,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,9210.0,2026-12-07
+HSDN00205,DN00910,4,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,6040.0,2026-12-01
+HSDN00206,DN00914,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),2670.0,2026-11-30
+HSDN00206,DN00914,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,3120.0,2026-12-01
+HSDN00207,DN00924,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),50.0,2026-12-21
+HSDN00207,DN00924,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),50.0,2026-12-29
+HSDN00208,DN00930,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),470.0,2026-12-18
+HSDN00209,DN00935,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),200.0,2026-12-14
+HSDN00210,DN00938,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),620.0,2026-12-16
+HSDN00212,DN00955,1,Máy móc thiết bị,MMTB,Doanh nghiệp,790.0,2026-12-14
+HSDN00213,DN00958,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),34900.0,2026-12-29
+HSDN00214,DN00959,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),54560.0,2026-12-17
+HSDN00214,DN00959,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,24400.0,2026-12-15
+HSDN00215,DN00964,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,1400.0,2026-12-25
+HSDN00216,DN00977,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),50.0,2026-12-01
+HSDN00216,DN00977,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,60.0,2026-11-25
+HSDN00217,DN00979,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1710.0,2026-12-22
+HSDN00218,DN00982,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,3090.0,2026-12-16
+HSDN00218,DN00982,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,820.0,2026-12-15
+HSDN00220,DN00987,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,1510.0,2026-12-14
+HSDN00220,DN00987,2,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,1270.0,2026-12-08
+HSDN00220,DN00987,3,Máy móc thiết bị,MMTB,Doanh nghiệp,4420.0,2026-12-15
+HSDN00220,DN00987,4,Khoản phải thu,PHAI_THU,Doanh nghiệp,2700.0,2026-12-07
+HSDN00221,DN00997,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),35820.0,2026-12-03
+HSDN00222,DN01003,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,100.0,2026-12-30
+HSDN00222,DN01003,2,Máy móc thiết bị,MMTB,Doanh nghiệp,410.0,2026-12-30
+HSDN00222,DN01003,3,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,640.0,2026-12-30
+HSDN00222,DN01003,4,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,610.0,2026-12-31
+HSDN00223,DN01006,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,25790.0,2026-12-15
+HSDN00223,DN01006,2,Máy móc thiết bị,MMTB,Doanh nghiệp,11930.0,2026-12-21
+HSDN00223,DN01006,3,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,1450.0,2026-12-17
+HSDN00224,DN01008,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),8770.0,2026-12-31
+HSDN00225,DN01009,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,800.0,2026-12-31
+HSDN00226,DN01020,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,480.0,2026-12-11
+HSDN00227,DN01036,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,510.0,2026-11-30
+HSDN00227,DN01036,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),70.0,2026-12-02
+HSDN00228,DN01039,1,Máy móc thiết bị,MMTB,Doanh nghiệp,880.0,2026-12-07
+HSDN00229,DN01043,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,15360.0,2026-12-28
+HSDN00229,DN01043,2,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,17330.0,2026-12-23
+HSDN00230,DN01044,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),750.0,2026-12-16
+HSDN00230,DN01044,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,320.0,2026-12-16
+HSDN00232,DN01049,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,470.0,2026-12-16
+HSDN00234,DN01061,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),2570.0,2026-12-08
+HSDN00234,DN01061,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),3700.0,2026-12-09
+HSDN00236,DN01071,1,Máy móc thiết bị,MMTB,Doanh nghiệp,190.0,2026-12-22
+HSDN00238,DN01078,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,2790.0,2026-12-14
+HSDN00238,DN01078,2,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,520.0,2026-12-14
+HSDN00239,DN01081,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,940.0,2026-12-31
+HSDN00239,DN01081,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),4610.0,2026-12-28
+HSDN00240,DN01092,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),740.0,2026-12-01
+HSDN00241,DN01093,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,630.0,2026-12-07
+HSDN00242,DN01104,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,16730.0,2026-12-08
+HSDN00242,DN01104,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),4660.0,2026-12-09
+HSDN00243,DN01107,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),590.0,2026-12-25
+HSDN00245,DN01117,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),390.0,2026-12-31
+HSDN00245,DN01117,2,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,640.0,2026-12-24
+HSDN00245,DN01117,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),240.0,2026-12-30
+HSDN00246,DN01119,1,Máy móc thiết bị,MMTB,Doanh nghiệp,590.0,2026-12-17
+HSDN00246,DN01119,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,680.0,2026-12-22
+HSDN00246,DN01119,3,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,1370.0,2026-12-23
+HSDN00247,DN01126,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),7380.0,2026-12-28
+HSDN00248,DN01128,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,1270.0,2026-11-27
+HSDN00250,DN01131,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,460.0,2026-11-30
+HSDN00250,DN01131,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1580.0,2026-12-04
+HSDN00251,DN01137,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,8750.0,2026-12-21
+HSDN00252,DN01139,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,1870.0,2026-12-31
+HSDN00252,DN01139,2,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,1930.0,2026-12-31
+HSDN00255,DN01158,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,130.0,2026-12-16
+HSDN00255,DN01158,2,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,7440.0,2026-12-18
+HSDN00256,DN01164,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,100.0,2026-11-30
+HSDN00257,DN01169,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,4660.0,2026-12-07
+HSDN00257,DN01169,2,Máy móc thiết bị,MMTB,Doanh nghiệp,22940.0,2026-12-07
+HSDN00258,DN01173,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,130.0,2026-12-17
+HSDN00259,DN01175,1,Máy móc thiết bị,MMTB,Doanh nghiệp,3480.0,2026-12-21
+HSDN00261,DN01185,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,720.0,2026-12-14
+HSDN00262,DN01192,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,540.0,2026-11-27
+HSDN00263,DN01197,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,70.0,2026-12-02
+HSDN00263,DN01197,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,580.0,2026-12-08
+HSDN00264,DN01203,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),12380.0,2026-12-10
+HSDN00267,DN01209,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1380.0,2026-12-02
+HSDN00267,DN01209,2,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,1290.0,2026-11-26
+HSDN00268,DN01210,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,2180.0,2026-12-09
+HSDN00269,DN01212,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,50.0,2026-12-16
+HSDN00269,DN01212,2,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,50.0,2026-12-15
+HSDN00270,DN01214,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,3310.0,2026-11-25
+HSDN00270,DN01214,2,Máy móc thiết bị,MMTB,Doanh nghiệp,1570.0,2026-11-25
+HSDN00270,DN01214,3,Máy móc thiết bị,MMTB,Doanh nghiệp,440.0,2026-11-27
+HSDN00271,DN01216,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,80.0,2026-12-22
+HSDN00272,DN01221,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,120.0,2026-12-31
+HSDN00273,DN01223,1,Máy móc thiết bị,MMTB,Doanh nghiệp,840.0,2026-12-22
+HSDN00274,DN01224,1,Máy móc thiết bị,MMTB,Doanh nghiệp,630.0,2026-12-18
+HSDN00274,DN01224,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),2380.0,2026-12-16
+HSDN00275,DN01228,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),840.0,2026-12-07
+HSDN00277,DN01246,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,5790.0,2026-12-01
+HSDN00277,DN01246,2,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,10840.0,2026-12-02
+HSDN00277,DN01246,3,Máy móc thiết bị,MMTB,Doanh nghiệp,1720.0,2026-11-27
+HSDN00278,DN01250,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,70.0,2026-12-22
+HSDN00279,DN01255,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),770.0,2026-12-15
+HSDN00280,DN01258,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,850.0,2026-11-27
+HSDN00280,DN01258,2,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,1410.0,2026-11-30
+HSDN00280,DN01258,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),720.0,2026-11-25
+HSDN00281,DN01265,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,720.0,2026-12-31
+HSDN00282,DN01266,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,6590.0,2026-12-29
+HSDN00283,DN01268,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,450.0,2026-12-07
+HSDN00283,DN01268,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),50.0,2026-12-07
+HSDN00283,DN01268,3,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,490.0,2026-12-10
+HSDN00284,DN01279,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),880.0,2026-12-02
+HSDN00285,DN01283,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,230.0,2026-12-17
+HSDN00285,DN01283,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,50.0,2026-12-15
+HSDN00286,DN01285,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),27700.0,2026-12-01
+HSDN00286,DN01285,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1740.0,2026-12-01
+HSDN00287,DN01286,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1760.0,2026-12-09
+HSDN00288,DN01293,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,260.0,2026-11-30
+HSDN00288,DN01293,2,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,360.0,2026-11-30
+HSDN00289,DN01295,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),260.0,2026-12-02
+HSDN00290,DN01296,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1410.0,2026-12-17
+HSDN00291,DN01303,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),310.0,2026-12-02
+HSDN00292,DN01309,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),120.0,2026-12-15
+HSDN00292,DN01309,2,Máy móc thiết bị,MMTB,Doanh nghiệp,190.0,2026-12-11
+HSDN00293,DN01311,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),80.0,2026-12-23
+HSDN00293,DN01311,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,110.0,2026-12-21
+HSDN00294,DN01313,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1130.0,2026-12-31
+HSDN00295,DN01324,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,8070.0,2026-12-24
+HSDN00296,DN01330,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,220.0,2026-12-14
+HSDN00296,DN01330,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),80.0,2026-12-11
+HSDN00296,DN01330,3,Khoản phải thu,PHAI_THU,Doanh nghiệp,50.0,2026-12-09
+HSDN00296,DN01330,4,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),640.0,2026-12-16
+HSDN00296,DN01330,5,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),390.0,2026-12-11
+HSDN00297,DN01331,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),30010.0,2026-12-15
+HSDN00297,DN01331,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),11640.0,2026-12-17
+HSDN00298,DN01332,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,80.0,2026-12-14
+HSDN00299,DN01334,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,50.0,2026-12-24
+HSDN00299,DN01334,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,260.0,2026-12-23
+HSDN00300,DN01338,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),20680.0,2026-12-18
+HSDN00301,DN01339,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),7290.0,2026-12-29
+HSDN00301,DN01339,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,2240.0,2026-12-28
+HSDN00302,DN01343,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,210.0,2026-12-24
+HSDN00303,DN01346,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,3470.0,2026-12-21
+HSDN00303,DN01346,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),14220.0,2026-12-22
+HSDN00304,DN01348,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),880.0,2026-12-11
+HSDN00304,DN01348,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),100.0,2026-12-11
+HSDN00304,DN01348,3,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,60.0,2026-12-09
+HSDN00305,DN01351,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),58780.0,2026-11-30
+HSDN00306,DN01355,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,16330.0,2026-12-03
+HSDN00306,DN01355,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),9050.0,2026-12-04
+HSDN00306,DN01355,3,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,50820.0,2026-12-08
+HSDN00306,DN01355,4,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),67640.0,2026-12-03
+HSDN00307,DN01362,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),11340.0,2026-12-10
+HSDN00308,DN01365,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),3780.0,2026-12-04
+HSDN00310,DN01374,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,158630.0,2026-12-01
+HSDN00310,DN01374,2,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,47940.0,2026-12-03
+HSDN00310,DN01374,3,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,36930.0,2026-12-03
+HSDN00311,DN01375,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,240.0,2026-12-07
+HSDN00311,DN01375,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,710.0,2026-11-30
+HSDN00312,DN01376,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,7250.0,2026-12-24
+HSDN00312,DN01376,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,30420.0,2026-12-28
+HSDN00313,DN01380,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,310.0,2026-12-07
+HSDN00313,DN01380,2,Máy móc thiết bị,MMTB,Doanh nghiệp,100.0,2026-12-07
+HSDN00314,DN01387,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,230.0,2026-12-31
+HSDN00314,DN01387,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,4330.0,2026-12-31
+HSDN00315,DN01398,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,360.0,2026-12-10
+HSDN00315,DN01398,2,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,1380.0,2026-12-11
+HSDN00316,DN01399,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,2510.0,2026-12-18
+HSDN00316,DN01399,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),500.0,2026-12-21
+HSDN00317,DN01404,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,1500.0,2026-12-24
+HSDN00318,DN01412,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,5150.0,2026-12-25
+HSDN00318,DN01412,2,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,460.0,2026-12-24
+HSDN00319,DN01416,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1130.0,2026-12-18
+HSDN00321,DN01422,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,610.0,2026-12-25
+HSDN00321,DN01422,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,2920.0,2026-12-30
+HSDN00321,DN01422,3,Máy móc thiết bị,MMTB,Doanh nghiệp,1020.0,2026-12-28
+HSDN00322,DN01425,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),180.0,2026-12-08
+HSDN00323,DN01428,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,190.0,2026-12-07
+HSDN00325,DN01432,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,12650.0,2026-12-02
+HSDN00326,DN01434,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,7450.0,2026-12-21
+HSDN00328,DN01449,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,1850.0,2026-12-01
+HSDN00328,DN01449,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),2910.0,2026-12-04
+HSDN00328,DN01449,3,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,970.0,2026-12-03
+HSDN00329,DN01450,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),80.0,2026-12-11
+HSDN00329,DN01450,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1360.0,2026-12-14
+HSDN00330,DN01453,1,Máy móc thiết bị,MMTB,Doanh nghiệp,1420.0,2026-12-07
+HSDN00331,DN01459,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,430.0,2026-12-10
+HSDN00331,DN01459,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,180.0,2026-12-14
+HSDN00332,DN01462,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),80.0,2026-12-22
+HSDN00332,DN01462,2,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,370.0,2026-12-15
+HSDN00332,DN01462,3,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,360.0,2026-12-22
+HSDN00333,DN01467,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),290.0,2026-12-01
+HSDN00333,DN01467,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,910.0,2026-11-30
+HSDN00334,DN01475,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),200.0,2026-12-31
+HSDN00335,DN01476,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,5580.0,2026-12-01
+HSDN00336,DN01477,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,7490.0,2026-12-22
+HSDN00337,DN01483,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,1180.0,2026-12-08
+HSDN00339,DN01499,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,603020.0,2026-12-07
+HSDN00340,DN01501,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),31020.0,2026-12-11
+HSDN00340,DN01501,2,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,7120.0,2026-12-09
+HSDN00341,DN01502,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),530.0,2026-12-14
+HSDN00343,DN01510,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,420.0,2026-11-24
+HSDN00344,DN01513,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,3110.0,2026-12-17
+HSDN00345,DN01515,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,16630.0,2026-12-22
+HSDN00347,DN01530,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),450.0,2026-12-01
+HSDN00347,DN01530,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),50.0,2026-11-26
+HSDN00348,DN01532,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,190.0,2026-12-07
+HSDN00348,DN01532,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1630.0,2026-11-27
+HSDN00349,DN01547,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1140.0,2026-12-11
+HSDN00350,DN01552,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),220.0,2026-12-22
+HSDN00350,DN01552,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,1140.0,2026-12-21
+HSDN00350,DN01552,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),740.0,2026-12-21
+HSDN00351,DN01556,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,150.0,2026-12-29
+HSDN00351,DN01556,2,Máy móc thiết bị,MMTB,Doanh nghiệp,190.0,2026-12-23
+HSDN00351,DN01556,3,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,50.0,2026-12-28
+HSDN00352,DN01558,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,1000.0,2026-12-03
+HSDN00354,DN01581,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,1660.0,2026-12-04
+HSDN00356,DN01588,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),3800.0,2026-12-09
+HSDN00356,DN01588,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,180.0,2026-12-01
+HSDN00356,DN01588,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),320.0,2026-12-09
+HSDN00356,DN01588,4,Khoản phải thu,PHAI_THU,Doanh nghiệp,1660.0,2026-12-04
+HSDN00357,DN01589,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,450.0,2026-12-01
+HSDN00358,DN01592,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1410.0,2026-12-15
+HSDN00358,DN01592,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),5360.0,2026-12-14
+HSDN00359,DN01594,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,7380.0,2026-12-23
+HSDN00361,DN01598,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),50.0,2026-12-03
+HSDN00362,DN01605,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,210.0,2026-12-25
+HSDN00363,DN01609,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,70.0,2026-12-07
+HSDN00363,DN01609,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),50.0,2026-12-04
+HSDN00363,DN01609,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),70.0,2026-12-08
+HSDN00364,DN01622,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),180.0,2026-12-08
+HSDN00365,DN01626,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),830.0,2026-11-26
+HSDN00366,DN01627,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),50.0,2026-12-23
+HSDN00366,DN01627,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),4360.0,2026-12-29
+HSDN00368,DN01633,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,2060.0,2026-11-25
+HSDN00368,DN01633,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1730.0,2026-12-02
+HSDN00369,DN01642,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),720.0,2026-12-22
+HSDN00369,DN01642,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),210.0,2026-12-16
+HSDN00370,DN01646,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,3360.0,2026-11-25
+HSDN00372,DN01651,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),50.0,2026-12-24
+HSDN00373,DN01660,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),240.0,2026-12-10
+HSDN00374,DN01661,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,4980.0,2026-12-25
+HSDN00375,DN01668,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,800.0,2026-12-17
+HSDN00375,DN01668,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,330.0,2026-12-15
+HSDN00376,DN01676,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,2810.0,2026-12-22
+HSDN00376,DN01676,2,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,1990.0,2026-12-17
+HSDN00376,DN01676,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1040.0,2026-12-14
+HSDN00377,DN01681,1,Máy móc thiết bị,MMTB,Doanh nghiệp,4720.0,2026-12-22
+HSDN00377,DN01681,2,Máy móc thiết bị,MMTB,Doanh nghiệp,50.0,2026-12-17
+HSDN00377,DN01681,3,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,1790.0,2026-12-17
+HSDN00377,DN01681,4,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,6610.0,2026-12-22
+HSDN00379,DN01688,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,10260.0,2026-11-25
+HSDN00380,DN01691,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,70.0,2026-12-22
+HSDN00380,DN01691,2,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,110.0,2026-12-23
+HSDN00381,DN01692,1,Máy móc thiết bị,MMTB,Doanh nghiệp,11800.0,2026-11-24
+HSDN00383,DN01701,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,160.0,2026-12-28
+HSDN00384,DN01702,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),420.0,2026-12-09
+HSDN00385,DN01707,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1320.0,2026-12-30
+HSDN00386,DN01715,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,1980.0,2026-12-31
+HSDN00387,DN01718,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),990.0,2026-12-21
+HSDN00388,DN01720,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,840.0,2026-12-17
+HSDN00389,DN01728,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),230.0,2026-12-02
+HSDN00390,DN01732,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,450.0,2026-12-15
+HSDN00390,DN01732,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,590.0,2026-12-08
+HSDN00390,DN01732,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),2720.0,2026-12-14
+HSDN00391,DN01733,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,430.0,2026-12-16
+HSDN00391,DN01733,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),120.0,2026-12-18
+HSDN00391,DN01733,3,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,60.0,2026-12-16
+HSDN00392,DN01734,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),25480.0,2026-12-02
+HSDN00392,DN01734,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,14720.0,2026-11-26
+HSDN00393,DN01740,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),7960.0,2026-12-30
+HSDN00394,DN01743,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),90.0,2026-12-15
+HSDN00394,DN01743,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),160.0,2026-12-09
+HSDN00395,DN01757,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,630.0,2026-11-27
+HSDN00395,DN01757,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),50.0,2026-12-01
+HSDN00395,DN01757,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),9760.0,2026-12-02
+HSDN00396,DN01763,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),3640.0,2026-12-14
+HSDN00398,DN01768,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),9640.0,2026-12-08
+HSDN00398,DN01768,2,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,1000.0,2026-12-07
+HSDN00399,DN01770,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,380.0,2026-12-18
+HSDN00399,DN01770,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,160.0,2026-12-18
+HSDN00400,DN01772,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),190.0,2026-12-15
+HSDN00401,DN01774,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,1500.0,2026-11-30
+HSDN00402,DN01782,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),54630.0,2026-12-17
+HSDN00405,DN01813,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,12710.0,2026-12-28
+HSDN00406,DN01819,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,210.0,2026-12-08
+HSDN00406,DN01819,2,Máy móc thiết bị,MMTB,Doanh nghiệp,230.0,2026-12-10
+HSDN00407,DN01826,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,1540.0,2026-12-31
+HSDN00409,DN01843,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,130.0,2026-12-10
+HSDN00409,DN01843,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),3770.0,2026-12-09
+HSDN00410,DN01844,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),560.0,2026-12-03
+HSDN00411,DN01848,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,4810.0,2026-12-14
+HSDN00411,DN01848,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),15960.0,2026-12-07
+HSDN00411,DN01848,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),29110.0,2026-12-10
+HSDN00412,DN01850,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),500.0,2026-12-16
+HSDN00413,DN01855,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1470.0,2026-12-08
+HSDN00413,DN01855,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,2590.0,2026-12-11
+HSDN00413,DN01855,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),280.0,2026-12-10
+HSDN00414,DN01856,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,11430.0,2026-12-09
+HSDN00414,DN01856,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,7140.0,2026-12-04
+HSDN00414,DN01856,3,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,4100.0,2026-12-04
+HSDN00415,DN01859,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,26390.0,2026-11-30
+HSDN00415,DN01859,2,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,20140.0,2026-11-24
+HSDN00415,DN01859,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),8750.0,2026-12-01
+HSDN00415,DN01859,4,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),109010.0,2026-12-02
+HSDN00415,DN01859,5,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,42010.0,2026-11-24
+HSDN00416,DN01860,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),10090.0,2026-12-28
+HSDN00418,DN01862,1,Máy móc thiết bị,MMTB,Doanh nghiệp,1040.0,2026-12-17
+HSDN00418,DN01862,2,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,410.0,2026-12-21
+HSDN00420,DN01864,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),70.0,2026-12-03
+HSDN00421,DN01870,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,650.0,2026-12-17
+HSDN00422,DN01871,1,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,820.0,2026-12-28
+HSDN00422,DN01871,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,230.0,2026-12-21
+HSDN00422,DN01871,3,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,840.0,2026-12-21
+HSDN00423,DN01872,1,Phương tiện vận tải mới,PTVT_MOI,Doanh nghiệp,940.0,2026-12-21
+HSDN00423,DN01872,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,790.0,2026-12-18
+HSDN00425,DN01877,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,640.0,2026-11-25
+HSDN00426,DN01886,1,Máy móc thiết bị,MMTB,Doanh nghiệp,570.0,2026-11-30
+HSDN00426,DN01886,2,Máy móc thiết bị,MMTB,Doanh nghiệp,50.0,2026-11-26
+HSDN00427,DN01887,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,470.0,2026-12-08
+HSDN00427,DN01887,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,150.0,2026-12-08
+HSDN00428,DN01888,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,340.0,2026-11-30
+HSDN00429,DN01891,1,Khoản phải thu,PHAI_THU,Doanh nghiệp,360.0,2026-12-10
+HSDN00429,DN01891,2,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,100.0,2026-12-04
+HSDN00429,DN01891,3,Máy móc thiết bị,MMTB,Doanh nghiệp,1000.0,2026-12-10
+HSDN00430,DN01894,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),530.0,2026-12-14
+HSDN00431,DN01896,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),7600.0,2026-12-11
+HSDN00433,DN01908,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),135740.0,2026-12-14
+HSDN00433,DN01908,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,213410.0,2026-12-15
+HSDN00433,DN01908,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),195530.0,2026-12-18
+HSDN00433,DN01908,4,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,116610.0,2026-12-15
+HSDN00434,DN01912,1,Máy móc thiết bị,MMTB,Doanh nghiệp,50.0,2026-12-31
+HSDN00434,DN01912,2,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,110.0,2026-12-29
+HSDN00434,DN01912,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),60.0,2026-12-31
+HSDN00435,DN01917,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),540.0,2026-12-30
+HSDN00435,DN01917,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,110.0,2026-12-31
+HSDN00435,DN01917,3,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1010.0,2026-12-29
+HSDN00436,DN01922,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),700.0,2026-12-10
+HSDN00437,DN01923,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),190.0,2026-12-14
+HSDN00437,DN01923,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),250.0,2026-12-17
+HSDN00438,DN01925,1,Máy móc thiết bị,MMTB,Doanh nghiệp,620.0,2026-12-16
+HSDN00438,DN01925,2,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,1490.0,2026-12-16
+HSDN00439,DN01928,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),10630.0,2026-12-11
+HSDN00439,DN01928,2,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,8200.0,2026-12-09
+HSDN00440,DN01930,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,200.0,2026-12-15
+HSDN00442,DN01938,1,"Nhà xưởng, kho, đất sản xuất kinh doanh",BDS_SXKD,Doanh nghiệp,6530.0,2026-12-28
+HSDN00443,DN01939,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,250.0,2026-12-17
+HSDN00443,DN01939,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),430.0,2026-12-18
+HSDN00443,DN01939,3,Khoản phải thu,PHAI_THU,Doanh nghiệp,120.0,2026-12-14
+HSDN00444,DN01941,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),1260.0,2026-12-25
+HSDN00444,DN01941,2,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,910.0,2026-12-22
+HSDN00445,DN01942,1,"Tiền gửi, sổ tiết kiệm bằng đồng Việt Nam tại FTA",TG_FTA,Doanh nghiệp,260.0,2026-12-08
+HSDN00448,DN01959,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),50.0,2026-11-30
+HSDN00448,DN01959,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,400.0,2026-11-30
+HSDN00448,DN01959,3,Hàng tồn kho thanh khoản thấp,HTK_THAP,Doanh nghiệp,90.0,2026-12-01
+HSDN00448,DN01959,4,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),200.0,2026-12-08
+HSDN00449,DN01967,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),6230.0,2026-12-23
+HSDN00451,DN01974,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,1760.0,2026-11-27
+HSDN00452,DN01978,1,Hàng tồn kho thanh khoản cao,HTK_CAO,Doanh nghiệp,270.0,2026-12-23
+HSDN00452,DN01978,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,300.0,2026-12-28
+HSDN00453,DN01982,1,Phương tiện vận tải đã qua sử dụng,PTVT_CU,Doanh nghiệp,400.0,2026-12-17
+HSDN00453,DN01982,2,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),3660.0,2026-12-18
+HSDN00454,DN01997,1,"Bất động sản là nhà ở, đất ở",BDS_NHA_O,Bên thứ ba (người đại diện theo pháp luật),9050.0,2026-12-10
+HSDN00454,DN01997,2,Khoản phải thu,PHAI_THU,Doanh nghiệp,6010.0,2026-12-07
