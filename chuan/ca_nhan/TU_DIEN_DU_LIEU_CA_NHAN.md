@@ -130,6 +130,7 @@ Giao dịch tại quầy chỉ trong giờ giao dịch tại quầy: thứ Hai �
 | `san_pham` | Vay tiêu dùng tín chấp; Vay mua nhà; Vay mua ô tô; Vay sản xuất kinh doanh; Vay cầm cố sổ tiết kiệm |
 | `muc_dich` | Mục đích vay |
 | `so_tien_de_nghi` | Số tiền khách hàng đề nghị |
+| `tong_nhu_cau_von` | Tổng nhu cầu vốn của phương án kinh doanh, chỉ có ở hồ sơ vay sản xuất kinh doanh (ô trống ở sản phẩm khác); số tiền đề nghị là phần khách hàng xin vay, phần còn lại là vốn tự có (thêm ngày 14/10/2026) |
 | `ky_han_thang` | Thời hạn vay đề nghị (tháng) |
 | `lai_suat_nam_pct` | Lãi suất năm dự kiến của sản phẩm, tính theo phần trăm; kỳ trả dự kiến tính theo trả góp đều hằng tháng |
 | `thu_nhap_khai_bao` | Thu nhập tháng do khách tự khai |

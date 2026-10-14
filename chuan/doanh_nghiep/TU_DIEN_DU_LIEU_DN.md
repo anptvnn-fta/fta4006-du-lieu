@@ -45,7 +45,7 @@ Bản chưa làm sạch: có dòng trùng, có cách ghi ngành không thống n
 | `che_do_ke_toan` | Chế độ kế toán áp dụng cho các năm 2023–2025 |
 | `co_kiem_toan` | Báo cáo tài chính có được kiểm toán độc lập: Có / Không |
 | `nhom_bao_cao` | Đủ: có báo cáo tài chính từ 2 năm liền kề trở lên. Không đủ: chưa đủ 2 năm báo cáo, hoặc chỉ có tờ khai thuế |
-| `trang_thai` | Đang hoạt động; Ngừng giao dịch; Đã đóng |
+| `trang_thai` | Quan hệ với FTA: Đang hoạt động; Ngừng giao dịch (sao kê tại FTA dừng giữa năm, doanh nghiệp vẫn tồn tại); Đã đóng (đã đóng quan hệ với FTA) |
 | `dien_thoai`, `email` | Liên hệ |
 
 ## `bctc_dn.csv`
