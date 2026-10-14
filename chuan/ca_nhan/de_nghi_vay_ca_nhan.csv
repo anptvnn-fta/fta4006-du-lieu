@@ -1,116 +1,116 @@
-﻿ma_ho_so,ma_kh,ngay_de_nghi,san_pham,muc_dich,so_tien_de_nghi,ky_han_thang,lai_suat_nam_pct,thu_nhap_khai_bao,thu_nhap_khac_xac_minh,hinh_thuc_xac_minh,nguoi_dong_vay,thu_nhap_nguoi_dong_vay_xac_minh
-HSCN00001,KH000127,2026-12-24,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,30000000.0,60,17.39,9300000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00002,KH000201,2026-12-17,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,225000000.0,12,14.56,25800000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00003,KH000264,2026-11-25,Vay mua nhà,Mua căn hộ chung cư,710000000.0,240,8.72,19500000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00004,KH000311,2026-12-08,Vay tiêu dùng tín chấp,Chi phí học tập,30000000.0,24,13.28,6600000.0,6000000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00005,KH000456,2026-11-27,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,60000000.0,24,13.47,14300000.0,0.0,Chưa xác minh,Không,0.0
-HSCN00006,KH000522,2026-11-16,Vay tiêu dùng tín chấp,Sửa chữa nhà,35000000.0,24,15.42,66200000.0,39300000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00007,KH000526,2026-12-14,Vay tiêu dùng tín chấp,Chi phí học tập,85000000.0,24,18.33,8200000.0,7200000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00008,KH000721,2026-11-26,Vay cầm cố sổ tiết kiệm,Bổ sung vốn kinh doanh ngắn hạn,10000000.0,6,6.19,8200000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00009,KH000732,2026-11-20,Vay tiêu dùng tín chấp,Sửa chữa nhà,45000000.0,48,18.26,17700000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00010,KH000857,2026-12-10,Vay tiêu dùng tín chấp,Gửi tiết kiệm tại tổ chức tín dụng,10000000.0,24,15.78,5700000.0,5200000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00011,KH001154,2026-12-18,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,55000000.0,60,19.15,39600000.0,28900000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00012,KH001189,2026-11-18,Vay tiêu dùng tín chấp,Chi phí học tập,60000000.0,60,19.71,13900000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00013,KH001217,2026-11-24,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,45000000.0,12,17.66,7100000.0,7000000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00014,KH001223,2026-12-21,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,395000000.0,72,11.8,20800000.0,18300000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00015,KH001294,2026-11-30,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,75000000.0,60,13.38,14800000.0,0.0,Lương hưu qua FTA,Không,0.0
-HSCN00016,KH001368,2026-11-18,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,385000000.0,84,10.1,19300000.0,7200000.0,Lương qua FTA và sao kê ngân hàng khác,Không,0.0
-HSCN00017,KH001413,2026-12-24,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,500000000.0,72,11.85,94600000.0,69200000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00018,KH001533,2026-11-30,Vay sản xuất kinh doanh,Bổ sung vốn kinh doanh hộ gia đình,110000000.0,12,10.46,36800000.0,32200000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00019,KH001542,2026-12-14,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,1015000000.0,72,9.63,64300000.0,57800000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00020,KH001599,2026-12-07,Vay tiêu dùng tín chấp,Chi phí học tập,80000000.0,36,18.82,9100000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00021,KH001744,2026-12-15,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,50000000.0,36,13.67,10300000.0,7100000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00022,KH001766,2026-11-19,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,10000000.0,24,19.36,9700000.0,8300000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00023,KH001784,2026-12-17,Vay mua nhà,Mua nhà ở riêng lẻ,1560000000.0,180,10.73,26300000.0,0.0,Lương qua FTA,Có,22100000.0
-HSCN00024,KH001843,2026-12-24,Vay sản xuất kinh doanh,Bổ sung vốn kinh doanh hộ gia đình,50000000.0,6,9.84,8500000.0,8400000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00025,KH001883,2026-12-18,Vay tiêu dùng tín chấp,Chi phí học tập,85000000.0,60,19.17,8600000.0,0.0,Chưa xác minh,Không,0.0
-HSCN00026,KH001976,2026-12-11,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,20000000.0,60,15.79,20400000.0,10900000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00027,KH002106,2026-12-07,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,75000000.0,60,19.28,10900000.0,10300000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00028,KH002149,2026-12-25,Vay sản xuất kinh doanh,Bổ sung vốn kinh doanh hộ gia đình,190000000.0,24,10.16,48400000.0,29700000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00029,KH002313,2026-11-23,Vay tiêu dùng tín chấp,Sửa chữa nhà,10000000.0,24,15.7,11100000.0,10700000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00030,KH002409,2026-12-11,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,36,16.46,15200000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00031,KH002439,2026-12-09,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,1055000000.0,60,8.34,18400000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00032,KH002610,2026-12-03,Vay mua nhà,Mua căn hộ chung cư,1790000000.0,300,10.99,29400000.0,7700000.0,Lương qua FTA và sao kê ngân hàng khác,Có,18700000.0
-HSCN00033,KH002704,2026-11-23,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,60,13.46,18000000.0,16200000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00034,KH002800,2026-11-16,Vay tiêu dùng tín chấp,Gửi tiết kiệm tại tổ chức tín dụng,650000000.0,48,14.12,48700000.0,32400000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00035,KH002992,2026-11-20,Vay mua nhà,Nhận chuyển nhượng quyền sử dụng đất ở,650000000.0,240,9.51,14900000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00036,KH003013,2026-12-14,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,10000000.0,36,18.45,3700000.0,0.0,Lương hưu qua FTA,Không,0.0
-HSCN00037,KH003161,2026-12-15,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,115000000.0,60,15.43,20600000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00038,KH003220,2026-11-24,Vay tiêu dùng tín chấp,Sửa chữa nhà,160000000.0,60,17.1,11700000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00039,KH003240,2026-12-21,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,15000000.0,36,15.73,16100000.0,13700000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00040,KH003259,2026-11-18,Vay sản xuất kinh doanh,Mua hàng hóa kinh doanh,220000000.0,12,8.83,28400000.0,23200000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00041,KH003311,2026-11-23,Vay sản xuất kinh doanh,Mua hàng hóa kinh doanh,320000000.0,12,9.9,61600000.0,51700000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00042,KH003347,2026-11-26,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,450000000.0,60,9.28,28700000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00043,KH003509,2026-11-24,Vay mua nhà,Mua căn hộ chung cư,1430000000.0,180,8.58,27100000.0,16200000.0,"Giấy tờ kinh doanh, sổ sách thuế",Có,19300000.0
-HSCN00044,KH003583,2026-12-21,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,360000000.0,36,8.1,19800000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00045,KH003672,2026-11-20,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,48,15.95,9100000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00046,KH003690,2026-11-26,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,45000000.0,12,14.94,14400000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00047,KH003743,2026-11-30,Vay tiêu dùng tín chấp,Sửa chữa nhà,20000000.0,24,18.01,6600000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00048,KH003780,2026-11-24,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,15000000.0,24,17.54,13700000.0,8100000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00049,KH003785,2026-11-30,Vay tiêu dùng tín chấp,Chi phí học tập,50000000.0,36,18.65,14600000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00050,KH003862,2026-12-14,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,80000000.0,60,13.67,16600000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00051,KH003934,2026-12-07,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,24,16.75,8700000.0,5500000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00052,KH004164,2026-11-23,Vay mua nhà,Nhận chuyển nhượng quyền sử dụng đất ở,520000000.0,120,9.19,13000000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00053,KH004224,2026-12-17,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,24,16.21,11400000.0,9600000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00054,KH004236,2026-12-21,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,10000000.0,36,14.74,11100000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00055,KH004264,2026-12-28,Vay cầm cố sổ tiết kiệm,Nhu cầu tiêu dùng ngắn hạn,33000000.0,6,8.7,14400000.0,12800000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00056,KH004306,2026-11-23,Vay tiêu dùng tín chấp,Sửa chữa nhà,40000000.0,60,15.75,6700000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00057,KH004600,2026-12-21,Vay mua nhà,Mua nhà ở riêng lẻ,910000000.0,300,8.69,18500000.0,17800000.0,Sao kê ngân hàng khác,Có,12800000.0
-HSCN00058,KH004840,2026-12-02,Vay tiêu dùng tín chấp,Sửa chữa nhà,200000000.0,60,17.48,15200000.0,7800000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00059,KH004874,2026-11-23,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,675000000.0,72,9.52,98100000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00060,KH004920,2026-11-19,Vay tiêu dùng tín chấp,Sửa chữa nhà,20000000.0,60,16.08,12100000.0,11800000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00061,KH005208,2026-11-16,Vay tiêu dùng tín chấp,Sửa chữa nhà,235000000.0,60,19.19,42800000.0,40000000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00062,KH005214,2026-11-16,Vay tiêu dùng tín chấp,Chi phí học tập,25000000.0,48,19.68,20700000.0,2600000.0,Lương qua FTA và sao kê ngân hàng khác,Không,0.0
-HSCN00063,KH005221,2026-11-27,Vay sản xuất kinh doanh,Mua hàng hóa kinh doanh,270000000.0,24,8.3,10300000.0,9800000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00064,KH005301,2026-11-27,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,24,18.84,30400000.0,3700000.0,Lương qua FTA và sao kê ngân hàng khác,Không,0.0
-HSCN00065,KH005400,2026-11-26,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,125000000.0,48,18.97,16200000.0,8400000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00066,KH005465,2026-12-07,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,165000000.0,36,17.2,27000000.0,6700000.0,Lương qua FTA và sao kê ngân hàng khác,Không,0.0
-HSCN00067,KH005486,2026-11-24,Vay tiêu dùng tín chấp,Sửa chữa nhà,190000000.0,60,15.06,15400000.0,0.0,Lương hưu qua FTA,Không,0.0
-HSCN00068,KH005661,2026-12-21,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,55000000.0,24,14.25,46900000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00069,KH005779,2026-11-26,Vay tiêu dùng tín chấp,Sửa chữa nhà,25000000.0,60,15.55,23900000.0,15500000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00070,KH005863,2026-11-19,Vay cầm cố sổ tiết kiệm,Nhu cầu tiêu dùng ngắn hạn,12000000.0,6,8.32,6300000.0,5900000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00071,KH006018,2026-12-14,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,210000000.0,60,16.18,9000000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00072,KH006062,2026-12-01,Vay mua nhà,Nhận chuyển nhượng quyền sử dụng đất ở,640000000.0,180,9.77,15000000.0,13300000.0,Sao kê ngân hàng khác,Có,12400000.0
-HSCN00073,KH006071,2026-12-04,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,65000000.0,36,18.47,9600000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00074,KH006133,2026-11-20,Vay cầm cố sổ tiết kiệm,Bổ sung vốn kinh doanh ngắn hạn,21000000.0,6,8.32,38500000.0,34400000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00075,KH006202,2026-12-01,Vay mua nhà,Mua nhà ở riêng lẻ,870000000.0,300,10.51,50100000.0,9100000.0,Lương qua FTA và sao kê ngân hàng khác,Có,22400000.0
-HSCN00076,KH006271,2026-11-27,Vay sản xuất kinh doanh,Bổ sung vốn kinh doanh hộ gia đình,110000000.0,12,9.99,11600000.0,11000000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00077,KH006350,2026-12-28,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,80000000.0,36,18.0,9300000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00078,KH006351,2026-12-03,Vay tiêu dùng tín chấp,Chi phí học tập,60000000.0,60,13.48,28100000.0,17200000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00079,KH006355,2026-12-11,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,25000000.0,36,16.74,10600000.0,0.0,Chưa xác minh,Không,0.0
-HSCN00080,KH006415,2026-12-18,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,100000000.0,60,13.2,8400000.0,7000000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00081,KH006611,2026-12-09,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,170000000.0,48,14.24,21400000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00082,KH006624,2026-11-16,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,225000000.0,60,16.15,16800000.0,14700000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00083,KH006725,2026-12-25,Vay tiêu dùng tín chấp,Sửa chữa nhà,395000000.0,48,13.51,14900000.0,8100000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00084,KH006823,2026-12-24,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,36,15.75,17300000.0,14200000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00085,KH006939,2026-12-04,Vay tiêu dùng tín chấp,Chi phí học tập,30000000.0,36,18.34,17400000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00086,KH006961,2026-11-26,Vay tiêu dùng tín chấp,Chi phí học tập,10000000.0,24,15.51,7300000.0,7000000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00087,KH007059,2026-12-28,Vay tiêu dùng tín chấp,Chi phí học tập,170000000.0,36,17.48,29900000.0,26400000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00088,KH007071,2026-12-28,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,36,18.71,24400000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00089,KH007114,2026-11-20,Vay tiêu dùng tín chấp,Chi phí học tập,20000000.0,60,18.41,7200000.0,0.0,Chưa xác minh,Không,0.0
-HSCN00090,KH007267,2026-11-23,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,135000000.0,24,14.42,33200000.0,27900000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00091,KH007326,2026-12-28,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,305000000.0,36,14.05,12400000.0,9100000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00092,KH007336,2026-12-21,Vay tiêu dùng tín chấp,Chi phí học tập,30000000.0,60,17.42,19300000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00093,KH007465,2026-11-30,Vay tiêu dùng tín chấp,Sửa chữa nhà,95000000.0,60,13.05,19600000.0,8600000.0,Lương qua FTA và sao kê ngân hàng khác,Không,0.0
-HSCN00094,KH007710,2026-11-18,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,20000000.0,48,13.13,11900000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00095,KH007779,2026-12-10,Vay sản xuất kinh doanh,Bổ sung vốn kinh doanh hộ gia đình,170000000.0,24,9.98,8700000.0,7200000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00096,KH007972,2026-12-21,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,135000000.0,36,14.47,24700000.0,13200000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00097,KH008011,2026-12-07,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,55000000.0,36,15.03,11900000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00098,KH008084,2026-12-07,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,100000000.0,60,13.97,11800000.0,11300000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00099,KH008179,2026-12-08,Vay cầm cố sổ tiết kiệm,Bổ sung vốn kinh doanh ngắn hạn,12000000.0,3,7.85,12000000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00100,KH008285,2026-12-17,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,45000000.0,60,19.32,3400000.0,3300000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00101,KH008305,2026-12-17,Vay mua nhà,Mua nhà ở riêng lẻ,710000000.0,300,10.9,20400000.0,7700000.0,Lương qua FTA và sao kê ngân hàng khác,Có,12900000.0
-HSCN00102,KH008371,2026-12-14,Vay mua nhà,Mua căn hộ chung cư,620000000.0,300,9.34,18200000.0,13600000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00103,KH008457,2026-12-28,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,235000000.0,60,13.06,15500000.0,13900000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00104,KH008459,2026-12-14,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,55000000.0,60,19.66,13600000.0,8200000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00105,KH008526,2026-12-23,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,12,19.28,9500000.0,8600000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00106,KH008707,2026-12-10,Vay sản xuất kinh doanh,Mua máy móc phục vụ sản xuất,140000000.0,12,8.59,21900000.0,18400000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00107,KH008759,2026-12-17,Vay tiêu dùng tín chấp,Sửa chữa nhà,10000000.0,36,17.81,13100000.0,7500000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00108,KH008829,2026-12-07,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,205000000.0,60,17.33,14100000.0,12300000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00109,KH009012,2026-12-03,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,610000000.0,48,9.6,33000000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00110,KH009031,2026-12-09,Vay tiêu dùng tín chấp,Chi phí học tập,165000000.0,60,13.16,11600000.0,9600000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00111,KH009353,2026-12-14,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,55000000.0,36,17.0,15100000.0,12200000.0,Sao kê ngân hàng khác,Không,0.0
-HSCN00112,KH009395,2026-12-17,Vay tiêu dùng tín chấp,Chi phí học tập,100000000.0,60,16.49,19600000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00113,KH009427,2026-12-22,Vay cầm cố sổ tiết kiệm,Nhu cầu tiêu dùng ngắn hạn,10000000.0,3,7.83,14500000.0,13200000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
-HSCN00114,KH009585,2026-12-18,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,25000000.0,60,14.28,14300000.0,0.0,Lương qua FTA,Không,0.0
-HSCN00115,KH009879,2026-11-20,Vay tiêu dùng tín chấp,Chi phí học tập,150000000.0,36,16.98,16400000.0,15100000.0,Sao kê ngân hàng khác,Không,0.0
+﻿ma_ho_so,ma_kh,ngay_de_nghi,san_pham,muc_dich,so_tien_de_nghi,tong_nhu_cau_von,ky_han_thang,lai_suat_nam_pct,thu_nhap_khai_bao,thu_nhap_khac_xac_minh,hinh_thuc_xac_minh,nguoi_dong_vay,thu_nhap_nguoi_dong_vay_xac_minh
+HSCN00001,KH000127,2026-12-24,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,30000000.0,,60,17.39,9300000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00002,KH000201,2026-12-17,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,225000000.0,,12,14.56,25800000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00003,KH000264,2026-11-25,Vay mua nhà,Mua căn hộ chung cư,710000000.0,,240,8.72,19500000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00004,KH000311,2026-12-08,Vay tiêu dùng tín chấp,Chi phí học tập,30000000.0,,24,13.28,6600000.0,6000000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00005,KH000456,2026-11-27,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,60000000.0,,24,13.47,14300000.0,0.0,Chưa xác minh,Không,0.0
+HSCN00006,KH000522,2026-11-16,Vay tiêu dùng tín chấp,Sửa chữa nhà,35000000.0,,24,15.42,66200000.0,39300000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00007,KH000526,2026-12-14,Vay tiêu dùng tín chấp,Chi phí học tập,85000000.0,,24,18.33,8200000.0,7200000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00008,KH000721,2026-11-26,Vay cầm cố sổ tiết kiệm,Bổ sung vốn kinh doanh ngắn hạn,10000000.0,,6,6.19,8200000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00009,KH000732,2026-11-20,Vay tiêu dùng tín chấp,Sửa chữa nhà,45000000.0,,48,18.26,17700000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00010,KH000857,2026-12-10,Vay tiêu dùng tín chấp,Gửi tiết kiệm tại tổ chức tín dụng,10000000.0,,24,15.78,5700000.0,5200000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00011,KH001154,2026-12-18,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,55000000.0,,60,19.15,39600000.0,28900000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00012,KH001189,2026-11-18,Vay tiêu dùng tín chấp,Chi phí học tập,60000000.0,,60,19.71,13900000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00013,KH001217,2026-11-24,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,45000000.0,,12,17.66,7100000.0,7000000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00014,KH001223,2026-12-21,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,395000000.0,,72,11.8,20800000.0,18300000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00015,KH001294,2026-11-30,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,75000000.0,,60,13.38,14800000.0,0.0,Lương hưu qua FTA,Không,0.0
+HSCN00016,KH001368,2026-11-18,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,385000000.0,,84,10.1,19300000.0,7200000.0,Lương qua FTA và sao kê ngân hàng khác,Không,0.0
+HSCN00017,KH001413,2026-12-24,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,500000000.0,,72,11.85,94600000.0,69200000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00018,KH001533,2026-11-30,Vay sản xuất kinh doanh,Bổ sung vốn kinh doanh hộ gia đình,110000000.0,160000000.0,12,10.46,36800000.0,32200000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00019,KH001542,2026-12-14,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,1015000000.0,,72,9.63,64300000.0,57800000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00020,KH001599,2026-12-07,Vay tiêu dùng tín chấp,Chi phí học tập,80000000.0,,36,18.82,9100000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00021,KH001744,2026-12-15,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,50000000.0,,36,13.67,10300000.0,7100000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00022,KH001766,2026-11-19,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,10000000.0,,24,19.36,9700000.0,8300000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00023,KH001784,2026-12-17,Vay mua nhà,Mua nhà ở riêng lẻ,1560000000.0,,180,10.73,26300000.0,0.0,Lương qua FTA,Có,22100000.0
+HSCN00024,KH001843,2026-12-24,Vay sản xuất kinh doanh,Bổ sung vốn kinh doanh hộ gia đình,50000000.0,60000000.0,6,9.84,8500000.0,8400000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00025,KH001883,2026-12-18,Vay tiêu dùng tín chấp,Chi phí học tập,85000000.0,,60,19.17,8600000.0,0.0,Chưa xác minh,Không,0.0
+HSCN00026,KH001976,2026-12-11,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,20000000.0,,60,15.79,20400000.0,10900000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00027,KH002106,2026-12-07,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,75000000.0,,60,19.28,10900000.0,10300000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00028,KH002149,2026-12-25,Vay sản xuất kinh doanh,Bổ sung vốn kinh doanh hộ gia đình,190000000.0,230000000.0,24,10.16,48400000.0,29700000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00029,KH002313,2026-11-23,Vay tiêu dùng tín chấp,Sửa chữa nhà,10000000.0,,24,15.7,11100000.0,10700000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00030,KH002409,2026-12-11,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,,36,16.46,15200000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00031,KH002439,2026-12-09,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,1055000000.0,,60,8.34,18400000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00032,KH002610,2026-12-03,Vay mua nhà,Mua căn hộ chung cư,1790000000.0,,300,10.99,29400000.0,7700000.0,Lương qua FTA và sao kê ngân hàng khác,Có,18700000.0
+HSCN00033,KH002704,2026-11-23,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,,60,13.46,18000000.0,16200000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00034,KH002800,2026-11-16,Vay tiêu dùng tín chấp,Gửi tiết kiệm tại tổ chức tín dụng,650000000.0,,48,14.12,48700000.0,32400000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00035,KH002992,2026-11-20,Vay mua nhà,Nhận chuyển nhượng quyền sử dụng đất ở,650000000.0,,240,9.51,14900000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00036,KH003013,2026-12-14,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,10000000.0,,36,18.45,3700000.0,0.0,Lương hưu qua FTA,Không,0.0
+HSCN00037,KH003161,2026-12-15,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,115000000.0,,60,15.43,20600000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00038,KH003220,2026-11-24,Vay tiêu dùng tín chấp,Sửa chữa nhà,160000000.0,,60,17.1,11700000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00039,KH003240,2026-12-21,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,15000000.0,,36,15.73,16100000.0,13700000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00040,KH003259,2026-11-18,Vay sản xuất kinh doanh,Mua hàng hóa kinh doanh,220000000.0,290000000.0,12,8.83,28400000.0,23200000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00041,KH003311,2026-11-23,Vay sản xuất kinh doanh,Mua hàng hóa kinh doanh,320000000.0,630000000.0,12,9.9,61600000.0,51700000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00042,KH003347,2026-11-26,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,450000000.0,,60,9.28,28700000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00043,KH003509,2026-11-24,Vay mua nhà,Mua căn hộ chung cư,1430000000.0,,180,8.58,27100000.0,16200000.0,"Giấy tờ kinh doanh, sổ sách thuế",Có,19300000.0
+HSCN00044,KH003583,2026-12-21,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,360000000.0,,36,8.1,19800000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00045,KH003672,2026-11-20,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,,48,15.95,9100000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00046,KH003690,2026-11-26,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,45000000.0,,12,14.94,14400000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00047,KH003743,2026-11-30,Vay tiêu dùng tín chấp,Sửa chữa nhà,20000000.0,,24,18.01,6600000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00048,KH003780,2026-11-24,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,15000000.0,,24,17.54,13700000.0,8100000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00049,KH003785,2026-11-30,Vay tiêu dùng tín chấp,Chi phí học tập,50000000.0,,36,18.65,14600000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00050,KH003862,2026-12-14,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,80000000.0,,60,13.67,16600000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00051,KH003934,2026-12-07,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,,24,16.75,8700000.0,5500000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00052,KH004164,2026-11-23,Vay mua nhà,Nhận chuyển nhượng quyền sử dụng đất ở,520000000.0,,120,9.19,13000000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00053,KH004224,2026-12-17,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,,24,16.21,11400000.0,9600000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00054,KH004236,2026-12-21,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,10000000.0,,36,14.74,11100000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00055,KH004264,2026-12-28,Vay cầm cố sổ tiết kiệm,Nhu cầu tiêu dùng ngắn hạn,33000000.0,,6,8.7,14400000.0,12800000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00056,KH004306,2026-11-23,Vay tiêu dùng tín chấp,Sửa chữa nhà,40000000.0,,60,15.75,6700000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00057,KH004600,2026-12-21,Vay mua nhà,Mua nhà ở riêng lẻ,910000000.0,,300,8.69,18500000.0,17800000.0,Sao kê ngân hàng khác,Có,12800000.0
+HSCN00058,KH004840,2026-12-02,Vay tiêu dùng tín chấp,Sửa chữa nhà,200000000.0,,60,17.48,15200000.0,7800000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00059,KH004874,2026-11-23,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,675000000.0,,72,9.52,98100000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00060,KH004920,2026-11-19,Vay tiêu dùng tín chấp,Sửa chữa nhà,20000000.0,,60,16.08,12100000.0,11800000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00061,KH005208,2026-11-16,Vay tiêu dùng tín chấp,Sửa chữa nhà,235000000.0,,60,19.19,42800000.0,40000000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00062,KH005214,2026-11-16,Vay tiêu dùng tín chấp,Chi phí học tập,25000000.0,,48,19.68,20700000.0,2600000.0,Lương qua FTA và sao kê ngân hàng khác,Không,0.0
+HSCN00063,KH005221,2026-11-27,Vay sản xuất kinh doanh,Mua hàng hóa kinh doanh,270000000.0,300000000.0,24,8.3,10300000.0,9800000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00064,KH005301,2026-11-27,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,,24,18.84,30400000.0,3700000.0,Lương qua FTA và sao kê ngân hàng khác,Không,0.0
+HSCN00065,KH005400,2026-11-26,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,125000000.0,,48,18.97,16200000.0,8400000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00066,KH005465,2026-12-07,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,165000000.0,,36,17.2,27000000.0,6700000.0,Lương qua FTA và sao kê ngân hàng khác,Không,0.0
+HSCN00067,KH005486,2026-11-24,Vay tiêu dùng tín chấp,Sửa chữa nhà,190000000.0,,60,15.06,15400000.0,0.0,Lương hưu qua FTA,Không,0.0
+HSCN00068,KH005661,2026-12-21,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,55000000.0,,24,14.25,46900000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00069,KH005779,2026-11-26,Vay tiêu dùng tín chấp,Sửa chữa nhà,25000000.0,,60,15.55,23900000.0,15500000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00070,KH005863,2026-11-19,Vay cầm cố sổ tiết kiệm,Nhu cầu tiêu dùng ngắn hạn,12000000.0,,6,8.32,6300000.0,5900000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00071,KH006018,2026-12-14,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,210000000.0,,60,16.18,9000000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00072,KH006062,2026-12-01,Vay mua nhà,Nhận chuyển nhượng quyền sử dụng đất ở,640000000.0,,180,9.77,15000000.0,13300000.0,Sao kê ngân hàng khác,Có,12400000.0
+HSCN00073,KH006071,2026-12-04,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,65000000.0,,36,18.47,9600000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00074,KH006133,2026-11-20,Vay cầm cố sổ tiết kiệm,Bổ sung vốn kinh doanh ngắn hạn,21000000.0,,6,8.32,38500000.0,34400000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00075,KH006202,2026-12-01,Vay mua nhà,Mua nhà ở riêng lẻ,870000000.0,,300,10.51,50100000.0,9100000.0,Lương qua FTA và sao kê ngân hàng khác,Có,22400000.0
+HSCN00076,KH006271,2026-11-27,Vay sản xuất kinh doanh,Bổ sung vốn kinh doanh hộ gia đình,110000000.0,120000000.0,12,9.99,11600000.0,11000000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00077,KH006350,2026-12-28,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,80000000.0,,36,18.0,9300000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00078,KH006351,2026-12-03,Vay tiêu dùng tín chấp,Chi phí học tập,60000000.0,,60,13.48,28100000.0,17200000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00079,KH006355,2026-12-11,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,25000000.0,,36,16.74,10600000.0,0.0,Chưa xác minh,Không,0.0
+HSCN00080,KH006415,2026-12-18,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,100000000.0,,60,13.2,8400000.0,7000000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00081,KH006611,2026-12-09,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,170000000.0,,48,14.24,21400000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00082,KH006624,2026-11-16,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,225000000.0,,60,16.15,16800000.0,14700000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00083,KH006725,2026-12-25,Vay tiêu dùng tín chấp,Sửa chữa nhà,395000000.0,,48,13.51,14900000.0,8100000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00084,KH006823,2026-12-24,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,,36,15.75,17300000.0,14200000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00085,KH006939,2026-12-04,Vay tiêu dùng tín chấp,Chi phí học tập,30000000.0,,36,18.34,17400000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00086,KH006961,2026-11-26,Vay tiêu dùng tín chấp,Chi phí học tập,10000000.0,,24,15.51,7300000.0,7000000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00087,KH007059,2026-12-28,Vay tiêu dùng tín chấp,Chi phí học tập,170000000.0,,36,17.48,29900000.0,26400000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00088,KH007071,2026-12-28,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,,36,18.71,24400000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00089,KH007114,2026-11-20,Vay tiêu dùng tín chấp,Chi phí học tập,20000000.0,,60,18.41,7200000.0,0.0,Chưa xác minh,Không,0.0
+HSCN00090,KH007267,2026-11-23,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,135000000.0,,24,14.42,33200000.0,27900000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00091,KH007326,2026-12-28,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,305000000.0,,36,14.05,12400000.0,9100000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00092,KH007336,2026-12-21,Vay tiêu dùng tín chấp,Chi phí học tập,30000000.0,,60,17.42,19300000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00093,KH007465,2026-11-30,Vay tiêu dùng tín chấp,Sửa chữa nhà,95000000.0,,60,13.05,19600000.0,8600000.0,Lương qua FTA và sao kê ngân hàng khác,Không,0.0
+HSCN00094,KH007710,2026-11-18,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,20000000.0,,48,13.13,11900000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00095,KH007779,2026-12-10,Vay sản xuất kinh doanh,Bổ sung vốn kinh doanh hộ gia đình,170000000.0,220000000.0,24,9.98,8700000.0,7200000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00096,KH007972,2026-12-21,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,135000000.0,,36,14.47,24700000.0,13200000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00097,KH008011,2026-12-07,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,55000000.0,,36,15.03,11900000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00098,KH008084,2026-12-07,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,100000000.0,,60,13.97,11800000.0,11300000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00099,KH008179,2026-12-08,Vay cầm cố sổ tiết kiệm,Bổ sung vốn kinh doanh ngắn hạn,12000000.0,,3,7.85,12000000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00100,KH008285,2026-12-17,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,45000000.0,,60,19.32,3400000.0,3300000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00101,KH008305,2026-12-17,Vay mua nhà,Mua nhà ở riêng lẻ,710000000.0,,300,10.9,20400000.0,7700000.0,Lương qua FTA và sao kê ngân hàng khác,Có,12900000.0
+HSCN00102,KH008371,2026-12-14,Vay mua nhà,Mua căn hộ chung cư,620000000.0,,300,9.34,18200000.0,13600000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00103,KH008457,2026-12-28,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,235000000.0,,60,13.06,15500000.0,13900000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00104,KH008459,2026-12-14,Vay tiêu dùng tín chấp,Mua sắm đồ dùng gia đình,55000000.0,,60,19.66,13600000.0,8200000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00105,KH008526,2026-12-23,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,35000000.0,,12,19.28,9500000.0,8600000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00106,KH008707,2026-12-10,Vay sản xuất kinh doanh,Mua máy móc phục vụ sản xuất,140000000.0,160000000.0,12,8.59,21900000.0,18400000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00107,KH008759,2026-12-17,Vay tiêu dùng tín chấp,Sửa chữa nhà,10000000.0,,36,17.81,13100000.0,7500000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00108,KH008829,2026-12-07,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,205000000.0,,60,17.33,14100000.0,12300000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00109,KH009012,2026-12-03,Vay mua ô tô,Mua ô tô mới phục vụ đi lại,610000000.0,,48,9.6,33000000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00110,KH009031,2026-12-09,Vay tiêu dùng tín chấp,Chi phí học tập,165000000.0,,60,13.16,11600000.0,9600000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00111,KH009353,2026-12-14,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,55000000.0,,36,17.0,15100000.0,12200000.0,Sao kê ngân hàng khác,Không,0.0
+HSCN00112,KH009395,2026-12-17,Vay tiêu dùng tín chấp,Chi phí học tập,100000000.0,,60,16.49,19600000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00113,KH009427,2026-12-22,Vay cầm cố sổ tiết kiệm,Nhu cầu tiêu dùng ngắn hạn,10000000.0,,3,7.83,14500000.0,13200000.0,"Giấy tờ kinh doanh, sổ sách thuế",Không,0.0
+HSCN00114,KH009585,2026-12-18,Vay tiêu dùng tín chấp,Chi phí khám chữa bệnh,25000000.0,,60,14.28,14300000.0,0.0,Lương qua FTA,Không,0.0
+HSCN00115,KH009879,2026-11-20,Vay tiêu dùng tín chấp,Chi phí học tập,150000000.0,,36,16.98,16400000.0,15100000.0,Sao kê ngân hàng khác,Không,0.0
