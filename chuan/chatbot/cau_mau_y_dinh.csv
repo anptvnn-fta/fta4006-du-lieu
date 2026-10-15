@@ -1,0 +1,132 @@
+cau,y_dinh
+xin chào,chao_hoi
+chào em,chao_hoi
+chào ngân hàng FTA,chao_hoi
+em ơi cho anh hỏi,chao_hoi
+bạn có thể giúp gì cho tôi,chao_hoi
+trợ lý làm được những việc gì,chao_hoi
+hello,chao_hoi
+chao ban,chao_hoi
+tôi cần hỗ trợ,chao_hoi
+cảm ơn em,chao_hoi
+số dư tài khoản của tôi là bao nhiêu,so_du
+tài khoản tôi còn bao nhiêu tiền,so_du
+kiểm tra số dư,so_du
+cho tôi xem số dư tài khoản thanh toán,so_du
+tôi còn bao nhiêu tiền trong tài khoản,so_du
+so du tai khoan,so_du
+số dư hiện tại,so_du
+trong tài khoản còn tiền không,so_du
+xem số tiền còn lại trong tài khoản,so_du
+tài khoản thanh toán còn bao nhiêu,so_du
+sổ tiết kiệm của tôi bao giờ đến hạn,tiet_kiem
+tôi có mấy sổ tiết kiệm,tiet_kiem
+tiền gửi tiết kiệm của tôi,tiet_kiem
+lãi suất sổ tiết kiệm của tôi là bao nhiêu,tiet_kiem
+ngày đáo hạn sổ tiết kiệm,tiet_kiem
+so tiet kiem cua toi,tiet_kiem
+xem các khoản tiền gửi có kỳ hạn,tiet_kiem
+sổ tiết kiệm có tự động tái tục không,tiet_kiem
+tôi gửi tiết kiệm bao nhiêu tiền,tiet_kiem
+kỳ hạn gửi tiết kiệm của tôi,tiet_kiem
+khoản vay của tôi còn nợ bao nhiêu,khoan_vay
+dư nợ vay hiện tại,khoan_vay
+tháng này tôi phải trả bao nhiêu tiền vay,khoan_vay
+kỳ trả nợ tiếp theo là ngày nào,khoan_vay
+tôi đang vay bao nhiêu,khoan_vay
+du no khoan vay,khoan_vay
+số tiền trả góp hằng tháng,khoan_vay
+hợp đồng vay của tôi,khoan_vay
+còn bao nhiêu kỳ trả nợ,khoan_vay
+khoản vay mua xe của tôi,khoan_vay
+hồ sơ vay của tôi đến đâu rồi,ho_so_vay
+đơn đề nghị vay đã được duyệt chưa,ho_so_vay
+tình trạng hồ sơ vay,ho_so_vay
+khi nào có kết quả hồ sơ vay,ho_so_vay
+tôi nộp hồ sơ vay tuần trước giờ thế nào,ho_so_vay
+ho so vay da duyet chua,ho_so_vay
+hồ sơ xin vay của tôi có được cấp không,ho_so_vay
+kiểm tra đề nghị vay vốn,ho_so_vay
+bao giờ tôi được giải ngân,ho_so_vay
+hồ sơ vay mua nhà đang xử lý ra sao,ho_so_vay
+giao dịch gần nhất của tôi,giao_dich
+xem lịch sử giao dịch,giao_dich
+mấy giao dịch cuối cùng trên tài khoản,giao_dich
+sao kê tài khoản tháng này,giao_dich
+tôi vừa chuyển khoản đã thành công chưa,giao_dich
+lich su giao dich,giao_dich
+các khoản chi gần đây,giao_dich
+tiền lương đã về tài khoản chưa,giao_dich
+xem giao dịch tuần này,giao_dich
+in sao kê giúp tôi,giao_dich
+tôi bị mất thẻ,chuyen_chuyen_vien
+khóa thẻ giúp tôi,chuyen_chuyen_vien
+tôi muốn khiếu nại,chuyen_chuyen_vien
+tài khoản bị trừ tiền không rõ lý do,chuyen_chuyen_vien
+tôi bị lừa chuyển tiền,chuyen_chuyen_vien
+muốn gặp nhân viên tư vấn,chuyen_chuyen_vien
+tra soát giao dịch bị lỗi,chuyen_chuyen_vien
+mat the roi,chuyen_chuyen_vien
+tôi muốn đổi số điện thoại đăng ký,chuyen_chuyen_vien
+cho tôi nói chuyện với người thật,chuyen_chuyen_vien
+chuyển tiền nhầm người nhận,chuyen_chuyen_vien
+bao nhiêu khách hàng ở từng nhóm hành vi,thong_ke_nhom
+thống kê khách hàng theo nhóm,thong_ke_nhom
+chi nhánh Quận 1 có bao nhiêu khách đang xa dần,thong_ke_nhom
+đếm khách hàng ưu tiên theo chi nhánh,thong_ke_nhom
+cơ cấu khách hàng theo nhóm doanh số,thong_ke_nhom
+thong ke nhom khach hang,thong_ke_nhom
+có bao nhiêu khách hàng mới mở quan hệ,thong_ke_nhom
+số khách hàng giao dịch nhiều ở mỗi chi nhánh,thong_ke_nhom
+phân bố khách hàng của chi nhánh Cầu Giấy,thong_ke_nhom
+nhóm khách hàng nào đông nhất,thong_ke_nhom
+soạn tin nhắn cho nhóm đang xa dần,soan_tin
+viết nội dung tiếp thị cho khách hàng mới mở quan hệ,soan_tin
+gợi ý tin nhắn mời khách dùng Mobile Banking,soan_tin
+soan tin nhan cho khach quay truyen thong,soan_tin
+viết email chăm sóc khách hàng ưu tiên,soan_tin
+lên nội dung chương trình khuyến mại cho nhóm giao dịch nhiều,soan_tin
+soạn thông điệp giữ chân khách hàng,soan_tin
+viết tin nhắn chúc mừng khách hàng,soan_tin
+đề xuất nội dung chiến dịch cho nhóm dùng theo đợt,soan_tin
+nháp tin nhắn giới thiệu sản phẩm tiết kiệm,soan_tin
+tra cứu hồ sơ HSCN00043,tra_cuu_ho_so
+hạn mức đề xuất của khách KH003862,tra_cuu_ho_so
+vì sao hồ sơ này bị chặn hạn mức,tra_cuu_ho_so
+hồ sơ HSCN00018 hạng gì,tra_cuu_ho_so
+giải trình hạn mức của hồ sơ,tra_cuu_ho_so
+tra cuu ho so vay khach hang,tra_cuu_ho_so
+điểm tín dụng của khách hàng này,tra_cuu_ho_so
+lý do hồ sơ dừng ở thẩm định sơ bộ,tra_cuu_ho_so
+kết quả chấm điểm hồ sơ cá nhân,tra_cuu_ho_so
+hồ sơ của khách KH001533 được bao nhiêu,tra_cuu_ho_so
+tra cứu doanh nghiệp DN00789,tra_cuu_dn
+hạn mức đề xuất của doanh nghiệp,tra_cuu_dn
+doanh nghiệp DN00521 xếp hạng gì,tra_cuu_dn
+hồ sơ doanh nghiệp này có phải trình hội sở không,tra_cuu_dn
+nhu cầu vốn lưu động của công ty,tra_cuu_dn
+tra cuu doanh nghiep,tra_cuu_dn
+điểm tài chính của doanh nghiệp,tra_cuu_dn
+vì sao doanh nghiệp bị chặn bởi tài sản bảo đảm,tra_cuu_dn
+công ty này có trong danh sách cảnh báo không,tra_cuu_dn
+quy mô và ngành của doanh nghiệp,tra_cuu_dn
+có bao nhiêu hồ sơ bị chặn bởi trần DTI,danh_sach_ho_so
+thống kê hồ sơ vay theo lý do,danh_sach_ho_so
+bao nhiêu hồ sơ dừng ở thẩm định sơ bộ,danh_sach_ho_so
+liệt kê các lý do hạn mức,danh_sach_ho_so
+tổng hạn mức đề xuất của chi nhánh,danh_sach_ho_so
+danh sach ho so vay,danh_sach_ho_so
+bao nhiêu doanh nghiệp phải trình hội sở,danh_sach_ho_so
+số hồ sơ được đề xuất hạn mức,danh_sach_ho_so
+hồ sơ hạng CCC trở xuống có bao nhiêu,danh_sach_ho_so
+tổng hợp kết quả đề xuất hạn mức,danh_sach_ho_so
+giá vàng hôm nay bao nhiêu,ngoai_pham_vi
+thời tiết ngày mai thế nào,ngoai_pham_vi
+nên mua cổ phiếu nào,ngoai_pham_vi
+tỷ giá đô la chợ đen,ngoai_pham_vi
+kể chuyện cười đi,ngoai_pham_vi
+đội bóng nào vô địch,ngoai_pham_vi
+có nên đầu tư tiền ảo không,ngoai_pham_vi
+gia vang hom nay,ngoai_pham_vi
+viết bài văn tả cảnh mùa thu,ngoai_pham_vi
+công thức nấu phở bò,ngoai_pham_vi
